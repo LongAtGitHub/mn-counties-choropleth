@@ -1,0 +1,114 @@
+
+---
+title: "Choropleth Map for Minnesota Counties Population in 2010"
+author: "Long Truong"
+output:
+  html_document
+    
+---
+
+
+
+
+## Load packages
+```{r, message=FALSE}
+library(ggplot2)
+library(sf)
+library(dplyr)
+library(tidylog)
+library(ggiraph)
+```
+## Data Wrangling
+
+Read MN counties data downloaded from [Minnesota Geospatial Commons](https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota): Download Shapefile. The page was found via a Google search using the term `Minnesota Shapefile`. 
+```{r, message=FALSE}
+mn <- read_sf("./mn_shapefile_2/", "mn_county_boundaries_500")
+head(mn)
+```
+
+
+Load additional Minnesota population data in year 2010.
+Source: https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/pop-finder1.jsp
+
+```{r, message=FALSE}
+mn_clean <- read.csv("mn_county_bigdata.csv")
+mn_clean <- mn_clean %>% 
+  filter(Year==2010 & Geography.Type=="County")
+head(mn_clean)
+```
+
+
+```{r, message=FALSE}
+# Add Households and Persons Per Household variables to the main data table
+mn <- mn %>% left_join(mn_clean, by = c("CTY_NAME" = "Geography.Name"))
+```
+
+
+
+
+```{r, message=FALSE}
+# Define the breakpoints for the categories for population
+breakpoints <- c(0, 5000, 10000, 50000, 100000, Inf)
+
+
+# Convert to integer
+mn$Pop_int <- gsub(",", "", mn$Population) %>%
+  as.integer()
+
+# Create categories
+mn$pop_category <- cut(mn$Pop_int, breaks = breakpoints, labels = c("very small", "small", "medium", "large", "very large"), include.lowest = TRUE)
+
+```
+
+```{r, message=FALSE}
+# combine multiple variables into a character string to display on the plotly map
+# (one per county)
+mn <- mn %>%
+  mutate(info = paste(
+    "Name: ", CTY_NAME,
+    "\nPopulation Category: ", pop_category,
+    "\nPopulation: ", Population,
+    "\nHouseholds: ", Households,
+    "\nPersons Per Household: ", Persons.Per.Household..PPH.
+  ))
+```
+
+
+Raw Plot using ggplot
+
+
+```{r, fig.alt="Choropleth map showing Minnesota counties by population in 2010" }
+plot <- ggplot(mn, aes(fill = pop_category)) +
+  geom_sf(colour = "white") +
+    geom_sf_interactive(aes(geometry = geometry,
+        tooltip = info)) +
+  scale_fill_manual(
+    values = c(
+      "very small" = "#eff3ff",
+      "small" = "#bdd7e7",
+      "medium" = "#6baed6",
+      "large" = "#3182bd",
+      "very large" = "#08519c") ) +
+  labs(title = "Minnesota counties by population category in 2010") +
+  theme(legend.position = "right")
+
+plot
+```
+
+## Final Product
+
+```{r,fig.alt="Interactive choropleth map showing Minnesota counties by population in 2010"}
+final <- ggiraph(code = print(plot))  
+final
+```
+
+
+
+## Resource used
+
+[GGiraph Interactive Map Documents](http://davidgohel.github.io/ggiraph/) 
+\
+[Minnesota Geospatial Commons](https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota)
+\
+[Additional Minnesota Population data](https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/pop-finder1.jsp) \
+

@@ -1,0 +1,3334 @@
+Geography Type,Geography Name,Year, Population , Households ,Persons Per Household (PPH)
+EDR,01 (Northwest),2022,"  85,198 ","  35,073 ",2.37
+EDR,02 (Headwaters),2022,"  87,975 ","  34,713 ",2.46
+EDR,03 (Arrowhead),2022,"  329,598 ","  140,670 ",2.25
+EDR,04 (West Central),2022,"  241,633 ","  97,706 ",2.40
+EDR,05 (North Central),2022,"  174,159 ","  71,684 ",2.39
+EDR,06E (Southwest Central),2022,"  121,470 ","  48,073 ",2.48
+EDR,06W (Upper MN Valley),2022,"  43,954 ","  18,411 ",2.32
+EDR,07E (East Central),2022,"  175,945 ","  67,384 ",2.55
+EDR,07W (Central),2022,"  455,182 ","  166,400 ",2.66
+EDR,08 (Southwest),2022,"  118,008 ","  47,094 ",2.45
+EDR,09 (South Central),2022,"  241,783 ","  95,883 ",2.41
+EDR,10 (Southeast),2022,"  529,633 ","  208,164 ",2.46
+EDR,11 (7 County Twin Cities),2022,"  3,197,231 ","  1,268,485 ",2.47
+State,Minnesota,2022,"  5,801,769 ","  2,299,740 ",2.46
+County,Aitkin,2022,"  16,614 ","  7,517 ",2.17
+County,Anoka,2022,"  368,280 ","  136,706 ",2.67
+County,Becker,2022,"  35,738 ","  14,521 ",2.43
+County,Beltrami,2022,"  47,522 ","  18,120 ",2.51
+County,Benton,2022,"  40,164 ","  16,214 ",2.43
+County,Big Stone,2022,"  5,315 ","  2,263 ",2.25
+County,Blue Earth,2022,"  71,053 ","  27,726 ",2.41
+County,Brown,2022,"  25,756 ","  10,895 ",2.26
+County,Carlton,2022,"  37,389 ","  14,122 ",2.49
+County,Carver,2022,"  110,136 ","  40,373 ",2.70
+County,Cass,2022,"  30,821 ","  13,040 ",2.34
+County,Chippewa,2022,"  12,751 ","  5,149 ",2.40
+County,Chisago,2022,"  59,055 ","  21,621 ",2.66
+County,Clay,2022,"  67,814 ","  25,564 ",2.53
+County,Clearwater,2022,"  8,721 ","  3,558 ",2.42
+County,Cook,2022,"  5,629 ","  2,753 ",2.03
+County,Cottonwood,2022,"  11,915 ","  4,756 ",2.43
+County,Crow Wing,2022,"  69,276 ","  28,938 ",2.35
+County,Dakota,2022,"  444,985 ","  171,512 ",2.57
+County,Dodge,2022,"  21,342 ","  8,018 ",2.65
+County,Douglas,2022,"  40,625 ","  17,064 ",2.33
+County,Faribault,2022,"  13,681 ","  6,035 ",2.24
+County,Fillmore,2022,"  21,605 ","  8,722 ",2.43
+County,Freeborn,2022,"  30,904 ","  13,043 ",2.33
+County,Goodhue,2022,"  48,910 ","  19,864 ",2.42
+County,Grant,2022,"  6,173 ","  2,570 ",2.37
+County,Hennepin,2022,"  1,293,651 ","  541,556 ",2.33
+County,Houston,2022,"  19,253 ","  8,088 ",2.35
+County,Hubbard,2022,"  22,431 ","  9,241 ",2.40
+County,Isanti,2022,"  42,807 ","  16,251 ",2.61
+County,Itasca,2022,"  45,584 ","  19,211 ",2.33
+County,Jackson,2022,"  10,067 ","  4,304 ",2.31
+County,Kanabec,2022,"  16,329 ","  6,684 ",2.40
+County,Kandiyohi,2022,"  45,232 ","  17,398 ",2.54
+County,Kittson,2022,"  4,300 ","  1,857 ",2.26
+County,Koochiching,2022,"  12,163 ","  5,583 ",2.14
+County,Lac qui Parle,2022,"  6,675 ","  2,938 ",2.23
+County,Lake,2022,"  11,303 ","  4,952 ",2.24
+County,Lake of the Woods,2022,"  3,901 ","  1,799 ",2.15
+County,Le Sueur,2022,"  29,518 ","  11,555 ",2.53
+County,Lincoln,2022,"  5,511 ","  2,413 ",2.23
+County,Lyon,2022,"  25,379 ","  10,158 ",2.43
+County,McLeod,2022,"  37,607 ","  15,169 ",2.44
+County,Mahnomen,2022,"  5,400 ","  1,995 ",2.68
+County,Marshall,2022,"  9,221 ","  3,842 ",2.38
+County,Martin,2022,"  20,153 ","  8,687 ",2.29
+County,Meeker,2022,"  23,910 ","  9,388 ",2.50
+County,Mille Lacs,2022,"  27,483 ","  10,964 ",2.47
+County,Morrison,2022,"  34,326 ","  13,804 ",2.45
+County,Mower,2022,"  40,605 ","  15,840 ",2.52
+County,Murray,2022,"  8,243 ","  3,569 ",2.29
+County,Nicollet,2022,"  35,826 ","  13,003 ",2.51
+County,Nobles,2022,"  22,473 ","  7,828 ",2.80
+County,Norman,2022,"  6,527 ","  2,740 ",2.35
+County,Olmsted,2022,"  168,055 ","  66,528 ",2.48
+County,Otter Tail,2022,"  60,555 ","  25,314 ",2.34
+County,Pennington,2022,"  14,266 ","  6,115 ",2.29
+County,Pine,2022,"  30,271 ","  11,864 ",2.42
+County,Pipestone,2022,"  9,219 ","  3,891 ",2.33
+County,Polk,2022,"  31,192 ","  12,440 ",2.41
+County,Pope,2022,"  11,654 ","  4,956 ",2.32
+County,Ramsey,2022,"  551,195 ","  220,901 ",2.42
+County,Red Lake,2022,"  3,998 ","  1,662 ",2.39
+County,Redwood,2022,"  15,348 ","  6,280 ",2.40
+County,Renville,2022,"  14,721 ","  6,118 ",2.36
+County,Rice,2022,"  68,525 ","  23,794 ",2.58
+County,Rock,2022,"  9,853 ","  3,895 ",2.47
+County,Roseau,2022,"  15,694 ","  6,417 ",2.42
+County,St. Louis,2022,"  200,916 ","  86,532 ",2.22
+County,Scott,2022,"  154,395 ","  54,295 ",2.82
+County,Sherburne,2022,"  102,275 ","  35,236 ",2.81
+County,Sibley,2022,"  15,307 ","  6,108 ",2.46
+County,Stearns,2022,"  162,016 ","  61,622 ",2.51
+County,Steele,2022,"  38,775 ","  15,097 ",2.53
+County,Stevens,2022,"  9,401 ","  3,634 ",2.40
+County,Swift,2022,"  10,054 ","  4,111 ",2.36
+County,Todd,2022,"  25,617 ","  10,028 ",2.52
+County,Traverse,2022,"  3,346 ","  1,421 ",2.27
+County,Wabasha,2022,"  21,895 ","  9,083 ",2.38
+County,Wadena,2022,"  14,119 ","  5,874 ",2.34
+County,Waseca,2022,"  19,236 ","  7,432 ",2.46
+County,Washington,2022,"  274,589 ","  103,142 ",2.63
+County,Watonwan,2022,"  11,253 ","  4,442 ",2.50
+County,Wilkin,2022,"  6,327 ","  2,662 ",2.34
+County,Winona,2022,"  49,764 ","  20,087 ",2.30
+County,Wright,2022,"  150,727 ","  53,328 ",2.81
+County,Yellow Medicine,2022,"  9,159 ","  3,950 ",2.29
+State,Minnesota,2021,"  5,742,036 ","  2,275,868 ",  2.47 
+EDR,01 (Northwest),2021,"  83,359 ","  34,737 ",  2.34 
+EDR,02 (Headwaters),2021,"  86,115 ","  34,304 ",  2.45 
+EDR,03 (Arrowhead),2021,"  324,874 ","  139,756 ",  2.24 
+EDR,04 (West Central),2021,"  237,136 ","  96,714 ",  2.39 
+EDR,05 (North Central),2021,"  172,056 ","  70,963 ",  2.39 
+EDR,06E (Southwest Central),2021,"  118,874 ","  47,612 ",  2.45 
+EDR,06W (Upper MN Valley),2021,"  43,687 ","  18,354 ",  2.31 
+EDR,07E (East Central),2021,"  171,381 ","  66,139 ",  2.54 
+EDR,07W (Central),2021,"  444,377 ","  163,922 ",  2.65 
+EDR,08 (Southwest),2021,"  116,927 ","  46,972 ",  2.44 
+EDR,09 (South Central),2021,"  237,502 ","  95,231 ",  2.39 
+EDR,10 (Southeast),2021,"  519,399 ","  206,360 ",  2.44 
+EDR,11 (7 County Twin Cities),2021,"  3,186,349 ","  1,254,804 ",  2.49 
+County,Aitkin,2021,"  16,002 ","  7,337 ",2.14
+County,Anoka,2021,"  366,888 ","  135,371 ",2.69
+County,Becker,2021,"  35,307 ","  14,413 ",2.42
+County,Beltrami,2021,"  46,358 ","  17,870 ",2.50
+County,Benton,2021,"  41,204 ","  16,397 ",2.47
+County,Big Stone,2021,"  5,233 ","  2,252 ",2.23
+County,Blue Earth,2021,"  69,264 ","  27,457 ",2.38
+County,Brown,2021,"  25,790 ","  10,916 ",2.26
+County,Carlton,2021,"  36,529 ","  13,995 ",2.46
+County,Carver,2021,"  108,891 ","  39,636 ",2.72
+County,Cass,2021,"  30,784 ","  12,914 ",2.36
+County,Chippewa,2021,"  12,498 ","  5,108 ",2.37
+County,Chisago,2021,"  57,291 ","  21,202 ",2.64
+County,Clay,2021,"  65,512 ","  25,154 ",2.49
+County,Clearwater,2021,"  8,616 ","  3,525 ",2.41
+County,Cook,2021,"  5,629 ","  2,723 ",2.05
+County,Cottonwood,2021,"  11,685 ","  4,742 ",2.39
+County,Crow Wing,2021,"  67,887 ","  28,627 ",2.33
+County,Dakota,2021,"  443,692 ","  170,008 ",2.59
+County,Dodge,2021,"  20,959 ","  7,939 ",2.62
+County,Douglas,2021,"  39,578 ","  16,807 ",2.31
+County,Faribault,2021,"  13,765 ","  6,018 ",2.26
+County,Fillmore,2021,"  21,405 ","  8,677 ",2.42
+County,Freeborn,2021,"  30,647 ","  12,982 ",2.32
+County,Goodhue,2021,"  47,819 ","  19,643 ",2.40
+County,Grant,2021,"  6,152 ","  2,570 ",2.36
+County,Hennepin,2021,"  1,289,645 ","  535,637 ",2.36
+County,Houston,2021,"  18,832 ","  8,009 ",2.32
+County,Hubbard,2021,"  21,909 ","  9,115 ",2.37
+County,Isanti,2021,"  41,878 ","  15,901 ",2.61
+County,Itasca,2021,"  45,193 ","  19,055 ",2.32
+County,Jackson,2021,"  9,998 ","  4,311 ",2.30
+County,Kanabec,2021,"  16,295 ","  6,640 ",2.41
+County,Kandiyohi,2021,"  43,809 ","  17,116 ",2.50
+County,Kittson,2021,"  4,157 ","  1,825 ",2.22
+County,Koochiching,2021,"  11,946 ","  5,550 ",2.12
+County,Lac qui Parle,2021,"  6,679 ","  2,935 ",2.23
+County,Lake,2021,"  11,016 ","  4,921 ",2.19
+County,Lake of the Woods,2021,"  3,828 ","  1,785 ",2.13
+County,Le Sueur,2021,"  28,945 ","  11,400 ",2.51
+County,Lincoln,2021,"  5,568 ","  2,420 ",2.25
+County,Lyon,2021,"  25,184 ","  10,114 ",2.43
+County,Mahnomen,2021,"  5,404 ","  2,009 ",2.66
+County,Marshall,2021,"  9,012 ","  3,836 ",2.33
+County,Martin,2021,"  19,896 ","  8,686 ",2.26
+County,McLeod,2021,"  36,958 ","  15,081 ",2.41
+County,Meeker,2021,"  23,499 ","  9,305 ",2.48
+County,Mille Lacs,2021,"  26,809 ","  10,730 ",2.46
+County,Morrison,2021,"  34,041 ","  13,701 ",2.45
+County,Mower,2021,"  40,356 ","  15,812 ",2.51
+County,Murray,2021,"  8,094 ","  3,543 ",2.26
+County,Nicollet,2021,"  34,706 ","  12,863 ",2.45
+County,Nobles,2021,"  22,145 ","  7,806 ",2.77
+County,Norman,2021,"  6,386 ","  2,711 ",2.32
+County,Olmsted,2021,"  164,196 ","  65,815 ",2.45
+County,Otter Tail,2021,"  60,194 ","  25,173 ",2.34
+County,Pennington,2021,"  13,757 ","  5,976 ",2.26
+County,Pine,2021,"  29,108 ","  11,666 ",2.39
+County,Pipestone,2021,"  9,278 ","  3,886 ",2.35
+County,Polk,2021,"  30,835 ","  12,412 ",2.39
+County,Pope,2021,"  11,396 ","  4,892 ",2.30
+County,Ramsey,2021,"  553,229 ","  219,666 ",2.44
+County,Red Lake,2021,"  3,944 ","  1,658 ",2.36
+County,Redwood,2021,"  15,313 ","  6,269 ",2.40
+County,Renville,2021,"  14,608 ","  6,110 ",2.34
+County,Rice,2021,"  66,964 ","  23,510 ",2.56
+County,Rock,2021,"  9,662 ","  3,881 ",2.43
+County,Roseau,2021,"  15,268 ","  6,319 ",2.39
+County,Scott,2021,"  153,199 ","  53,606 ",2.83
+County,Sherburne,2021,"  98,924 ","  34,773 ",2.79
+County,Sibley,2021,"  14,986 ","  6,048 ",2.43
+County,St. Louis,2021,"  198,559 ","  86,175 ",2.21
+County,Stearns,2021,"  159,301 ","  60,975 ",2.50
+County,Steele,2021,"  37,559 ","  14,935 ",2.48
+County,Stevens,2021,"  9,355 ","  3,627 ",2.43
+County,Swift,2021,"  9,972 ","  4,117 ",2.33
+County,Todd,2021,"  25,263 ","  9,899 ",2.52
+County,Traverse,2021,"  3,305 ","  1,418 ",2.25
+County,Wabasha,2021,"  21,645 ","  9,031 ",2.36
+County,Wadena,2021,"  14,081 ","  5,822 ",2.36
+County,Waseca,2021,"  18,985 ","  7,397 ",2.44
+County,Washington,2021,"  270,805 ","  100,880 ",2.65
+County,Watonwan,2021,"  11,165 ","  4,446 ",2.47
+County,Wilkin,2021,"  6,337 ","  2,660 ",2.35
+County,Winona,2021,"  49,017 ","  20,007 ",2.30
+County,Wright,2021,"  144,948 ","  51,777 ",2.78
+County,Yellow Medicine,2021,"  9,305 ","  3,942 ",2.33
+State,Minnesota,2020,"  5,706,494 ","  2,253,990 ",N/A
+EDR,01 (Northwest),2020,"  80,509 ","  33,197 ",N/A
+EDR,02 (Headwaters),2020,"  116,630 ","  46,799 ",N/A
+EDR,03 (Arrowhead),2020,"  325,716 ","  139,680 ",N/A
+EDR,04 (West Central),2020,"  236,507 ","  96,255 ",N/A
+EDR,05 (North Central),2020,"  169,526 ","  69,887 ",N/A
+EDR,06E (Southwest Central),2020,"  101,880 ","  41,243 ",N/A
+EDR,06W (Upper MN Valley),2020,"  43,849 ","  18,432 ",N/A
+EDR,07E (East Central),2020,"  169,123 ","  65,080 ",N/A
+EDR,07W (Central),2020,"  438,191 ","  161,471 ",N/A
+EDR,08 (Southwest),2020,"  117,437 ","  47,157 ",N/A
+EDR,09 (South Central),2020,"  226,170 ","  89,952 ",N/A
+EDR,10 (Southeast),2020,"  517,852 ","  205,311 ",N/A
+EDR,11 (7 County Twin Cities),2020,"  3,163,104 ","  1,239,526 ",N/A
+County,Aitkin,2020,"  15,697 ","  7,199 ",N/A
+County,Anoka,2020,"  363,887 ","  133,879 ",N/A
+County,Becker,2020,"  35,183 ","  14,371 ",N/A
+County,Beltrami,2020,"  46,228 ","  17,678 ",N/A
+County,Benton,2020,"  41,379 ","  16,479 ",N/A
+County,Big Stone,2020,"  5,166 ","  2,224 ",N/A
+County,Blue Earth,2020,"  69,112 ","  27,193 ",N/A
+County,Brown,2020,"  25,912 ","  10,970 ",N/A
+County,Carlton,2020,"  36,207 ","  13,789 ",N/A
+County,Carver,2020,"  106,922 ","  38,863 ",N/A
+County,Cass,2020,"  30,066 ","  12,614 ",N/A
+County,Chippewa,2020,"  12,598 ","  5,150 ",N/A
+County,Chisago,2020,"  56,621 ","  20,900 ",N/A
+County,Clay,2020,"  65,318 ","  24,931 ",N/A
+County,Clearwater,2020,"  8,524 ","  3,487 ",N/A
+County,Cook,2020,"  5,600 ","  2,711 ",N/A
+County,Cottonwood,2020,"  11,517 ","  4,671 ",N/A
+County,Crow Wing,2020,"  66,123 ","  27,872 ",N/A
+County,Dakota,2020,"  439,882 ","  168,008 ",N/A
+County,Dodge,2020,"  20,867 ","  7,903 ",N/A
+County,Douglas,2020,"  39,006 ","  16,557 ",N/A
+County,Faribault,2020,"  13,921 ","  6,086 ",N/A
+County,Fillmore,2020,"  21,228 ","  8,605 ",N/A
+County,Freeborn,2020,"  30,895 ","  13,076 ",N/A
+County,Goodhue,2020,"  47,582 ","  19,499 ",N/A
+County,Grant,2020,"  6,074 ","  2,540 ",N/A
+County,Hennepin,2020,"  1,281,565 ","  528,547 ",N/A
+County,Houston,2020,"  18,843 ","  8,013 ",N/A
+County,Hubbard,2020,"  21,344 ","  8,885 ",N/A
+County,Isanti,2020,"  41,135 ","  15,615 ",N/A
+County,Itasca,2020,"  45,014 ","  18,968 ",N/A
+County,Jackson,2020,"  9,989 ","  4,307 ",N/A
+County,Kanabec,2020,"  16,032 ","  6,530 ",N/A
+County,Kandiyohi,2020,"  43,732 ","  17,079 ",N/A
+County,Kittson,2020,"  4,207 ","  1,846 ",N/A
+County,Koochiching,2020,"  12,062 ","  5,604 ",N/A
+County,Lac qui Parle,2020,"  6,719 ","  2,954 ",N/A
+County,Lake,2020,"  10,905 ","  4,869 ",N/A
+County,Lake of the Woods,2020,"  3,763 ","  1,745 ",N/A
+County,Le Sueur,2020,"  28,674 ","  11,287 ",N/A
+County,Lincoln,2020,"  5,640 ","  2,452 ",N/A
+County,Lyon,2020,"  25,269 ","  10,137 ",N/A
+County,Mahnomen,2020,"  5,411 ","  2,014 ",N/A
+County,Marshall,2020,"  9,040 ","  3,836 ",N/A
+County,Martin,2020,"  20,025 ","  8,748 ",N/A
+County,McLeod,2020,"  36,771 ","  15,004 ",N/A
+County,Meeker,2020,"  23,400 ","  9,263 ",N/A
+County,Mille Lacs,2020,"  26,459 ","  10,593 ",N/A
+County,Morrison,2020,"  34,010 ","  13,688 ",N/A
+County,Mower,2020,"  40,029 ","  15,700 ",N/A
+County,Murray,2020,"  8,179 ","  3,581 ",N/A
+County,Nicollet,2020,"  34,454 ","  12,728 ",N/A
+County,Nobles,2020,"  22,290 ","  7,851 ",N/A
+County,Norman,2020,"  6,441 ","  2,733 ",N/A
+County,Olmsted,2020,"  162,847 ","  65,242 ",N/A
+County,Otter Tail,2020,"  60,081 ","  25,123 ",N/A
+County,Pennington,2020,"  13,992 ","  6,077 ",N/A
+County,Pine,2020,"  28,876 ","  11,442 ",N/A
+County,Pipestone,2020,"  9,424 ","  3,948 ",N/A
+County,Polk,2020,"  31,192 ","  12,534 ",N/A
+County,Pope,2020,"  11,308 ","  4,862 ",N/A
+County,Ramsey,2020,"  552,352 ","  218,077 ",N/A
+County,Red Lake,2020,"  3,935 ","  1,653 ",N/A
+County,Redwood,2020,"  15,425 ","  6,318 ",N/A
+County,Renville,2020,"  14,723 ","  6,153 ",N/A
+County,Rice,2020,"  67,097 ","  23,416 ",N/A
+County,Rock,2020,"  9,704 ","  3,892 ",N/A
+County,Roseau,2020,"  15,331 ","  6,340 ",N/A
+County,Scott,2020,"  150,928 ","  52,645 ",N/A
+County,Sherburne,2020,"  97,183 ","  34,035 ",N/A
+County,Sibley,2020,"  14,836 ","  5,989 ",N/A
+County,St. Louis,2020,"  200,231 ","  86,540 ",N/A
+County,Stearns,2020,"  158,292 ","  60,448 ",N/A
+County,Steele,2020,"  37,406 ","  14,823 ",N/A
+County,Stevens,2020,"  9,671 ","  3,697 ",N/A
+County,Swift,2020,"  9,838 ","  4,064 ",N/A
+County,Todd,2020,"  25,262 ","  9,898 ",N/A
+County,Traverse,2020,"  3,360 ","  1,439 ",N/A
+County,Wabasha,2020,"  21,387 ","  8,923 ",N/A
+County,Wadena,2020,"  14,065 ","  5,815 ",N/A
+County,Waseca,2020,"  18,968 ","  7,387 ",N/A
+County,Washington,2020,"  267,568 ","  99,507 ",N/A
+County,Watonwan,2020,"  11,253 ","  4,476 ",N/A
+County,Wilkin,2020,"  6,506 ","  2,735 ",N/A
+County,Winona,2020,"  49,671 ","  20,111 ",N/A
+County,Wright,2020,"  141,337 ","  50,509 ",N/A
+County,Yellow Medicine,2020,"  9,528 ","  4,040 ",N/A
+State,Minnesota,2019,"  5,680,337 ","  2,243,573 ",2.47
+EDR,01 (Northwest),2019,"  85,159 ","  35,690 ",2.33
+EDR,02 (Headwaters),2019,"  86,813 ","  34,712 ",2.43
+EDR,03 (Arrowhead),2019,"  325,193 ","  140,480 ",2.23
+EDR,04 (West Central),2019,"  232,451 ","  96,619 ",2.34
+EDR,05 (North Central),2019,"  166,805 ","  69,343 ",2.37
+EDR,06E (Southwest Central),2019,"  117,000 ","  47,624 ",2.41
+EDR,06W (Upper MN Valley),2019,"  42,576 ","  18,705 ",2.22
+EDR,07E (East Central),2019,"  169,242 ","  64,377 ",2.56
+EDR,07W (Central),2019,"  437,157 ","  159,314 ",2.67
+EDR,08 (Southwest),2019,"  116,250 ","  48,168 ",2.36
+EDR,09 (South Central),2019,"  234,721 ","  95,118 ",2.36
+EDR,10 (Southeast),2019,"  514,406 ","  205,040 ",2.42
+EDR,11 (7 County Twin Cities),2019,"  3,152,564 ","  1,228,383 ",2.52
+County,Aitkin,2019,"  15,870 ","  7,446 ",2.10
+County,Anoka,2019,"  362,648 ","  132,301 ",2.71
+County,Becker,2019,"  34,545 ","  14,231 ",2.39
+County,Beltrami,2019,"  47,184 ","  18,172 ",2.49
+County,Benton,2019,"  40,895 ","  16,420 ",2.43
+County,Big Stone,2019,"  4,993 ","  2,237 ",2.17
+County,Blue Earth,2019,"  68,583 ","  27,067 ",2.38
+County,Brown,2019,"  25,119 ","  10,936 ",2.20
+County,Carlton,2019,"  35,935 ","  13,839 ",2.45
+County,Carver,2019,"  107,179 ","  38,419 ",2.77
+County,Cass,2019,"  29,754 ","  12,673 ",2.33
+County,Chippewa,2019,"  11,858 ","  5,138 ",2.26
+County,Chisago,2019,"  56,613 ","  20,714 ",2.65
+County,Clay,2019,"  64,591 ","  25,296 ",2.44
+County,Clearwater,2019,"  8,808 ","  3,618 ",2.41
+County,Cook,2019,"  5,462 ","  2,707 ",2.00
+County,Cottonwood,2019,"  11,216 ","  4,811 ",2.28
+County,Crow Wing,2019,"  65,274 ","  27,532 ",2.34
+County,Dakota,2019,"  433,302 ","  166,351 ",2.59
+County,Dodge,2019,"  20,943 ","  7,904 ",2.63
+County,Douglas,2019,"  38,220 ","  16,713 ",2.26
+County,Faribault,2019,"  13,580 ","  6,140 ",2.18
+County,Fillmore,2019,"  21,060 ","  8,731 ",2.37
+County,Freeborn,2019,"  30,364 ","  13,101 ",2.27
+County,Goodhue,2019,"  46,449 ","  19,388 ",2.35
+County,Grant,2019,"  5,967 ","  2,656 ",2.22
+County,Hennepin,2019,"  1,279,981 ","  525,738 ",2.38
+County,Houston,2019,"  18,626 ","  8,041 ",2.28
+County,Hubbard,2019,"  21,494 ","  9,182 ",2.32
+County,Isanti,2019,"  40,566 ","  15,208 ",2.64
+County,Itasca,2019,"  45,203 ","  19,397 ",2.28
+County,Jackson,2019,"  9,858 ","  4,398 ",2.22
+County,Kanabec,2019,"  16,310 ","  6,484 ",2.48
+County,Kandiyohi,2019,"  43,193 ","  17,209 ",2.45
+County,Kittson,2019,"  4,299 ","  1,930 ",2.17
+County,Koochiching,2019,"  12,430 ","  5,770 ",2.11
+County,Lac qui Parle,2019,"  6,629 ","  3,030 ",2.14
+County,Lake,2019,"  10,632 ","  4,901 ",2.13
+County,Lake of the Woods,2019,"  3,798 ","  1,730 ",2.16
+County,Le Sueur,2019,"  28,894 ","  11,273 ",2.54
+County,Lincoln,2019,"  5,648 ","  2,519 ",2.19
+County,Lyon,2019,"  25,635 ","  10,360 ",2.39
+County,Mahnomen,2019,"  5,529 ","  2,010 ",2.71
+County,Marshall,2019,"  9,342 ","  3,980 ",2.33
+County,Martin,2019,"  19,752 ","  8,852 ",2.19
+County,McLeod,2019,"  35,963 ","  14,824 ",2.39
+County,Meeker,2019,"  23,256 ","  9,324 ",2.46
+County,Mille Lacs,2019,"  26,227 ","  10,388 ",2.48
+County,Morrison,2019,"  33,368 ","  13,395 ",2.45
+County,Mower,2019,"  40,124 ","  16,001 ",2.47
+County,Murray,2019,"  8,222 ","  3,649 ",2.21
+County,Nicollet,2019,"  34,323 ","  13,024 ",2.42
+County,Nobles,2019,"  21,976 ","  8,112 ",2.66
+County,Norman,2019,"  6,367 ","  2,739 ",2.29
+County,Olmsted,2019,"  160,431 ","  64,491 ",2.45
+County,Otter Tail,2019,"  58,734 ","  24,862 ",2.32
+County,Pennington,2019,"  14,355 ","  6,172 ",2.27
+County,Pine,2019,"  29,526 ","  11,583 ",2.41
+County,Pipestone,2019,"  9,132 ","  4,002 ",2.23
+County,Polk,2019,"  31,524 ","  12,879 ",2.35
+County,Pope,2019,"  11,139 ","  4,931 ",2.23
+County,Ramsey,2019,"  558,248 ","  216,654 ",2.50
+County,Red Lake,2019,"  4,030 ","  1,745 ",2.30
+County,Redwood,2019,"  15,204 ","  6,420 ",2.31
+County,Renville,2019,"  14,588 ","  6,267 ",2.27
+County,Rice,2019,"  66,853 ","  23,709 ",2.51
+County,Rock,2019,"  9,359 ","  3,897 ",2.33
+County,Roseau,2019,"  15,242 ","  6,245 ",2.41
+County,Scott,2019,"  148,458 ","  50,706 ",2.90
+County,Sherburne,2019,"  97,520 ","  33,188 ",2.87
+County,Sibley,2019,"  14,899 ","  5,998 ",2.45
+County,St. Louis,2019,"  199,661 ","  86,420 ",2.21
+County,Stearns,2019,"  160,211 ","  60,587 ",2.53
+County,Steele,2019,"  37,112 ","  14,723 ",2.48
+County,Stevens,2019,"  9,766 ","  3,741 ",2.36
+County,Swift,2019,"  9,367 ","  4,166 ",2.21
+County,Todd,2019,"  24,665 ","  9,947 ",2.45
+County,Traverse,2019,"  3,263 ","  1,476 ",2.14
+County,Wabasha,2019,"  21,614 ","  8,984 ",2.38
+County,Wadena,2019,"  13,744 ","  5,796 ",2.29
+County,Waseca,2019,"  18,648 ","  7,335 ",2.41
+County,Washington,2019,"  262,748 ","  98,214 ",2.64
+County,Watonwan,2019,"  10,923 ","  4,493 ",2.40
+County,Wilkin,2019,"  6,226 ","  2,713 ",2.24
+County,Winona,2019,"  50,830 ","  19,967 ",2.35
+County,Wright,2019,"  138,531 ","  49,119 ",2.80
+County,Yellow Medicine,2019,"  9,729 ","  4,134 ",2.28
+State,Minnesota,2018,"  5,629,416 ","  2,221,628 ",2.47
+EDR,01 (Northwest),2018,"  85,359 ","  35,653 ",2.34
+EDR,02 (Headwaters),2018,"  86,326 ","  34,509 ",2.43
+EDR,03 (Arrowhead),2018,"  325,881 ","  140,139 ",2.23
+EDR,04 (West Central),2018,"  231,469 ","  95,907 ",2.35
+EDR,05 (North Central),2018,"  165,997 ","  68,806 ",2.38
+EDR,06E (Southwest Central),2018,"  116,726 ","  47,404 ",2.41
+EDR,06W (Upper MN Valley),2018,"  42,810 ","  18,714 ",2.23
+EDR,07E (East Central),2018,"  167,670 ","  63,725 ",2.56
+EDR,07W (Central),2018,"  432,428 ","  157,035 ",2.68
+EDR,08 (Southwest),2018,"  116,707 ","  48,171 ",2.36
+EDR,09 (South Central),2018,"  233,924 ","  94,674 ",2.36
+EDR,10 (Southeast),2018,"  510,781 ","  202,911 ",2.43
+EDR,11 (7 County Twin Cities),2018,"  3,113,338 ","  1,213,980 ",2.52
+County,Aitkin,2018,"  15,896 ","  7,359 ",2.12
+County,Anoka,2018,"  357,851 ","  130,596 ",2.71
+County,Becker,2018,"  34,420 ","  14,165 ",2.40
+County,Beltrami,2018,"  46,834 ","  18,039 ",2.48
+County,Benton,2018,"  40,452 ","  16,194 ",2.43
+County,Big Stone,2018,"  5,000 ","  2,239 ",2.17
+County,Blue Earth,2018,"  67,785 ","  26,768 ",2.38
+County,Brown,2018,"  25,325 ","  10,923 ",2.22
+County,Carlton,2018,"  35,923 ","  13,780 ",2.46
+County,Carver,2018,"  105,970 ","  37,792 ",2.78
+County,Cass,2018,"  29,470 ","  12,552 ",2.33
+County,Chippewa,2018,"  11,965 ","  5,140 ",2.28
+County,Chisago,2018,"  55,955 ","  20,467 ",2.65
+County,Clay,2018,"  63,963 ","  24,969 ",2.45
+County,Clearwater,2018,"  8,815 ","  3,608 ",2.41
+County,Cook,2018,"  5,390 ","  2,667 ",2.00
+County,Cottonwood,2018,"  11,293 ","  4,806 ",2.30
+County,Crow Wing,2018,"  64,975 ","  27,313 ",2.35
+County,Dakota,2018,"  428,558 ","  164,174 ",2.59
+County,Dodge,2018,"  20,842 ","  7,842 ",2.64
+County,Douglas,2018,"  38,041 ","  16,495 ",2.27
+County,Faribault,2018,"  13,649 ","  6,132 ",2.19
+County,Fillmore,2018,"  21,063 ","  8,683 ",2.38
+County,Freeborn,2018,"  30,495 ","  13,110 ",2.28
+County,Goodhue,2018,"  46,540 ","  19,277 ",2.37
+County,Grant,2018,"  5,975 ","  2,641 ",2.24
+County,Hennepin,2018,"  1,261,104 ","  519,173 ",2.38
+County,Houston,2018,"  18,659 ","  8,000 ",2.30
+County,Hubbard,2018,"  21,350 ","  9,124 ",2.32
+County,Isanti,2018,"  39,932 ","  14,955 ",2.64
+County,Itasca,2018,"  45,191 ","  19,321 ",2.28
+County,Jackson,2018,"  9,934 ","  4,399 ",2.23
+County,Kanabec,2018,"  16,213 ","  6,446 ",2.48
+County,Kandiyohi,2018,"  42,924 ","  17,088 ",2.45
+County,Kittson,2018,"  4,260 ","  1,912 ",2.17
+County,Koochiching,2018,"  12,630 ","  5,823 ",2.13
+County,Lac qui Parle,2018,"  6,662 ","  3,024 ",2.15
+County,Lake,2018,"  10,590 ","  4,852 ",2.14
+County,Lake of the Woods,2018,"  3,801 ","  1,729 ",2.17
+County,Le Sueur,2018,"  28,432 ","  11,177 ",2.52
+County,Lincoln,2018,"  5,679 ","  2,520 ",2.20
+County,Lyon,2018,"  25,700 ","  10,351 ",2.40
+County,Mahnomen,2018,"  5,526 ","  2,009 ",2.71
+County,Marshall,2018,"  9,384 ","  3,976 ",2.34
+County,Martin,2018,"  19,822 ","  8,871 ",2.20
+County,McLeod,2018,"  35,959 ","  14,757 ",2.40
+County,Meeker,2018,"  23,169 ","  9,282 ",2.46
+County,Mille Lacs,2018,"  26,080 ","  10,323 ",2.48
+County,Morrison,2018,"  33,191 ","  13,321 ",2.45
+County,Mower,2018,"  40,017 ","  15,949 ",2.47
+County,Murray,2018,"  8,293 ","  3,655 ",2.22
+County,Nicollet,2018,"  34,189 ","  12,961 ",2.42
+County,Nobles,2018,"  22,021 ","  8,125 ",2.66
+County,Norman,2018,"  6,518 ","  2,764 ",2.31
+County,Olmsted,2018,"  157,446 ","  63,203 ",2.45
+County,Otter Tail,2018,"  58,735 ","  24,840 ",2.32
+County,Pennington,2018,"  14,276 ","  6,094 ",2.29
+County,Pine,2018,"  29,490 ","  11,534 ",2.41
+County,Pipestone,2018,"  9,100 ","  3,987 ",2.23
+County,Polk,2018,"  31,627 ","  12,909 ",2.36
+County,Pope,2018,"  11,046 ","  4,875 ",2.23
+County,Ramsey,2018,"  552,232 ","  216,009 ",2.48
+County,Red Lake,2018,"  3,981 ","  1,729 ",2.30
+County,Redwood,2018,"  15,252 ","  6,422 ",2.32
+County,Renville,2018,"  14,674 ","  6,277 ",2.28
+County,Rice,2018,"  66,364 ","  23,435 ",2.52
+County,Rock,2018,"  9,435 ","  3,906 ",2.35
+County,Roseau,2018,"  15,313 ","  6,269 ",2.41
+County,Scott,2018,"  146,111 ","  49,812 ",2.91
+County,Sherburne,2018,"  96,208 ","  32,626 ",2.88
+County,Sibley,2018,"  15,022 ","  6,008 ",2.46
+County,St. Louis,2018,"  200,261 ","  86,337 ",2.21
+County,Stearns,2018,"  159,258 ","  59,837 ",2.54
+County,Steele,2018,"  36,933 ","  14,562 ",2.50
+County,Stevens,2018,"  9,680 ","  3,720 ",2.35
+County,Swift,2018,"  9,374 ","  4,163 ",2.21
+County,Todd,2018,"  24,587 ","  9,855 ",2.46
+County,Traverse,2018,"  3,316 ","  1,484 ",2.17
+County,Wabasha,2018,"  21,624 ","  8,961 ",2.39
+County,Wadena,2018,"  13,774 ","  5,765 ",2.30
+County,Waseca,2018,"  18,738 ","  7,333 ",2.43
+County,Washington,2018,"  261,512 ","  96,424 ",2.68
+County,Watonwan,2018,"  10,962 ","  4,501 ",2.40
+County,Wilkin,2018,"  6,293 ","  2,718 ",2.26
+County,Winona,2018,"  50,798 ","  19,889 ",2.36
+County,Wright,2018,"  136,510 ","  48,378 ",2.80
+County,Yellow Medicine,2018,"  9,809 ","  4,148 ",2.29
+State,Minnesota,2017,"  5,577,487 ","  2,201,400 ",2.47
+EDR,01 (Northwest),2017,"  85,726 ","  35,682 ",2.34
+EDR,02 (Headwaters),2017,"  85,868 ","  34,263 ",2.43
+EDR,03 (Arrowhead),2017,"  325,303 ","  139,751 ",2.24
+EDR,04 (West Central),2017,"  230,153 ","  95,153 ",2.35
+EDR,05 (North Central),2017,"  165,162 ","  68,303 ",2.38
+EDR,06E (Southwest Central),2017,"  116,496 ","  47,209 ",2.42
+EDR,06W (Upper MN Valley),2017,"  43,065 ","  18,741 ",2.24
+EDR,07E (East Central),2017,"  165,954 ","  62,985 ",2.56
+EDR,07W (Central),2017,"  426,901 ","  155,113 ",2.67
+EDR,08 (Southwest),2017,"  117,006 ","  48,131 ",2.37
+EDR,09 (South Central),2017,"  232,275 ","  93,870 ",2.36
+EDR,10 (Southeast),2017,"  508,015 ","  201,359 ",2.44
+EDR,11 (7 County Twin Cities),2017,"  3,075,563 ","  1,200,840 ",2.51
+County,Aitkin,2017,"  15,821 ","  7,297 ",2.13
+County,Anoka,2017,"  352,674 ","  129,391 ",2.70
+County,Becker,2017,"  34,103 ","  14,097 ",2.39
+County,Beltrami,2017,"  46,585 ","  17,912 ",2.48
+County,Benton,2017,"  40,128 ","  16,012 ",2.44
+County,Big Stone,2017,"  5,029 ","  2,240 ",2.18
+County,Blue Earth,2017,"  67,220 ","  26,462 ",2.39
+County,Brown,2017,"  25,245 ","  10,874 ",2.22
+County,Carlton,2017,"  35,655 ","  13,703 ",2.46
+County,Carver,2017,"  102,858 ","  37,097 ",2.75
+County,Cass,2017,"  29,327 ","  12,415 ",2.34
+County,Chippewa,2017,"  12,045 ","  5,156 ",2.29
+County,Chisago,2017,"  55,321 ","  20,240 ",2.65
+County,Clay,2017,"  63,789 ","  24,779 ",2.45
+County,Clearwater,2017,"  8,875 ","  3,627 ",2.42
+County,Cook,2017,"  5,388 ","  2,638 ",2.02
+County,Cottonwood,2017,"  11,320 ","  4,807 ",2.30
+County,Crow Wing,2017,"  64,517 ","  27,096 ",2.35
+County,Dakota,2017,"  422,580 ","  162,422 ",2.59
+County,Dodge,2017,"  20,762 ","  7,770 ",2.65
+County,Douglas,2017,"  37,654 ","  16,275 ",2.28
+County,Faribault,2017,"  13,671 ","  6,132 ",2.19
+County,Fillmore,2017,"  20,979 ","  8,628 ",2.39
+County,Freeborn,2017,"  30,550 ","  13,121 ",2.28
+County,Goodhue,2017,"  46,562 ","  19,205 ",2.38
+County,Grant,2017,"  5,904 ","  2,614 ",2.23
+County,Hennepin,2017,"  1,249,512 ","  513,638 ",2.38
+County,Houston,2017,"  18,761 ","  8,002 ",2.31
+County,Hubbard,2017,"  21,034 ","  8,977 ",2.32
+County,Isanti,2017,"  39,553 ","  14,710 ",2.66
+County,Itasca,2017,"  45,346 ","  19,288 ",2.30
+County,Jackson,2017,"  9,951 ","  4,394 ",2.24
+County,Kanabec,2017,"  16,010 ","  6,379 ",2.47
+County,Kandiyohi,2017,"  42,768 ","  17,014 ",2.45
+County,Kittson,2017,"  4,262 ","  1,912 ",2.17
+County,Koochiching,2017,"  12,640 ","  5,820 ",2.13
+County,Lac qui Parle,2017,"  6,687 ","  3,016 ",2.17
+County,Lake,2017,"  10,531 ","  4,814 ",2.14
+County,Lake of the Woods,2017,"  3,802 ","  1,723 ",2.17
+County,Le Sueur,2017,"  27,881 ","  10,927 ",2.53
+County,Lincoln,2017,"  5,709 ","  2,525 ",2.21
+County,Lyon,2017,"  25,823 ","  10,341 ",2.40
+County,Mahnomen,2017,"  5,572 ","  2,024 ",2.71
+County,Marshall,2017,"  9,351 ","  3,962 ",2.34
+County,Martin,2017,"  19,865 ","  8,869 ",2.20
+County,McLeod,2017,"  35,884 ","  14,675 ",2.41
+County,Meeker,2017,"  23,155 ","  9,239 ",2.47
+County,Mille Lacs,2017,"  25,878 ","  10,244 ",2.48
+County,Morrison,2017,"  33,074 ","  13,238 ",2.46
+County,Mower,2017,"  39,602 ","  15,890 ",2.45
+County,Murray,2017,"  8,344 ","  3,655 ",2.24
+County,Nicollet,2017,"  33,892 ","  12,860 ",2.41
+County,Nobles,2017,"  21,963 ","  8,088 ",2.67
+County,Norman,2017,"  6,601 ","  2,775 ",2.33
+County,Olmsted,2017,"  155,849 ","  62,295 ",2.46
+County,Otter Tail,2017,"  58,329 ","  24,668 ",2.32
+County,Pennington,2017,"  14,301 ","  6,096 ",2.29
+County,Pine,2017,"  29,192 ","  11,412 ",2.42
+County,Pipestone,2017,"  9,127 ","  3,982 ",2.24
+County,Polk,2017,"  31,720 ","  12,886 ",2.36
+County,Pope,2017,"  10,950 ","  4,813 ",2.24
+County,Ramsey,2017,"  546,317 ","  214,112 ",2.47
+County,Red Lake,2017,"  4,007 ","  1,726 ",2.31
+County,Redwood,2017,"  15,278 ","  6,428 ",2.32
+County,Renville,2017,"  14,689 ","  6,281 ",2.28
+County,Rice,2017,"  65,960 ","  23,197 ",2.53
+County,Rock,2017,"  9,491 ","  3,911 ",2.36
+County,Roseau,2017,"  15,484 ","  6,325 ",2.42
+County,Scott,2017,"  144,717 ","  49,185 ",2.91
+County,Sherburne,2017,"  94,748 ","  32,132 ",2.88
+County,Sibley,2017,"  14,869 ","  5,947 ",2.46
+County,St. Louis,2017,"  199,922 ","  86,191 ",2.22
+County,Stearns,2017,"  157,660 ","  59,202 ",2.54
+County,Steele,2017,"  36,828 ","  14,489 ",2.50
+County,Stevens,2017,"  9,748 ","  3,726 ",2.35
+County,Swift,2017,"  9,423 ","  4,168 ",2.22
+County,Todd,2017,"  24,513 ","  9,809 ",2.46
+County,Traverse,2017,"  3,333 ","  1,484 ",2.18
+County,Wabasha,2017,"  21,393 ","  8,899 ",2.38
+County,Wadena,2017,"  13,731 ","  5,745 ",2.30
+County,Waseca,2017,"  18,793 ","  7,322 ",2.43
+County,Washington,2017,"  256,905 ","  94,995 ",2.67
+County,Watonwan,2017,"  10,839 ","  4,477 ",2.39
+County,Wilkin,2017,"  6,343 ","  2,697 ",2.29
+County,Winona,2017,"  50,769 ","  19,863 ",2.35
+County,Wright,2017,"  134,365 ","  47,767 ",2.79
+County,Yellow Medicine,2017,"  9,881 ","  4,161 ",2.30
+State,Minnesota,2016,"  5,528,630 ","  2,185,172 ",2.47
+EDR,01 (Northwest),2016,"  85,794 ","  35,565 ",2.35
+EDR,02 (Headwaters),2016,"  84,949 ","  33,793 ",2.44
+EDR,03 (Arrowhead),2016,"  325,413 ","  139,369 ",2.24
+EDR,04 (West Central),2016,"  228,502 ","  94,138 ",2.35
+EDR,05 (North Central),2016,"  163,769 ","  67,710 ",2.38
+EDR,06E (Southwest Central),2016,"  116,162 ","  47,031 ",2.42
+EDR,06W (Upper MN Valley),2016,"  43,217 ","  18,742 ",2.25
+EDR,07E (East Central),2016,"  164,355 ","  62,428 ",2.56
+EDR,07W (Central),2016,"  421,787 ","  153,126 ",2.68
+EDR,08 (Southwest),2016,"  117,020 ","  48,037 ",2.38
+EDR,09 (South Central),2016,"  231,852 ","  93,379 ",2.37
+EDR,10 (Southeast),2016,"  504,284 ","  199,387 ",2.44
+EDR,11 (7 County Twin Cities),2016,"  3,041,526 ","  1,192,467 ",2.50
+County,Aitkin,2016,"  15,610 ","  7,178 ",2.14
+County,Anoka,2016,"  348,652 ","  128,135 ",2.69
+County,Becker,2016,"  33,766 ","  13,928 ",2.39
+County,Beltrami,2016,"  46,069 ","  17,592 ",2.50
+County,Benton,2016,"  40,000 ","  15,842 ",2.46
+County,Big Stone,2016,"  5,052 ","  2,239 ",2.20
+County,Blue Earth,2016,"  67,087 ","  26,236 ",2.40
+County,Brown,2016,"  25,333 ","  10,858 ",2.23
+County,Carlton,2016,"  35,744 ","  13,709 ",2.46
+County,Carver,2016,"  100,621 ","  36,418 ",2.73
+County,Cass,2016,"  28,895 ","  12,206 ",2.35
+County,Chippewa,2016,"  12,122 ","  5,167 ",2.30
+County,Chisago,2016,"  54,766 ","  20,041 ",2.65
+County,Clay,2016,"  62,886 ","  24,325 ",2.46
+County,Clearwater,2016,"  8,824 ","  3,600 ",2.42
+County,Cook,2016,"  5,264 ","  2,572 ",2.03
+County,Cottonwood,2016,"  11,465 ","  4,833 ",2.32
+County,Crow Wing,2016,"  64,000 ","  26,877 ",2.35
+County,Dakota,2016,"  418,432 ","  160,890 ",2.58
+County,Dodge,2016,"  20,506 ","  7,674 ",2.65
+County,Douglas,2016,"  37,467 ","  16,141 ",2.29
+County,Faribault,2016,"  13,780 ","  6,137 ",2.21
+County,Fillmore,2016,"  20,885 ","  8,583 ",2.39
+County,Freeborn,2016,"  30,576 ","  13,109 ",2.28
+County,Goodhue,2016,"  46,717 ","  19,119 ",2.39
+County,Grant,2016,"  5,886 ","  2,598 ",2.24
+County,Hennepin,2016,"  1,237,604 ","  511,519 ",2.37
+County,Houston,2016,"  18,834 ","  7,984 ",2.32
+County,Hubbard,2016,"  20,730 ","  8,847 ",2.32
+County,Isanti,2016,"  39,009 ","  14,500 ",2.66
+County,Itasca,2016,"  45,672 ","  19,304 ",2.31
+County,Jackson,2016,"  9,978 ","  4,396 ",2.24
+County,Kanabec,2016,"  15,841 ","  6,330 ",2.46
+County,Kandiyohi,2016,"  42,481 ","  16,909 ",2.45
+County,Kittson,2016,"  4,339 ","  1,917 ",2.21
+County,Koochiching,2016,"  12,753 ","  5,826 ",2.14
+County,Lac qui Parle,2016,"  6,741 ","  3,021 ",2.18
+County,Lake,2016,"  10,626 ","  4,812 ",2.16
+County,Lake of the Woods,2016,"  3,883 ","  1,755 ",2.18
+County,Le Sueur,2016,"  27,639 ","  10,852 ",2.52
+County,Lincoln,2016,"  5,766 ","  2,535 ",2.22
+County,Lyon,2016,"  25,684 ","  10,297 ",2.39
+County,Mahnomen,2016,"  5,443 ","  1,999 ",2.68
+County,Marshall,2016,"  9,317 ","  3,948 ",2.34
+County,Martin,2016,"  19,880 ","  8,859 ",2.20
+County,McLeod,2016,"  35,853 ","  14,637 ",2.42
+County,Meeker,2016,"  23,109 ","  9,204 ",2.47
+County,Mille Lacs,2016,"  25,860 ","  10,213 ",2.48
+County,Morrison,2016,"  32,826 ","  13,162 ",2.45
+County,Mower,2016,"  39,192 ","  15,871 ",2.43
+County,Murray,2016,"  8,332 ","  3,644 ",2.24
+County,Nicollet,2016,"  33,603 ","  12,726 ",2.41
+County,Nobles,2016,"  21,825 ","  8,031 ",2.67
+County,Norman,2016,"  6,592 ","  2,765 ",2.33
+County,Olmsted,2016,"  153,039 ","  60,962 ",2.47
+County,Otter Tail,2016,"  58,001 ","  24,452 ",2.33
+County,Pennington,2016,"  14,244 ","  6,043 ",2.30
+County,Pine,2016,"  28,879 ","  11,344 ",2.40
+County,Pipestone,2016,"  9,211 ","  3,985 ",2.26
+County,Polk,2016,"  31,647 ","  12,801 ",2.37
+County,Pope,2016,"  11,026 ","  4,818 ",2.25
+County,Ramsey,2016,"  540,653 ","  212,672 ",2.45
+County,Red Lake,2016,"  3,996 ","  1,719 ",2.32
+County,Redwood,2016,"  15,275 ","  6,416 ",2.32
+County,Renville,2016,"  14,719 ","  6,281 ",2.28
+County,Rice,2016,"  65,607 ","  23,033 ",2.53
+County,Rock,2016,"  9,484 ","  3,900 ",2.37
+County,Roseau,2016,"  15,659 ","  6,372 ",2.43
+County,Scott,2016,"  142,436 ","  48,789 ",2.89
+County,Sherburne,2016,"  93,457 ","  31,681 ",2.88
+County,Sibley,2016,"  14,824 ","  5,934 ",2.46
+County,St. Louis,2016,"  199,744 ","  85,968 ",2.22
+County,Stearns,2016,"  155,732 ","  58,469 ",2.53
+County,Steele,2016,"  36,765 ","  14,441 ",2.51
+County,Stevens,2016,"  9,742 ","  3,697 ",2.35
+County,Swift,2016,"  9,384 ","  4,159 ",2.22
+County,Todd,2016,"  24,249 ","  9,719 ",2.46
+County,Traverse,2016,"  3,354 ","  1,485 ",2.19
+County,Wabasha,2016,"  21,216 ","  8,787 ",2.39
+County,Wadena,2016,"  13,799 ","  5,746 ",2.32
+County,Waseca,2016,"  18,784 ","  7,303 ",2.43
+County,Washington,2016,"  253,128 ","  94,044 ",2.65
+County,Watonwan,2016,"  10,922 ","  4,474 ",2.41
+County,Wilkin,2016,"  6,374 ","  2,694 ",2.31
+County,Winona,2016,"  50,947 ","  19,824 ",2.36
+County,Wright,2016,"  132,598 ","  47,134 ",2.79
+County,Yellow Medicine,2016,"  9,918 ","  4,156 ",2.31
+State,Minnesota,2015,"  5,485,238 ","  2,163,531 ",2.47
+EDR,01 (Northwest),2015,"  86,050 ","  35,536 ",2.36
+EDR,02 (Headwaters),2015,"  84,735 ","  33,658 ",2.44
+EDR,03 (Arrowhead),2015,"  326,131 ","  138,942 ",2.25
+EDR,04 (West Central),2015,"  227,048 ","  93,173 ",2.36
+EDR,05 (North Central),2015,"  163,119 ","  67,183 ",2.39
+EDR,06E (Southwest Central),2015,"  116,515 ","  47,005 ",2.43
+EDR,06W (Upper MN Valley),2015,"  43,343 ","  18,776 ",2.26
+EDR,07E (East Central),2015,"  163,656 ","  62,022 ",2.56
+EDR,07W (Central),2015,"  417,441 ","  151,608 ",2.67
+EDR,08 (Southwest),2015,"  117,763 ","  48,234 ",2.38
+EDR,09 (South Central),2015,"  231,683 ","  92,791 ",2.38
+EDR,10 (Southeast),2015,"  502,335 ","  197,948 ",2.45
+EDR,11 (7 County Twin Cities),2015,"  3,005,419 ","  1,176,655 ",2.50
+County,Aitkin,2015,"  15,715 ","  7,194 ",2.15
+County,Anoka,2015,"  344,838 ","  126,569 ",2.69
+County,Becker,2015,"  33,567 ","  13,786 ",2.40
+County,Beltrami,2015,"  45,873 ","  17,491 ",2.50
+County,Benton,2015,"  39,739 ","  15,686 ",2.47
+County,Big Stone,2015,"  5,054 ","  2,235 ",2.20
+County,Blue Earth,2015,"  66,179 ","  25,703 ",2.41
+County,Brown,2015,"  25,434 ","  10,846 ",2.24
+County,Carlton,2015,"  35,635 ","  13,667 ",2.46
+County,Carver,2015,"  98,798 ","  35,510 ",2.75
+County,Cass,2015,"  28,718 ","  12,067 ",2.36
+County,Chippewa,2015,"  12,117 ","  5,167 ",2.30
+County,Chisago,2015,"  54,332 ","  19,871 ",2.65
+County,Clay,2015,"  62,181 ","  23,844 ",2.47
+County,Clearwater,2015,"  8,802 ","  3,582 ",2.43
+County,Cook,2015,"  5,219 ","  2,552 ",2.03
+County,Cottonwood,2015,"  11,575 ","  4,851 ",2.33
+County,Crow Wing,2015,"  63,481 ","  26,577 ",2.36
+County,Dakota,2015,"  414,490 ","  159,189 ",2.58
+County,Dodge,2015,"  20,378 ","  7,611 ",2.66
+County,Douglas,2015,"  37,103 ","  15,904 ",2.30
+County,Faribault,2015,"  13,945 ","  6,156 ",2.23
+County,Fillmore,2015,"  20,826 ","  8,573 ",2.39
+County,Freeborn,2015,"  30,642 ","  13,071 ",2.30
+County,Goodhue,2015,"  46,611 ","  19,060 ",2.40
+County,Grant,2015,"  5,872 ","  2,592 ",2.24
+County,Hennepin,2015,"  1,221,703 ","  504,178 ",2.37
+County,Houston,2015,"  18,788 ","  7,961 ",2.33
+County,Hubbard,2015,"  20,679 ","  8,810 ",2.33
+County,Isanti,2015,"  38,521 ","  14,334 ",2.66
+County,Itasca,2015,"  45,658 ","  19,206 ",2.32
+County,Jackson,2015,"  10,113 ","  4,425 ",2.26
+County,Kanabec,2015,"  15,908 ","  6,347 ",2.47
+County,Kandiyohi,2015,"  42,510 ","  16,888 ",2.45
+County,Kittson,2015,"  4,422 ","  1,942 ",2.22
+County,Koochiching,2015,"  12,889 ","  5,832 ",2.17
+County,Lac qui Parle,2015,"  6,866 ","  3,048 ",2.20
+County,Lake,2015,"  10,634 ","  4,803 ",2.17
+County,Lake of the Woods,2015,"  3,925 ","  1,763 ",2.19
+County,Le Sueur,2015,"  27,704 ","  10,836 ",2.53
+County,Lincoln,2015,"  5,770 ","  2,540 ",2.22
+County,Lyon,2015,"  25,776 ","  10,322 ",2.39
+County,Mahnomen,2015,"  5,456 ","  2,012 ",2.67
+County,Marshall,2015,"  9,417 ","  3,990 ",2.34
+County,Martin,2015,"  20,122 ","  8,905 ",2.22
+County,McLeod,2015,"  35,930 ","  14,600 ",2.43
+County,Meeker,2015,"  23,110 ","  9,177 ",2.48
+County,Mille Lacs,2015,"  25,788 ","  10,134 ",2.49
+County,Morrison,2015,"  32,786 ","  13,100 ",2.46
+County,Mower,2015,"  39,181 ","  15,865 ",2.43
+County,Murray,2015,"  8,418 ","  3,657 ",2.26
+County,Nicollet,2015,"  33,432 ","  12,608 ",2.42
+County,Nobles,2015,"  21,743 ","  8,024 ",2.66
+County,Norman,2015,"  6,666 ","  2,776 ",2.35
+County,Olmsted,2015,"  151,388 ","  59,862 ",2.49
+County,Otter Tail,2015,"  57,679 ","  24,334 ",2.32
+County,Pennington,2015,"  14,206 ","  5,993 ",2.32
+County,Pine,2015,"  29,107 ","  11,336 ",2.41
+County,Pipestone,2015,"  9,281 ","  4,016 ",2.26
+County,Polk,2015,"  31,529 ","  12,732 ",2.38
+County,Pope,2015,"  11,016 ","  4,796 ",2.26
+County,Ramsey,2015,"  533,677 ","  210,222 ",2.45
+County,Red Lake,2015,"  4,039 ","  1,733 ",2.32
+County,Redwood,2015,"  15,486 ","  6,468 ",2.34
+County,Renville,2015,"  14,965 ","  6,340 ",2.30
+County,Rice,2015,"  65,420 ","  22,902 ",2.54
+County,Rock,2015,"  9,601 ","  3,931 ",2.38
+County,Roseau,2015,"  15,771 ","  6,370 ",2.45
+County,Scott,2015,"  140,898 ","  48,318 ",2.89
+County,Sherburne,2015,"  91,895 ","  31,282 ",2.86
+County,Sibley,2015,"  14,884 ","  5,956 ",2.46
+County,St. Louis,2015,"  200,381 ","  85,688 ",2.23
+County,Stearns,2015,"  154,446 ","  57,928 ",2.53
+County,Steele,2015,"  36,708 ","  14,404 ",2.51
+County,Stevens,2015,"  9,804 ","  3,729 ",2.35
+County,Swift,2015,"  9,361 ","  4,159 ",2.21
+County,Todd,2015,"  24,255 ","  9,686 ",2.47
+County,Traverse,2015,"  3,405 ","  1,497 ",2.21
+County,Wabasha,2015,"  21,265 ","  8,804 ",2.39
+County,Wadena,2015,"  13,879 ","  5,753 ",2.33
+County,Waseca,2015,"  18,988 ","  7,294 ",2.42
+County,Washington,2015,"  251,015 ","  92,669 ",2.67
+County,Watonwan,2015,"  10,995 ","  4,487 ",2.42
+County,Wilkin,2015,"  6,421 ","  2,691 ",2.33
+County,Winona,2015,"  51,128 ","  19,835 ",2.36
+County,Wright,2015,"  131,361 ","  46,712 ",2.79
+County,Yellow Medicine,2015,"  9,945 ","  4,167 ",2.31
+State,Minnesota,2014,"  5,453,218 ","  2,149,023 ",2.47
+EDR,01 (Northwest),2014,"  85,878 ","  35,506 ",2.36
+EDR,02 (Headwaters),2014,"  84,584 ","  33,593 ",2.44
+EDR,03 (Arrowhead),2014,"  326,761 ","  138,811 ",2.26
+EDR,04 (West Central),2014,"  225,505 ","  92,332 ",2.36
+EDR,05 (North Central),2014,"  162,834 ","  66,961 ",2.40
+EDR,06E (Southwest Central),2014,"  116,389 ","  46,982 ",2.43
+EDR,06W (Upper MN Valley),2014,"  43,758 ","  18,882 ",2.26
+EDR,07E (East Central),2014,"  163,555 ","  61,818 ",2.57
+EDR,07W (Central),2014,"  414,013 ","  150,491 ",2.67
+EDR,08 (Southwest),2014,"  117,946 ","  48,297 ",2.38
+EDR,09 (South Central),2014,"  231,686 ","  92,563 ",2.39
+EDR,10 (Southeast),2014,"  500,966 ","  197,130 ",2.45
+EDR,11 (7 County Twin Cities),2014,"  2,979,343 ","  1,165,657 ",2.50
+County,Aitkin,2014,"  15,762 ","  7,164 ",2.16
+County,Anoka,2014,"  342,612 ","  125,357 ",2.70
+County,Becker,2014,"  33,272 ","  13,620 ",2.41
+County,Beltrami,2014,"  45,770 ","  17,421 ",2.51
+County,Benton,2014,"  39,518 ","  15,598 ",2.47
+County,Big Stone,2014,"  5,124 ","  2,246 ",2.22
+County,Blue Earth,2014,"  65,620 ","  25,499 ",2.41
+County,Brown,2014,"  25,463 ","  10,786 ",2.26
+County,Carlton,2014,"  35,576 ","  13,647 ",2.46
+County,Carver,2014,"  97,162 ","  34,956 ",2.75
+County,Cass,2014,"  28,570 ","  12,004 ",2.36
+County,Chippewa,2014,"  12,132 ","  5,172 ",2.30
+County,Chisago,2014,"  54,134 ","  19,719 ",2.66
+County,Clay,2014,"  61,196 ","  23,363 ",2.47
+County,Clearwater,2014,"  8,794 ","  3,578 ",2.43
+County,Cook,2014,"  5,231 ","  2,546 ",2.03
+County,Cottonwood,2014,"  11,633 ","  4,864 ",2.34
+County,Crow Wing,2014,"  63,371 ","  26,484 ",2.36
+County,Dakota,2014,"  411,507 ","  157,319 ",2.60
+County,Dodge,2014,"  20,352 ","  7,586 ",2.66
+County,Douglas,2014,"  36,789 ","  15,757 ",2.30
+County,Faribault,2014,"  14,124 ","  6,166 ",2.25
+County,Fillmore,2014,"  20,783 ","  8,580 ",2.38
+County,Freeborn,2014,"  30,831 ","  13,123 ",2.30
+County,Goodhue,2014,"  46,480 ","  18,964 ",2.40
+County,Grant,2014,"  5,923 ","  2,609 ",2.24
+County,Hennepin,2014,"  1,210,720 ","  499,094 ",2.37
+County,Houston,2014,"  18,766 ","  7,944 ",2.33
+County,Hubbard,2014,"  20,596 ","  8,788 ",2.32
+County,Isanti,2014,"  38,397 ","  14,245 ",2.66
+County,Itasca,2014,"  45,639 ","  19,088 ",2.33
+County,Jackson,2014,"  10,266 ","  4,460 ",2.28
+County,Kanabec,2014,"  15,966 ","  6,366 ",2.47
+County,Kandiyohi,2014,"  42,258 ","  16,825 ",2.45
+County,Kittson,2014,"  4,440 ","  1,949 ",2.22
+County,Koochiching,2014,"  13,018 ","  5,852 ",2.18
+County,Lac qui Parle,2014,"  6,922 ","  3,065 ",2.21
+County,Lake,2014,"  10,695 ","  4,808 ",2.18
+County,Lake of the Woods,2014,"  3,921 ","  1,762 ",2.19
+County,Le Sueur,2014,"  27,791 ","  10,844 ",2.54
+County,Lincoln,2014,"  5,788 ","  2,548 ",2.22
+County,Lyon,2014,"  25,746 ","  10,318 ",2.39
+County,Mahnomen,2014,"  5,503 ","  2,044 ",2.65
+County,Marshall,2014,"  9,420 ","  3,986 ",2.34
+County,Martin,2014,"  20,295 ","  8,955 ",2.23
+County,McLeod,2014,"  35,942 ","  14,585 ",2.43
+County,Meeker,2014,"  23,122 ","  9,185 ",2.48
+County,Mille Lacs,2014,"  25,862 ","  10,160 ",2.50
+County,Morrison,2014,"  32,859 ","  13,083 ",2.47
+County,Mower,2014,"  39,356 ","  15,928 ",2.43
+County,Murray,2014,"  8,475 ","  3,669 ",2.27
+County,Nicollet,2014,"  33,350 ","  12,534 ",2.43
+County,Nobles,2014,"  21,574 ","  8,016 ",2.64
+County,Norman,2014,"  6,643 ","  2,791 ",2.33
+County,Olmsted,2014,"  150,201 ","  59,365 ",2.49
+County,Otter Tail,2014,"  57,612 ","  24,295 ",2.32
+County,Pennington,2014,"  14,119 ","  5,964 ",2.31
+County,Pine,2014,"  29,196 ","  11,328 ",2.42
+County,Pipestone,2014,"  9,336 ","  4,014 ",2.27
+County,Polk,2014,"  31,545 ","  12,743 ",2.38
+County,Pope,2014,"  10,982 ","  4,771 ",2.26
+County,Ramsey,2014,"  529,506 ","  209,659 ",2.44
+County,Red Lake,2014,"  4,048 ","  1,727 ",2.32
+County,Redwood,2014,"  15,573 ","  6,497 ",2.34
+County,Renville,2014,"  15,067 ","  6,387 ",2.30
+County,Rice,2014,"  65,180 ","  22,764 ",2.54
+County,Rock,2014,"  9,555 ","  3,911 ",2.38
+County,Roseau,2014,"  15,663 ","  6,346 ",2.44
+County,Scott,2014,"  138,727 ","  47,562 ",2.89
+County,Sherburne,2014,"  91,223 ","  31,077 ",2.86
+County,Sibley,2014,"  14,919 ","  5,972 ",2.46
+County,St. Louis,2014,"  200,840 ","  85,706 ",2.24
+County,Stearns,2014,"  153,326 ","  57,603 ",2.53
+County,Steele,2014,"  36,532 ","  14,356 ",2.51
+County,Stevens,2014,"  9,836 ","  3,730 ",2.35
+County,Swift,2014,"  9,453 ","  4,183 ",2.22
+County,Todd,2014,"  24,266 ","  9,661 ",2.48
+County,Traverse,2014,"  3,392 ","  1,493 ",2.20
+County,Wabasha,2014,"  21,376 ","  8,806 ",2.40
+County,Wadena,2014,"  13,768 ","  5,729 ",2.32
+County,Waseca,2014,"  19,029 ","  7,303 ",2.43
+County,Washington,2014,"  249,109 ","  91,710 ",2.67
+County,Watonwan,2014,"  11,095 ","  4,504 ",2.43
+County,Wilkin,2014,"  6,503 ","  2,694 ",2.36
+County,Winona,2014,"  51,109 ","  19,714 ",2.37
+County,Wright,2014,"  129,946 ","  46,213 ",2.79
+County,Yellow Medicine,2014,"  10,127 ","  4,216 ",2.33
+State,Minnesota,2013,"  5,417,838 ","  2,132,670 ",2.48
+EDR,01 (Northwest),2013,"  85,839 ","  35,441 ",2.36
+EDR,02 (Headwaters),2013,"  84,540 ","  33,546 ",2.45
+EDR,03 (Arrowhead),2013,"  326,373 ","  138,423 ",2.26
+EDR,04 (West Central),2013,"  224,395 ","  91,642 ",2.37
+EDR,05 (North Central),2013,"  162,892 ","  66,870 ",2.40
+EDR,06E (Southwest Central),2013,"  116,769 ","  47,034 ",2.44
+EDR,06W (Upper MN Valley),2013,"  44,015 ","  18,921 ",2.27
+EDR,07E (East Central),2013,"  162,925 ","  61,527 ",2.57
+EDR,07W (Central),2013,"  409,944 ","  148,977 ",2.67
+EDR,08 (Southwest),2013,"  118,067 ","  48,211 ",2.39
+EDR,09 (South Central),2013,"  231,425 ","  92,186 ",2.40
+EDR,10 (Southeast),2013,"  499,769 ","  196,354 ",2.45
+EDR,11 (7 County Twin Cities),2013,"  2,950,885 ","  1,153,538 ",2.51
+County,Aitkin,2013,"  15,749 ","  7,156 ",2.16
+County,Anoka,2013,"  341,465 ","  124,747 ",2.71
+County,Becker,2013,"  33,167 ","  13,549 ",2.41
+County,Beltrami,2013,"  45,652 ","  17,372 ",2.51
+County,Benton,2013,"  39,219 ","  15,445 ",2.47
+County,Big Stone,2013,"  5,127 ","  2,245 ",2.22
+County,Blue Earth,2013,"  65,218 ","  25,277 ",2.42
+County,Brown,2013,"  25,465 ","  10,706 ",2.27
+County,Carlton,2013,"  35,505 ","  13,585 ",2.46
+County,Carver,2013,"  95,463 ","  34,445 ",2.74
+County,Cass,2013,"  28,604 ","  12,003 ",2.36
+County,Chippewa,2013,"  12,146 ","  5,172 ",2.30
+County,Chisago,2013,"  53,743 ","  19,570 ",2.66
+County,Clay,2013,"  60,426 ","  22,935 ",2.48
+County,Clearwater,2013,"  8,837 ","  3,591 ",2.43
+County,Cook,2013,"  5,185 ","  2,519 ",2.04
+County,Cottonwood,2013,"  11,610 ","  4,862 ",2.34
+County,Crow Wing,2013,"  63,216 ","  26,399 ",2.37
+County,Dakota,2013,"  408,732 ","  156,459 ",2.59
+County,Dodge,2013,"  20,342 ","  7,572 ",2.67
+County,Douglas,2013,"  36,529 ","  15,645 ",2.30
+County,Faribault,2013,"  14,192 ","  6,156 ",2.25
+County,Fillmore,2013,"  20,827 ","  8,581 ",2.39
+County,Freeborn,2013,"  30,917 ","  13,143 ",2.30
+County,Goodhue,2013,"  46,447 ","  18,935 ",2.41
+County,Grant,2013,"  5,990 ","  2,617 ",2.25
+County,Hennepin,2013,"  1,195,058 ","  491,535 ",2.38
+County,Houston,2013,"  18,814 ","  7,867 ",2.36
+County,Hubbard,2013,"  20,585 ","  8,772 ",2.33
+County,Isanti,2013,"  38,231 ","  14,157 ",2.67
+County,Itasca,2013,"  45,542 ","  19,026 ",2.34
+County,Jackson,2013,"  10,265 ","  4,453 ",2.28
+County,Kanabec,2013,"  16,009 ","  6,375 ",2.47
+County,Kandiyohi,2013,"  42,351 ","  16,842 ",2.45
+County,Kittson,2013,"  4,498 ","  1,973 ",2.22
+County,Koochiching,2013,"  13,217 ","  5,865 ",2.21
+County,Lac qui Parle,2013,"  7,041 ","  3,096 ",2.22
+County,Lake,2013,"  10,777 ","  4,821 ",2.19
+County,Lake of the Woods,2013,"  3,932 ","  1,756 ",2.21
+County,Le Sueur,2013,"  27,834 ","  10,840 ",2.54
+County,Lincoln,2013,"  5,830 ","  2,558 ",2.23
+County,Lyon,2013,"  25,648 ","  10,243 ",2.40
+County,Mahnomen,2013,"  5,534 ","  2,055 ",2.65
+County,Marshall,2013,"  9,424 ","  3,982 ",2.35
+County,Martin,2013,"  20,429 ","  8,981 ",2.24
+County,McLeod,2013,"  36,095 ","  14,590 ",2.44
+County,Meeker,2013,"  23,109 ","  9,177 ",2.48
+County,Mille Lacs,2013,"  25,817 ","  10,144 ",2.49
+County,Morrison,2013,"  32,877 ","  13,070 ",2.48
+County,Mower,2013,"  39,356 ","  15,914 ",2.43
+County,Murray,2013,"  8,536 ","  3,679 ",2.28
+County,Nicollet,2013,"  33,002 ","  12,410 ",2.44
+County,Nobles,2013,"  21,593 ","  8,018 ",2.65
+County,Norman,2013,"  6,634 ","  2,792 ",2.32
+County,Olmsted,2013,"  149,189 ","  58,866 ",2.49
+County,Otter Tail,2013,"  57,588 ","  24,228 ",2.33
+County,Pennington,2013,"  14,121 ","  5,917 ",2.33
+County,Pine,2013,"  29,125 ","  11,281 ",2.43
+County,Pipestone,2013,"  9,306 ","  3,988 ",2.28
+County,Polk,2013,"  31,569 ","  12,739 ",2.37
+County,Pope,2013,"  10,929 ","  4,741 ",2.27
+County,Ramsey,2013,"  525,146 ","  207,949 ",2.44
+County,Red Lake,2013,"  4,071 ","  1,737 ",2.32
+County,Redwood,2013,"  15,755 ","  6,515 ",2.36
+County,Renville,2013,"  15,214 ","  6,425 ",2.31
+County,Rice,2013,"  64,656 ","  22,590 ",2.54
+County,Rock,2013,"  9,524 ","  3,895 ",2.38
+County,Roseau,2013,"  15,522 ","  6,301 ",2.43
+County,Scott,2013,"  136,926 ","  47,111 ",2.88
+County,Sherburne,2013,"  90,203 ","  30,816 ",2.86
+County,Sibley,2013,"  15,074 ","  6,001 ",2.47
+County,St. Louis,2013,"  200,398 ","  85,451 ",2.24
+County,Stearns,2013,"  152,063 ","  57,057 ",2.53
+County,Steele,2013,"  36,417 ","  14,382 ",2.49
+County,Stevens,2013,"  9,748 ","  3,718 ",2.35
+County,Swift,2013,"  9,551 ","  4,191 ",2.24
+County,Todd,2013,"  24,374 ","  9,669 ",2.49
+County,Traverse,2013,"  3,460 ","  1,506 ",2.23
+County,Wabasha,2013,"  21,442 ","  8,806 ",2.41
+County,Wadena,2013,"  13,821 ","  5,729 ",2.33
+County,Waseca,2013,"  19,075 ","  7,311 ",2.43
+County,Washington,2013,"  248,095 ","  91,292 ",2.68
+County,Watonwan,2013,"  11,136 ","  4,504 ",2.44
+County,Wilkin,2013,"  6,558 ","  2,703 ",2.37
+County,Winona,2013,"  51,362 ","  19,698 ",2.38
+County,Wright,2013,"  128,459 ","  45,659 ",2.79
+County,Yellow Medicine,2013,"  10,150 ","  4,217 ",2.34
+State,Minnesota,2012,"  5,368,972 ","  2,110,877 ",2.48
+EDR,01 (Northwest),2012,"  85,671 ","  35,390 ",2.36
+EDR,02 (Headwaters),2012,"  83,877 ","  33,296 ",2.44
+EDR,03 (Arrowhead),2012,"  325,759 ","  138,023 ",2.26
+EDR,04 (West Central),2012,"  223,455 ","  91,228 ",2.37
+EDR,05 (North Central),2012,"  162,579 ","  66,680 ",2.40
+EDR,06E (Southwest Central),2012,"  116,864 ","  47,006 ",2.44
+EDR,06W (Upper MN Valley),2012,"  44,277 ","  18,986 ",2.28
+EDR,07E (East Central),2012,"  162,813 ","  61,434 ",2.57
+EDR,07W (Central),2012,"  407,042 ","  147,964 ",2.67
+EDR,08 (Southwest),2012,"  118,204 ","  48,232 ",2.39
+EDR,09 (South Central),2012,"  231,631 ","  91,848 ",2.40
+EDR,10 (Southeast),2012,"  497,799 ","  195,519 ",2.45
+EDR,11 (7 County Twin Cities),2012,"  2,909,001 ","  1,135,271 ",2.51
+County,Aitkin,2012,"  15,919 ","  7,221 ",2.17
+County,Anoka,2012,"  336,748 ","  122,997 ",2.71
+County,Becker,2012,"  32,973 ","  13,477 ",2.41
+County,Beltrami,2012,"  45,325 ","  17,246 ",2.51
+County,Benton,2012,"  38,861 ","  15,287 ",2.47
+County,Big Stone,2012,"  5,164 ","  2,255 ",2.23
+County,Blue Earth,2012,"  65,089 ","  24,935 ",2.43
+County,Brown,2012,"  25,559 ","  10,728 ",2.28
+County,Carlton,2012,"  35,404 ","  13,558 ",2.46
+County,Carver,2012,"  93,584 ","  33,698 ",2.75
+County,Cass,2012,"  28,350 ","  11,919 ",2.36
+County,Chippewa,2012,"  12,181 ","  5,177 ",2.31
+County,Chisago,2012,"  53,576 ","  19,504 ",2.66
+County,Clay,2012,"  60,118 ","  22,727 ",2.47
+County,Clearwater,2012,"  8,713 ","  3,540 ",2.43
+County,Cook,2012,"  5,190 ","  2,514 ",2.04
+County,Cottonwood,2012,"  11,592 ","  4,845 ",2.34
+County,Crow Wing,2012,"  62,876 ","  26,271 ",2.37
+County,Dakota,2012,"  404,493 ","  154,274 ",2.60
+County,Dodge,2012,"  20,237 ","  7,536 ",2.67
+County,Douglas,2012,"  36,412 ","  15,586 ",2.30
+County,Faribault,2012,"  14,280 ","  6,184 ",2.25
+County,Fillmore,2012,"  20,837 ","  8,584 ",2.39
+County,Freeborn,2012,"  31,027 ","  13,179 ",2.31
+County,Goodhue,2012,"  46,331 ","  18,881 ",2.41
+County,Grant,2012,"  5,950 ","  2,598 ",2.25
+County,Hennepin,2012,"  1,180,138 ","  483,488 ",2.39
+County,Houston,2012,"  18,839 ","  7,857 ",2.36
+County,Hubbard,2012,"  20,359 ","  8,696 ",2.32
+County,Isanti,2012,"  38,235 ","  14,154 ",2.67
+County,Itasca,2012,"  45,199 ","  18,938 ",2.33
+County,Jackson,2012,"  10,279 ","  4,458 ",2.28
+County,Kanabec,2012,"  16,011 ","  6,382 ",2.47
+County,Kandiyohi,2012,"  42,315 ","  16,822 ",2.45
+County,Kittson,2012,"  4,496 ","  1,971 ",2.22
+County,Koochiching,2012,"  13,208 ","  5,858 ",2.21
+County,Lac qui Parle,2012,"  7,109 ","  3,117 ",2.23
+County,Lake,2012,"  10,815 ","  4,836 ",2.19
+County,Lake of the Woods,2012,"  3,976 ","  1,768 ",2.22
+County,Le Sueur,2012,"  27,673 ","  10,791 ",2.54
+County,Lincoln,2012,"  5,816 ","  2,553 ",2.23
+County,Lyon,2012,"  25,667 ","  10,236 ",2.41
+County,Mahnomen,2012,"  5,504 ","  2,046 ",2.65
+County,Marshall,2012,"  9,445 ","  3,991 ",2.35
+County,Martin,2012,"  20,477 ","  8,977 ",2.24
+County,McLeod,2012,"  36,104 ","  14,548 ",2.45
+County,Meeker,2012,"  23,056 ","  9,153 ",2.48
+County,Mille Lacs,2012,"  25,743 ","  10,099 ",2.50
+County,Morrison,2012,"  33,049 ","  13,103 ",2.48
+County,Mower,2012,"  39,314 ","  15,907 ",2.43
+County,Murray,2012,"  8,573 ","  3,690 ",2.28
+County,Nicollet,2012,"  33,018 ","  12,353 ",2.45
+County,Nobles,2012,"  21,474 ","  8,001 ",2.64
+County,Norman,2012,"  6,656 ","  2,796 ",2.33
+County,Olmsted,2012,"  147,123 ","  58,209 ",2.48
+County,Otter Tail,2012,"  57,297 ","  24,183 ",2.32
+County,Pennington,2012,"  14,075 ","  5,898 ",2.33
+County,Pine,2012,"  29,248 ","  11,295 ",2.44
+County,Pipestone,2012,"  9,394 ","  4,007 ",2.29
+County,Polk,2012,"  31,429 ","  12,706 ",2.37
+County,Pope,2012,"  10,897 ","  4,728 ",2.27
+County,Ramsey,2012,"  517,399 ","  204,799 ",2.43
+County,Red Lake,2012,"  4,086 ","  1,741 ",2.33
+County,Redwood,2012,"  15,842 ","  6,539 ",2.37
+County,Renville,2012,"  15,389 ","  6,483 ",2.32
+County,Rice,2012,"  64,747 ","  22,507 ",2.54
+County,Rock,2012,"  9,567 ","  3,903 ",2.38
+County,Roseau,2012,"  15,484 ","  6,287 ",2.43
+County,Scott,2012,"  133,326 ","  46,140 ",2.86
+County,Sherburne,2012,"  89,457 ","  30,659 ",2.85
+County,Sibley,2012,"  15,118 ","  6,018 ",2.47
+County,St. Louis,2012,"  200,024 ","  85,098 ",2.24
+County,Stearns,2012,"  151,591 ","  56,755 ",2.53
+County,Steele,2012,"  36,299 ","  14,335 ",2.50
+County,Stevens,2012,"  9,751 ","  3,713 ",2.35
+County,Swift,2012,"  9,609 ","  4,208 ",2.25
+County,Todd,2012,"  24,526 ","  9,693 ",2.50
+County,Traverse,2012,"  3,471 ","  1,505 ",2.24
+County,Wabasha,2012,"  21,482 ","  8,803 ",2.41
+County,Wadena,2012,"  13,778 ","  5,694 ",2.33
+County,Waseca,2012,"  19,229 ","  7,338 ",2.44
+County,Washington,2012,"  243,313 ","  89,875 ",2.67
+County,Watonwan,2012,"  11,188 ","  4,524 ",2.44
+County,Wilkin,2012,"  6,586 ","  2,711 ",2.37
+County,Winona,2012,"  51,563 ","  19,721 ",2.39
+County,Wright,2012,"  127,133 ","  45,263 ",2.78
+County,Yellow Medicine,2012,"  10,214 ","  4,229 ",2.35
+State,Minnesota,2011,"  5,332,246 ","  2,101,295 ",2.47
+EDR,01 (Northwest),2011,"  86,008 ","  35,491 ",2.36
+EDR,02 (Headwaters),2011,"  83,877 ","  33,246 ",2.45
+EDR,03 (Arrowhead),2011,"  326,130 ","  137,967 ",2.27
+EDR,04 (West Central),2011,"  222,649 ","  90,791 ",2.37
+EDR,05 (North Central),2011,"  162,885 ","  66,701 ",2.41
+EDR,06E (Southwest Central),2011,"  117,389 ","  47,094 ",2.45
+EDR,06W (Upper MN Valley),2011,"  44,775 ","  19,120 ",2.29
+EDR,07E (East Central),2011,"  163,958 ","  61,608 ",2.58
+EDR,07W (Central),2011,"  404,541 ","  147,063 ",2.67
+EDR,08 (Southwest),2011,"  118,815 ","  48,302 ",2.40
+EDR,09 (South Central),2011,"  231,521 ","  91,658 ",2.41
+EDR,10 (Southeast),2011,"  496,254 ","  194,654 ",2.45
+EDR,11 (7 County Twin Cities),2011,"  2,873,444 ","  1,127,600 ",2.50
+County,Aitkin,2011,"  16,202 ","  7,330 ",2.17
+County,Anoka,2011,"  334,053 ","  122,151 ",2.71
+County,Becker,2011,"  32,770 ","  13,372 ",2.42
+County,Beltrami,2011,"  45,212 ","  17,163 ",2.51
+County,Benton,2011,"  38,558 ","  15,155 ",2.48
+County,Big Stone,2011,"  5,240 ","  2,285 ",2.23
+County,Blue Earth,2011,"  64,383 ","  24,634 ",2.43
+County,Brown,2011,"  25,756 ","  10,781 ",2.29
+County,Carlton,2011,"  35,492 ","  13,586 ",2.46
+County,Carver,2011,"  92,104 ","  33,202 ",2.74
+County,Cass,2011,"  28,396 ","  11,926 ",2.36
+County,Chippewa,2011,"  12,332 ","  5,214 ",2.32
+County,Chisago,2011,"  53,929 ","  19,537 ",2.67
+County,Clay,2011,"  59,644 ","  22,516 ",2.48
+County,Clearwater,2011,"  8,774 ","  3,561 ",2.43
+County,Cook,2011,"  5,216 ","  2,521 ",2.05
+County,Cottonwood,2011,"  11,682 ","  4,860 ",2.35
+County,Crow Wing,2011,"  62,745 ","  26,193 ",2.37
+County,Dakota,2011,"  401,221 ","  153,098 ",2.60
+County,Dodge,2011,"  20,243 ","  7,528 ",2.67
+County,Douglas,2011,"  36,240 ","  15,498 ",2.30
+County,Faribault,2011,"  14,506 ","  6,246 ",2.27
+County,Fillmore,2011,"  20,868 ","  8,580 ",2.39
+County,Freeborn,2011,"  31,160 ","  13,195 ",2.31
+County,Goodhue,2011,"  46,168 ","  18,803 ",2.41
+County,Grant,2011,"  5,993 ","  2,608 ",2.26
+County,Hennepin,2011,"  1,163,060 ","  480,754 ",2.36
+County,Houston,2011,"  18,933 ","  7,860 ",2.38
+County,Hubbard,2011,"  20,439 ","  8,714 ",2.33
+County,Isanti,2011,"  38,209 ","  14,128 ",2.67
+County,Itasca,2011,"  45,034 ","  18,847 ",2.34
+County,Jackson,2011,"  10,203 ","  4,422 ",2.28
+County,Kanabec,2011,"  16,170 ","  6,419 ",2.48
+County,Kandiyohi,2011,"  42,118 ","  16,769 ",2.45
+County,Kittson,2011,"  4,528 ","  1,984 ",2.23
+County,Koochiching,2011,"  13,221 ","  5,859 ",2.22
+County,Lac qui Parle,2011,"  7,195 ","  3,145 ",2.24
+County,Lake,2011,"  10,822 ","  4,831 ",2.19
+County,Lake of the Woods,2011,"  4,011 ","  1,777 ",2.23
+County,Le Sueur,2011,"  27,655 ","  10,772 ",2.54
+County,Lincoln,2011,"  5,819 ","  2,552 ",2.23
+County,Lyon,2011,"  25,951 ","  10,265 ",2.42
+County,Mahnomen,2011,"  5,441 ","  2,031 ",2.64
+County,Marshall,2011,"  9,473 ","  4,000 ",2.35
+County,Martin,2011,"  20,716 ","  9,017 ",2.26
+County,McLeod,2011,"  36,489 ","  14,628 ",2.46
+County,Meeker,2011,"  23,242 ","  9,181 ",2.49
+County,Mille Lacs,2011,"  26,003 ","  10,155 ",2.51
+County,Morrison,2011,"  33,212 ","  13,142 ",2.49
+County,Mower,2011,"  39,281 ","  15,891 ",2.43
+County,Murray,2011,"  8,640 ","  3,701 ",2.29
+County,Nicollet,2011,"  32,949 ","  12,318 ",2.45
+County,Nobles,2011,"  21,365 ","  7,970 ",2.63
+County,Norman,2011,"  6,859 ","  2,872 ",2.34
+County,Olmsted,2011,"  145,379 ","  57,595 ",2.48
+County,Otter Tail,2011,"  57,243 ","  24,125 ",2.32
+County,Pennington,2011,"  14,018 ","  5,879 ",2.33
+County,Pine,2011,"  29,647 ","  11,369 ",2.45
+County,Pipestone,2011,"  9,525 ","  4,038 ",2.31
+County,Polk,2011,"  31,489 ","  12,708 ",2.37
+County,Pope,2011,"  10,896 ","  4,721 ",2.27
+County,Ramsey,2011,"  510,810 ","  203,818 ",2.41
+County,Red Lake,2011,"  4,105 ","  1,747 ",2.33
+County,Redwood,2011,"  15,986 ","  6,579 ",2.37
+County,Renville,2011,"  15,540 ","  6,516 ",2.33
+County,Rice,2011,"  64,717 ","  22,423 ",2.54
+County,Rock,2011,"  9,644 ","  3,915 ",2.40
+County,Roseau,2011,"  15,536 ","  6,301 ",2.44
+County,Scott,2011,"  131,556 ","  45,656 ",2.85
+County,Sherburne,2011,"  88,954 ","  30,439 ",2.85
+County,Sibley,2011,"  15,193 ","  6,039 ",2.48
+County,St. Louis,2011,"  200,143 ","  84,993 ",2.24
+County,Stearns,2011,"  150,996 ","  56,514 ",2.53
+County,Steele,2011,"  36,530 ","  14,343 ",2.51
+County,Stevens,2011,"  9,749 ","  3,724 ",2.36
+County,Swift,2011,"  9,677 ","  4,216 ",2.26
+County,Todd,2011,"  24,823 ","  9,777 ",2.51
+County,Traverse,2011,"  3,530 ","  1,519 ",2.26
+County,Wabasha,2011,"  21,589 ","  8,827 ",2.42
+County,Wadena,2011,"  13,709 ","  5,663 ",2.34
+County,Waseca,2011,"  19,166 ","  7,326 ",2.44
+County,Washington,2011,"  240,640 ","  88,921 ",2.67
+County,Watonwan,2011,"  11,197 ","  4,525 ",2.44
+County,Wilkin,2011,"  6,584 ","  2,708 ",2.38
+County,Winona,2011,"  51,386 ","  19,609 ",2.39
+County,Wright,2011,"  126,033 ","  44,955 ",2.78
+County,Yellow Medicine,2011,"  10,331 ","  4,260 ",2.36
+State,Minnesota,2010,"  5,303,925 ","  2,087,227 ",2.48
+EDR,01 (Northwest),2010,"  86,091 ","  35,407 ",2.37
+EDR,02 (Headwaters),2010,"  83,023 ","  32,837 ",2.45
+EDR,03 (Arrowhead),2010,"  326,225 ","  137,586 ",2.27
+EDR,04 (West Central),2010,"  221,688 ","  90,124 ",2.38
+EDR,05 (North Central),2010,"  163,003 ","  66,522 ",2.42
+EDR,06E (Southwest Central),2010,"  117,920 ","  47,111 ",2.46
+EDR,06W (Upper MN Valley),2010,"  45,190 ","  19,217 ",2.30
+EDR,07E (East Central),2010,"  163,789 ","  61,394 ",2.59
+EDR,07W (Central),2010,"  402,292 ","  145,996 ",2.67
+EDR,08 (Southwest),2010,"  119,151 ","  48,302 ",2.41
+EDR,09 (South Central),2010,"  231,302 ","  91,292 ",2.41
+EDR,10 (Southeast),2010,"  494,684 ","  193,690 ",2.46
+EDR,11 (7 County Twin Cities),2010,"  2,849,567 ","  1,117,749 ",2.50
+County,Aitkin,2010,"  16,202 ","  7,299 ",2.18
+County,Anoka,2010,"  330,844 ","  121,227 ",2.70
+County,Becker,2010,"  32,504 ","  13,224 ",2.42
+County,Beltrami,2010,"  44,442 ","  16,846 ",2.51
+County,Benton,2010,"  38,451 ","  15,079 ",2.48
+County,Big Stone,2010,"  5,269 ","  2,293 ",2.24
+County,Blue Earth,2010,"  64,013 ","  24,445 ",2.43
+County,Brown,2010,"  25,893 ","  10,782 ",2.30
+County,Carlton,2010,"  35,386 ","  13,538 ",2.47
+County,Carver,2010,"  91,042 ","  32,891 ",2.74
+County,Cass,2010,"  28,567 ","  11,948 ",2.37
+County,Chippewa,2010,"  12,441 ","  5,241 ",2.33
+County,Chisago,2010,"  53,887 ","  19,470 ",2.68
+County,Clay,2010,"  58,999 ","  22,279 ",2.48
+County,Clearwater,2010,"  8,695 ","  3,527 ",2.43
+County,Cook,2010,"  5,176 ","  2,494 ",2.05
+County,Cottonwood,2010,"  11,687 ","  4,857 ",2.36
+County,Crow Wing,2010,"  62,500 ","  26,033 ",2.37
+County,Dakota,2010,"  398,552 ","  152,060 ",2.60
+County,Dodge,2010,"  20,087 ","  7,460 ",2.67
+County,Douglas,2010,"  36,009 ","  15,289 ",2.32
+County,Faribault,2010,"  14,553 ","  6,236 ",2.28
+County,Fillmore,2010,"  20,866 ","  8,545 ",2.40
+County,Freeborn,2010,"  31,255 ","  13,177 ",2.32
+County,Goodhue,2010,"  46,183 ","  18,730 ",2.42
+County,Grant,2010,"  6,018 ","  2,601 ",2.27
+County,Hennepin,2010,"  1,152,425 ","  475,913 ",2.37
+County,Houston,2010,"  19,027 ","  7,849 ",2.39
+County,Hubbard,2010,"  20,428 ","  8,661 ",2.34
+County,Isanti,2010,"  37,816 ","  13,972 ",2.67
+County,Itasca,2010,"  45,058 ","  18,773 ",2.35
+County,Jackson,2010,"  10,266 ","  4,429 ",2.29
+County,Kanabec,2010,"  16,239 ","  6,413 ",2.49
+County,Kandiyohi,2010,"  42,239 ","  16,732 ",2.46
+County,Kittson,2010,"  4,552 ","  1,986 ",2.24
+County,Koochiching,2010,"  13,311 ","  5,874 ",2.23
+County,Lac qui Parle,2010,"  7,259 ","  3,155 ",2.25
+County,Lake,2010,"  10,866 ","  4,825 ",2.21
+County,Lake of the Woods,2010,"  4,045 ","  1,784 ",2.24
+County,Le Sueur,2010,"  27,703 ","  10,758 ",2.55
+County,Lincoln,2010,"  5,896 ","  2,574 ",2.24
+County,Lyon,2010,"  25,857 ","  10,227 ",2.42
+County,Mahnomen,2010,"  5,413 ","  2,019 ",2.64
+County,Marshall,2010,"  9,439 ","  3,981 ",2.35
+County,Martin,2010,"  20,840 ","  9,035 ",2.27
+County,McLeod,2010,"  36,651 ","  14,639 ",2.47
+County,Meeker,2010,"  23,300 ","  9,176 ",2.50
+County,Mille Lacs,2010,"  26,097 ","  10,166 ",2.52
+County,Morrison,2010,"  33,198 ","  13,080 ",2.50
+County,Mower,2010,"  39,163 ","  15,828 ",2.43
+County,Murray,2010,"  8,725 ","  3,717 ",2.30
+County,Nicollet,2010,"  32,727 ","  12,201 ",2.46
+County,Nobles,2010,"  21,378 ","  7,946 ",2.64
+County,Norman,2010,"  6,852 ","  2,863 ",2.34
+County,Olmsted,2010,"  144,248 ","  57,080 ",2.48
+County,Otter Tail,2010,"  57,303 ","  24,055 ",2.33
+County,Pennington,2010,"  13,930 ","  5,836 ",2.33
+County,Pine,2010,"  29,750 ","  11,373 ",2.46
+County,Pipestone,2010,"  9,596 ","  4,054 ",2.32
+County,Polk,2010,"  31,600 ","  12,704 ",2.38
+County,Pope,2010,"  10,995 ","  4,736 ",2.28
+County,Ramsey,2010,"  508,640 ","  202,691 ",2.42
+County,Red Lake,2010,"  4,089 ","  1,737 ",2.33
+County,Redwood,2010,"  16,059 ","  6,580 ",2.38
+County,Renville,2010,"  15,730 ","  6,564 ",2.34
+County,Rice,2010,"  64,142 ","  22,315 ",2.55
+County,Rock,2010,"  9,687 ","  3,918 ",2.41
+County,Roseau,2010,"  15,629 ","  6,300 ",2.45
+County,Scott,2010,"  129,928 ","  45,108 ",2.85
+County,Sherburne,2010,"  88,499 ","  30,212 ",2.86
+County,Sibley,2010,"  15,226 ","  6,034 ",2.49
+County,St. Louis,2010,"  200,226 ","  84,783 ",2.25
+County,Stearns,2010,"  150,642 ","  56,232 ",2.53
+County,Steele,2010,"  36,576 ","  14,330 ",2.51
+County,Stevens,2010,"  9,726 ","  3,726 ",2.37
+County,Swift,2010,"  9,783 ","  4,236 ",2.27
+County,Todd,2010,"  24,895 ","  9,756 ",2.52
+County,Traverse,2010,"  3,558 ","  1,524 ",2.27
+County,Wabasha,2010,"  21,676 ","  8,822 ",2.43
+County,Wadena,2010,"  13,843 ","  5,705 ",2.34
+County,Waseca,2010,"  19,136 ","  7,281 ",2.44
+County,Washington,2010,"  238,136 ","  87,859 ",2.67
+County,Watonwan,2010,"  11,211 ","  4,520 ",2.45
+County,Wilkin,2010,"  6,576 ","  2,690 ",2.39
+County,Winona,2010,"  51,461 ","  19,554 ",2.40
+County,Wright,2010,"  124,700 ","  44,473 ",2.78
+County,Yellow Medicine,2010,"  10,438 ","  4,292 ",2.36
+State,Minnesota,2009,"  5,300,942 ","  2,108,843 ",2.45
+EDR,01 (Northwest),2009,"  85,213 ","  35,412 ",2.33
+EDR,02 (Headwaters),2009,"  80,086 ","  31,730 ",2.45
+EDR,03 (Arrowhead),2009,"  320,174 ","  137,892 ",2.23
+EDR,04 (West Central),2009,"  218,184 ","  90,294 ",2.33
+EDR,05 (North Central),2009,"  160,675 ","  67,010 ",2.36
+EDR,06E (Southwest Central),2009,"  117,508 ","  47,526 ",2.43
+EDR,06W (Upper MN Valley),2009,"  45,793 ","  19,303 ",2.26
+EDR,07E (East Central),2009,"  160,414 ","  60,907 ",2.56
+EDR,07W (Central),2009,"  397,622 ","  146,909 ",2.63
+EDR,08 (Southwest),2009,"  115,827 ","  48,202 ",2.33
+EDR,09 (South Central),2009,"  227,182 ","  91,339 ",2.37
+EDR,10 (Southeast),2009,"  490,452 ","  193,807 ",2.43
+EDR,11 (7 County Twin Cities),2009,"  2,881,812 ","  1,138,512 ",2.48
+County,Aitkin,2009,"  15,737 ","  7,111 ",2.18
+County,Anoka,2009,"  335,308 ","  122,105 ",2.72
+County,Becker,2009,"  32,113 ","  13,273 ",2.38
+County,Beltrami,2009,"  44,173 ","  16,480 ",2.56
+County,Benton,2009,"  40,145 ","  15,741 ",2.50
+County,Big Stone,2009,"  5,327 ","  2,222 ",2.29
+County,Blue Earth,2009,"  61,024 ","  24,175 ",2.35
+County,Brown,2009,"  25,929 ","  10,890 ",2.29
+County,Carlton,2009,"  34,266 ","  13,610 ",2.40
+County,Carver,2009,"  91,228 ","  32,867 ",2.74
+County,Cass,2009,"  28,338 ","  12,078 ",2.33
+County,Chippewa,2009,"  12,388 ","  5,344 ",2.27
+County,Chisago,2009,"  50,489 ","  18,220 ",2.69
+County,Clay,2009,"  56,763 ","  22,038 ",2.39
+County,Clearwater,2009,"  8,232 ","  3,415 ",2.36
+County,Cook,2009,"  5,441 ","  2,583 ",2.08
+County,Cottonwood,2009,"  11,096 ","  4,757 ",2.26
+County,Crow Wing,2009,"  62,370 ","  26,423 ",2.33
+County,Dakota,2009,"  400,675 ","  152,997 ",2.60
+County,Dodge,2009,"  19,747 ","  7,424 ",2.64
+County,Douglas,2009,"  36,333 ","  15,702 ",2.27
+County,Faribault,2009,"  14,562 ","  6,287 ",2.25
+County,Fillmore,2009,"  20,828 ","  8,528 ",2.38
+County,Freeborn,2009,"  31,035 ","  13,374 ",2.28
+County,Goodhue,2009,"  45,898 ","  18,442 ",2.43
+County,Grant,2009,"  5,849 ","  2,473 ",2.30
+County,Hennepin,2009,"  1,168,983 ","  487,813 ",2.34
+County,Houston,2009,"  19,381 ","  7,884 ",2.42
+County,Hubbard,2009,"  18,753 ","  7,987 ",2.33
+County,Isanti,2009,"  39,176 ","  14,725 ",2.63
+County,Itasca,2009,"  44,663 ","  19,212 ",2.29
+County,Jackson,2009,"  10,775 ","  4,587 ",2.29
+County,Kanabec,2009,"  16,063 ","  6,427 ",2.48
+County,Kandiyohi,2009,"  41,392 ","  16,819 ",2.42
+County,Kittson,2009,"  4,475 ","  1,949 ",2.24
+County,Koochiching,2009,"  13,178 ","  5,937 ",2.18
+County,Lac qui Parle,2009,"  7,213 ","  3,162 ",2.23
+County,Lake,2009,"  10,853 ","  4,782 ",2.22
+County,Lake of the Woods,2009,"  3,903 ","  1,851 ",2.08
+County,Le Sueur,2009,"  28,068 ","  11,055 ",2.51
+County,Lincoln,2009,"  5,806 ","  2,556 ",2.20
+County,Lyon,2009,"  24,964 ","  10,055 ",2.36
+County,Mahnomen,2009,"  5,025 ","  1,997 ",2.48
+County,Marshall,2009,"  9,477 ","  4,078 ",2.30
+County,Martin,2009,"  20,429 ","  9,013 ",2.22
+County,McLeod,2009,"  37,058 ","  14,729 ",2.48
+County,Meeker,2009,"  23,073 ","  9,218 ",2.46
+County,Mille Lacs,2009,"  26,378 ","  10,521 ",2.46
+County,Morrison,2009,"  32,722 ","  13,101 ",2.46
+County,Mower,2009,"  38,105 ","  16,034 ",2.33
+County,Murray,2009,"  8,410 ","  3,660 ",2.26
+County,Nicollet,2009,"  32,153 ","  12,102 ",2.43
+County,Nobles,2009,"  20,402 ","  8,065 ",2.48
+County,Norman,2009,"  6,628 ","  2,861 ",2.25
+County,Olmsted,2009,"  143,378 ","  57,109 ",2.45
+County,Otter Tail,2009,"  56,556 ","  24,010 ",2.30
+County,Pennington,2009,"  13,738 ","  5,852 ",2.28
+County,Pine,2009,"  28,308 ","  11,014 ",2.41
+County,Pipestone,2009,"  9,339 ","  4,056 ",2.25
+County,Polk,2009,"  30,817 ","  12,527 ",2.34
+County,Pope,2009,"  10,922 ","  4,672 ",2.28
+County,Ramsey,2009,"  517,748 ","  209,214 ",2.38
+County,Red Lake,2009,"  4,157 ","  1,779 ",2.25
+County,Redwood,2009,"  15,518 ","  6,521 ",2.31
+County,Renville,2009,"  15,985 ","  6,760 ",2.31
+County,Rice,2009,"  63,408 ","  21,993 ",2.54
+County,Rock,2009,"  9,517 ","  3,945 ",2.36
+County,Roseau,2009,"  15,921 ","  6,366 ",2.46
+County,Scott,2009,"  130,953 ","  45,396 ",2.86
+County,Sherburne,2009,"  88,122 ","  30,054 ",2.86
+County,Sibley,2009,"  14,988 ","  5,947 ",2.47
+County,St. Louis,2009,"  196,036 ","  84,657 ",2.20
+County,Stearns,2009,"  148,671 ","  56,487 ",2.50
+County,Steele,2009,"  36,792 ","  14,398 ",2.52
+County,Stevens,2009,"  9,648 ","  3,877 ",2.26
+County,Swift,2009,"  10,825 ","  4,289 ",2.27
+County,Todd,2009,"  23,864 ","  9,784 ",2.41
+County,Traverse,2009,"  3,581 ","  1,576 ",2.20
+County,Wabasha,2009,"  21,900 ","  8,890 ",2.43
+County,Wadena,2009,"  13,381 ","  5,624 ",2.30
+County,Waseca,2009,"  18,989 ","  7,324 ",2.45
+County,Washington,2009,"  236,917 ","  88,120 ",2.65
+County,Watonwan,2009,"  11,040 ","  4,546 ",2.39
+County,Wilkin,2009,"  6,419 ","  2,673 ",2.34
+County,Winona,2009,"  49,980 ","  19,731 ",2.31
+County,Wright,2009,"  120,684 ","  44,627 ",2.68
+County,Yellow Medicine,2009,"  10,040 ","  4,286 ",2.27
+State,Minnesota,2008,"  5,287,976 ","  2,095,574 ",2.46
+EDR,01 (Northwest),2008,"  85,721 ","  35,486 ",2.34
+EDR,02 (Headwaters),2008,"  80,015 ","  31,691 ",2.45
+EDR,03 (Arrowhead),2008,"  320,067 ","  137,691 ",2.23
+EDR,04 (West Central),2008,"  218,276 ","  89,785 ",2.34
+EDR,05 (North Central),2008,"  160,821 ","  66,598 ",2.38
+EDR,06E (Southwest Central),2008,"  118,427 ","  47,620 ",2.45
+EDR,06W (Upper MN Valley),2008,"  46,883 ","  19,441 ",2.29
+EDR,07E (East Central),2008,"  160,479 ","  60,726 ",2.57
+EDR,07W (Central),2008,"  394,023 ","  144,543 ",2.65
+EDR,08 (Southwest),2008,"  116,226 ","  48,077 ",2.34
+EDR,09 (South Central),2008,"  227,855 ","  91,150 ",2.38
+EDR,10 (Southeast),2008,"  488,933 ","  192,800 ",2.44
+EDR,11 (7 County Twin Cities),2008,"  2,870,250 ","  1,129,966 ",2.49
+County,Aitkin,2008,"  16,054 ","  7,235 ",2.19
+County,Anoka,2008,"  332,751 ","  120,891 ",2.72
+County,Becker,2008,"  32,302 ","  13,280 ",2.40
+County,Beltrami,2008,"  43,861 ","  16,397 ",2.56
+County,Benton,2008,"  39,805 ","  15,611 ",2.50
+County,Big Stone,2008,"  5,466 ","  2,261 ",2.31
+County,Blue Earth,2008,"  60,393 ","  23,974 ",2.35
+County,Brown,2008,"  26,155 ","  10,898 ",2.31
+County,Carlton,2008,"  34,128 ","  13,503 ",2.41
+County,Carver,2008,"  89,615 ","  32,283 ",2.74
+County,Cass,2008,"  28,654 ","  12,112 ",2.35
+County,Chippewa,2008,"  12,512 ","  5,365 ",2.28
+County,Chisago,2008,"  50,384 ","  18,057 ",2.71
+County,Clay,2008,"  55,900 ","  21,599 ",2.40
+County,Clearwater,2008,"  8,247 ","  3,412 ",2.37
+County,Cook,2008,"  5,437 ","  2,578 ",2.09
+County,Cottonwood,2008,"  11,222 ","  4,784 ",2.27
+County,Crow Wing,2008,"  61,739 ","  26,053 ",2.33
+County,Dakota,2008,"  398,487 ","  151,450 ",2.61
+County,Dodge,2008,"  19,774 ","  7,415 ",2.64
+County,Douglas,2008,"  36,151 ","  15,540 ",2.29
+County,Faribault,2008,"  14,784 ","  6,344 ",2.26
+County,Fillmore,2008,"  20,940 ","  8,518 ",2.40
+County,Freeborn,2008,"  31,187 ","  13,393 ",2.29
+County,Goodhue,2008,"  46,018 ","  18,419 ",2.44
+County,Grant,2008,"  5,993 ","  2,521 ",2.31
+County,Hennepin,2008,"  1,169,151 ","  485,377 ",2.35
+County,Houston,2008,"  19,561 ","  7,918 ",2.43
+County,Hubbard,2008,"  18,823 ","  7,980 ",2.34
+County,Isanti,2008,"  39,059 ","  14,663 ",2.63
+County,Itasca,2008,"  44,379 ","  19,039 ",2.30
+County,Jackson,2008,"  10,842 ","  4,596 ",2.30
+County,Kanabec,2008,"  16,311 ","  6,492 ",2.50
+County,Kandiyohi,2008,"  41,689 ","  16,819 ",2.44
+County,Kittson,2008,"  4,615 ","  1,989 ",2.26
+County,Koochiching,2008,"  13,302 ","  5,975 ",2.19
+County,Lac qui Parle,2008,"  7,321 ","  3,176 ",2.25
+County,Lake,2008,"  10,970 ","  4,808 ",2.23
+County,Lake of the Woods,2008,"  3,999 ","  1,888 ",2.09
+County,Le Sueur,2008,"  28,022 ","  11,034 ",2.51
+County,Lincoln,2008,"  5,882 ","  2,570 ",2.21
+County,Lyon,2008,"  24,865 ","  9,943 ",2.37
+County,Mahnomen,2008,"  5,085 ","  2,014 ",2.49
+County,Marshall,2008,"  9,648 ","  4,135 ",2.31
+County,Martin,2008,"  20,637 ","  9,042 ",2.24
+County,McLeod,2008,"  37,289 ","  14,791 ",2.49
+County,Meeker,2008,"  23,141 ","  9,193 ",2.47
+County,Mille Lacs,2008,"  26,397 ","  10,500 ",2.46
+County,Morrison,2008,"  32,831 ","  13,023 ",2.48
+County,Mower,2008,"  38,080 ","  15,978 ",2.34
+County,Murray,2008,"  8,526 ","  3,682 ",2.28
+County,Nicollet,2008,"  32,024 ","  12,023 ",2.44
+County,Nobles,2008,"  20,386 ","  7,988 ",2.50
+County,Norman,2008,"  6,789 ","  2,891 ",2.28
+County,Olmsted,2008,"  141,326 ","  56,383 ",2.45
+County,Otter Tail,2008,"  56,875 ","  23,956 ",2.32
+County,Pennington,2008,"  13,694 ","  5,805 ",2.29
+County,Pine,2008,"  28,328 ","  11,014 ",2.42
+County,Pipestone,2008,"  9,364 ","  4,053 ",2.26
+County,Polk,2008,"  30,854 ","  12,529 ",2.34
+County,Pope,2008,"  11,073 ","  4,703 ",2.29
+County,Ramsey,2008,"  517,398 ","  208,611 ",2.39
+County,Red Lake,2008,"  4,111 ","  1,761 ",2.25
+County,Redwood,2008,"  15,680 ","  6,538 ",2.33
+County,Renville,2008,"  16,308 ","  6,817 ",2.34
+County,Rice,2008,"  62,898 ","  21,914 ",2.55
+County,Rock,2008,"  9,459 ","  3,923 ",2.36
+County,Roseau,2008,"  16,010 ","  6,376 ",2.47
+County,Scott,2008,"  128,500 ","  44,645 ",2.85
+County,Sherburne,2008,"  87,894 ","  29,837 ",2.86
+County,Sibley,2008,"  15,098 ","  5,945 ",2.50
+County,St. Louis,2008,"  195,797 ","  84,553 ",2.20
+County,Stearns,2008,"  146,989 ","  55,217 ",2.53
+County,Steele,2008,"  36,735 ","  14,374 ",2.51
+County,Stevens,2008,"  9,693 ","  3,873 ",2.27
+County,Swift,2008,"  11,312 ","  4,310 ",2.29
+County,Todd,2008,"  24,065 ","  9,764 ",2.43
+County,Traverse,2008,"  3,724 ","  1,617 ",2.23
+County,Wabasha,2008,"  22,205 ","  8,947 ",2.45
+County,Wadena,2008,"  13,532 ","  5,646 ",2.32
+County,Waseca,2008,"  19,456 ","  7,302 ",2.46
+County,Washington,2008,"  234,348 ","  86,709 ",2.66
+County,Watonwan,2008,"  11,286 ","  4,588 ",2.42
+County,Wilkin,2008,"  6,565 ","  2,696 ",2.37
+County,Winona,2008,"  50,209 ","  19,541 ",2.34
+County,Wright,2008,"  119,335 ","  43,878 ",2.70
+County,Yellow Medicine,2008,"  10,272 ","  4,329 ",2.30
+State,Minnesota,2007,"  5,263,493 ","  2,080,842 ",2.46
+EDR,01 (Northwest),2007,"  86,311 ","  35,488 ",2.36
+EDR,02 (Headwaters),2007,"  79,878 ","  31,430 ",2.47
+EDR,03 (Arrowhead),2007,"  320,424 ","  137,093 ",2.25
+EDR,04 (West Central),2007,"  219,262 ","  89,006 ",2.37
+EDR,05 (North Central),2007,"  161,000 ","  65,811 ",2.41
+EDR,06E (Southwest Central),2007,"  118,730 ","  47,622 ",2.45
+EDR,06W (Upper MN Valley),2007,"  47,330 ","  19,455 ",2.31
+EDR,07E (East Central),2007,"  160,098 ","  60,241 ",2.59
+EDR,07W (Central),2007,"  388,273 ","  142,510 ",2.65
+EDR,08 (Southwest),2007,"  117,205 ","  48,179 ",2.36
+EDR,09 (South Central),2007,"  228,031 ","  90,804 ",2.39
+EDR,10 (Southeast),2007,"  487,948 ","  191,668 ",2.45
+EDR,11 (7 County Twin Cities),2007,"  2,849,003 ","  1,121,535 ",2.49
+County,Aitkin,2007,"  16,067 ","  7,203 ",2.20
+County,Anoka,2007,"  331,246 ","  119,973 ",2.73
+County,Becker,2007,"  32,183 ","  13,107 ",2.42
+County,Beltrami,2007,"  43,320 ","  16,193 ",2.56
+County,Benton,2007,"  39,308 ","  15,489 ",2.49
+County,Big Stone,2007,"  5,473 ","  2,259 ",2.32
+County,Blue Earth,2007,"  59,723 ","  23,699 ",2.35
+County,Brown,2007,"  26,344 ","  10,863 ",2.33
+County,Carlton,2007,"  33,990 ","  13,435 ",2.42
+County,Carver,2007,"  88,384 ","  31,729 ",2.75
+County,Cass,2007,"  28,743 ","  11,990 ",2.37
+County,Chippewa,2007,"  12,645 ","  5,383 ",2.30
+County,Chisago,2007,"  50,433 ","  17,856 ",2.74
+County,Clay,2007,"  55,441 ","  21,234 ",2.42
+County,Clearwater,2007,"  8,314 ","  3,419 ",2.38
+County,Cook,2007,"  5,356 ","  2,528 ",2.09
+County,Cottonwood,2007,"  11,584 ","  4,869 ",2.31
+County,Crow Wing,2007,"  61,390 ","  25,563 ",2.37
+County,Dakota,2007,"  398,177 ","  150,295 ",2.63
+County,Dodge,2007,"  19,787 ","  7,403 ",2.65
+County,Douglas,2007,"  35,827 ","  15,274 ",2.30
+County,Faribault,2007,"  15,128 ","  6,451 ",2.28
+County,Fillmore,2007,"  21,086 ","  8,549 ",2.41
+County,Freeborn,2007,"  31,492 ","  13,444 ",2.30
+County,Goodhue,2007,"  46,092 ","  18,298 ",2.46
+County,Grant,2007,"  6,020 ","  2,517 ",2.33
+County,Hennepin,2007,"  1,157,283 ","  482,265 ",2.34
+County,Houston,2007,"  19,779 ","  7,938 ",2.45
+County,Hubbard,2007,"  18,891 ","  7,924 ",2.36
+County,Isanti,2007,"  38,881 ","  14,416 ",2.67
+County,Itasca,2007,"  44,278 ","  18,774 ",2.33
+County,Jackson,2007,"  11,015 ","  4,627 ",2.32
+County,Kanabec,2007,"  16,384 ","  6,491 ",2.51
+County,Kandiyohi,2007,"  41,763 ","  16,826 ",2.44
+County,Kittson,2007,"  4,678 ","  1,999 ",2.28
+County,Koochiching,2007,"  13,506 ","  6,026 ",2.20
+County,Lac qui Parle,2007,"  7,414 ","  3,186 ",2.27
+County,Lake,2007,"  11,119 ","  4,816 ",2.24
+County,Lake of the Woods,2007,"  4,279 ","  1,892 ",2.23
+County,Le Sueur,2007,"  27,840 ","  10,991 ",2.51
+County,Lincoln,2007,"  5,943 ","  2,581 ",2.23
+County,Lyon,2007,"  24,940 ","  9,933 ",2.39
+County,Mahnomen,2007,"  5,074 ","  2,002 ",2.50
+County,Marshall,2007,"  9,781 ","  4,153 ",2.33
+County,Martin,2007,"  20,731 ","  9,004 ",2.25
+County,McLeod,2007,"  37,130 ","  14,784 ",2.48
+County,Meeker,2007,"  23,371 ","  9,185 ",2.49
+County,Mille Lacs,2007,"  26,171 ","  10,405 ",2.47
+County,Morrison,2007,"  32,947 ","  12,912 ",2.51
+County,Mower,2007,"  38,423 ","  16,014 ",2.35
+County,Murray,2007,"  8,657 ","  3,711 ",2.30
+County,Nicollet,2007,"  32,042 ","  11,948 ",2.45
+County,Nobles,2007,"  20,399 ","  7,949 ",2.51
+County,Norman,2007,"  6,822 ","  2,891 ",2.29
+County,Olmsted,2007,"  139,418 ","  55,612 ",2.45
+County,Otter Tail,2007,"  58,437 ","  23,953 ",2.39
+County,Pennington,2007,"  13,708 ","  5,786 ",2.30
+County,Pine,2007,"  28,229 ","  11,073 ",2.43
+County,Pipestone,2007,"  9,342 ","  4,027 ",2.27
+County,Polk,2007,"  31,023 ","  12,500 ",2.37
+County,Pope,2007,"  11,110 ","  4,697 ",2.30
+County,Ramsey,2007,"  517,074 ","  207,678 ",2.40
+County,Red Lake,2007,"  4,122 ","  1,755 ",2.27
+County,Redwood,2007,"  15,851 ","  6,564 ",2.34
+County,Renville,2007,"  16,466 ","  6,827 ",2.36
+County,Rice,2007,"  63,034 ","  21,831 ",2.57
+County,Rock,2007,"  9,474 ","  3,918 ",2.36
+County,Roseau,2007,"  16,177 ","  6,404 ",2.49
+County,Scott,2007,"  123,735 ","  43,963 ",2.79
+County,Sherburne,2007,"  86,308 ","  29,543 ",2.85
+County,Sibley,2007,"  15,288 ","  5,973 ",2.51
+County,St. Louis,2007,"  196,108 ","  84,311 ",2.21
+County,Stearns,2007,"  145,877 ","  54,642 ",2.54
+County,Steele,2007,"  36,485 ","  14,349 ",2.50
+County,Stevens,2007,"  9,742 ","  3,873 ",2.29
+County,Swift,2007,"  11,370 ","  4,304 ",2.31
+County,Todd,2007,"  24,347 ","  9,728 ",2.47
+County,Traverse,2007,"  3,793 ","  1,635 ",2.25
+County,Wabasha,2007,"  22,398 ","  8,898 ",2.48
+County,Wadena,2007,"  13,573 ","  5,618 ",2.34
+County,Waseca,2007,"  19,517 ","  7,281 ",2.48
+County,Washington,2007,"  233,104 ","  85,632 ",2.68
+County,Watonwan,2007,"  11,418 ","  4,594 ",2.45
+County,Wilkin,2007,"  6,709 ","  2,716 ",2.41
+County,Winona,2007,"  49,954 ","  19,332 ",2.36
+County,Wright,2007,"  116,780 ","  42,836 ",2.71
+County,Yellow Medicine,2007,"  10,428 ","  4,323 ",2.33
+State,Minnesota,2006,"  5,231,106 ","  2,061,551 ",2.47
+EDR,01 (Northwest),2006,"  86,953 ","  35,482 ",2.38
+EDR,02 (Headwaters),2006,"  79,900 ","  31,228 ",2.48
+EDR,03 (Arrowhead),2006,"  321,177 ","  136,414 ",2.26
+EDR,04 (West Central),2006,"  218,740 ","  88,163 ",2.39
+EDR,05 (North Central),2006,"  161,068 ","  65,373 ",2.42
+EDR,06E (Southwest Central),2006,"  118,762 ","  47,362 ",2.46
+EDR,06W (Upper MN Valley),2006,"  47,765 ","  19,507 ",2.32
+EDR,07E (East Central),2006,"  159,405 ","  59,662 ",2.61
+EDR,07W (Central),2006,"  383,048 ","  139,969 ",2.66
+EDR,08 (Southwest),2006,"  118,155 ","  48,160 ",2.38
+EDR,09 (South Central),2006,"  227,798 ","  90,228 ",2.40
+EDR,10 (Southeast),2006,"  486,556 ","  190,167 ",2.46
+EDR,11 (7 County Twin Cities),2006,"  2,821,779 ","  1,109,836 ",2.49
+County,Aitkin,2006,"  16,198 ","  7,215 ",2.21
+County,Anoka,2006,"  328,614 ","  119,138 ",2.72
+County,Becker,2006,"  32,256 ","  13,081 ",2.42
+County,Beltrami,2006,"  43,094 ","  16,000 ",2.57
+County,Benton,2006,"  38,774 ","  15,196 ",2.50
+County,Big Stone,2006,"  5,504 ","  2,285 ",2.33
+County,Blue Earth,2006,"  58,977 ","  23,308 ",2.36
+County,Brown,2006,"  26,424 ","  10,828 ",2.34
+County,Carlton,2006,"  34,220 ","  13,377 ",2.43
+County,Carver,2006,"  86,236 ","  30,968 ",2.75
+County,Cass,2006,"  28,949 ","  11,985 ",2.38
+County,Chippewa,2006,"  12,776 ","  5,402 ",2.31
+County,Chisago,2006,"  50,278 ","  17,748 ",2.74
+County,Clay,2006,"  54,892 ","  20,820 ",2.43
+County,Clearwater,2006,"  8,453 ","  3,441 ",2.40
+County,Cook,2006,"  5,369 ","  2,515 ",2.11
+County,Cottonwood,2006,"  11,750 ","  4,886 ",2.32
+County,Crow Wing,2006,"  61,038 ","  25,271 ",2.37
+County,Dakota,2006,"  391,613 ","  147,824 ",2.62
+County,Dodge,2006,"  19,769 ","  7,353 ",2.66
+County,Douglas,2006,"  35,477 ","  15,022 ",2.31
+County,Faribault,2006,"  15,309 ","  6,493 ",2.29
+County,Fillmore,2006,"  21,241 ","  8,556 ",2.42
+County,Freeborn,2006,"  31,683 ","  13,444 ",2.31
+County,Goodhue,2006,"  46,086 ","  18,203 ",2.46
+County,Grant,2006,"  6,067 ","  2,513 ",2.34
+County,Hennepin,2006,"  1,152,508 ","  479,483 ",2.34
+County,Houston,2006,"  19,869 ","  7,925 ",2.46
+County,Hubbard,2006,"  18,925 ","  7,882 ",2.37
+County,Isanti,2006,"  38,436 ","  14,158 ",2.68
+County,Itasca,2006,"  44,347 ","  18,620 ",2.34
+County,Jackson,2006,"  11,132 ","  4,636 ",2.33
+County,Kanabec,2006,"  16,279 ","  6,417 ",2.51
+County,Kandiyohi,2006,"  41,689 ","  16,729 ",2.45
+County,Kittson,2006,"  4,723 ","  2,006 ",2.29
+County,Koochiching,2006,"  13,619 ","  6,004 ",2.22
+County,Lac qui Parle,2006,"  7,499 ","  3,192 ",2.28
+County,Lake,2006,"  11,100 ","  4,787 ",2.25
+County,Lake of the Woods,2006,"  4,360 ","  1,908 ",2.25
+County,Le Sueur,2006,"  27,896 ","  10,947 ",2.52
+County,Lincoln,2006,"  6,022 ","  2,586 ",2.25
+County,Lyon,2006,"  24,999 ","  9,895 ",2.40
+County,Mahnomen,2006,"  5,068 ","  1,997 ",2.50
+County,Marshall,2006,"  9,955 ","  4,170 ",2.36
+County,Martin,2006,"  20,864 ","  9,007 ",2.26
+County,McLeod,2006,"  37,042 ","  14,673 ",2.49
+County,Meeker,2006,"  23,418 ","  9,130 ",2.50
+County,Mille Lacs,2006,"  26,057 ","  10,308 ",2.48
+County,Morrison,2006,"  32,997 ","  12,817 ",2.52
+County,Mower,2006,"  38,853 ","  16,060 ",2.36
+County,Murray,2006,"  8,777 ","  3,717 ",2.31
+County,Nicollet,2006,"  31,934 ","  11,846 ",2.45
+County,Nobles,2006,"  20,495 ","  7,945 ",2.52
+County,Norman,2006,"  6,936 ","  2,901 ",2.31
+County,Olmsted,2006,"  138,221 ","  54,850 ",2.46
+County,Otter Tail,2006,"  58,552 ","  23,843 ",2.40
+County,Pennington,2006,"  13,668 ","  5,741 ",2.30
+County,Pine,2006,"  28,355 ","  11,031 ",2.45
+County,Pipestone,2006,"  9,435 ","  4,030 ",2.28
+County,Polk,2006,"  31,115 ","  12,484 ",2.38
+County,Pope,2006,"  11,211 ","  4,696 ",2.32
+County,Ramsey,2006,"  515,059 ","  206,149 ",2.40
+County,Red Lake,2006,"  4,195 ","  1,759 ",2.29
+County,Redwood,2006,"  16,005 ","  6,558 ",2.36
+County,Renville,2006,"  16,613 ","  6,830 ",2.37
+County,Rice,2006,"  62,323 ","  21,483 ",2.57
+County,Rock,2006,"  9,540 ","  3,907 ",2.38
+County,Roseau,2006,"  16,361 ","  6,421 ",2.51
+County,Scott,2006,"  119,646 ","  42,512 ",2.78
+County,Sherburne,2006,"  85,025 ","  29,004 ",2.86
+County,Sibley,2006,"  15,309 ","  5,932 ",2.52
+County,St. Louis,2006,"  196,324 ","  83,896 ",2.22
+County,Stearns,2006,"  144,443 ","  53,846 ",2.55
+County,Steele,2006,"  36,163 ","  14,163 ",2.51
+County,Stevens,2006,"  9,736 ","  3,832 ",2.31
+County,Swift,2006,"  11,481 ","  4,301 ",2.32
+County,Todd,2006,"  24,469 ","  9,709 ",2.48
+County,Traverse,2006,"  3,792 ","  1,635 ",2.25
+County,Wabasha,2006,"  22,445 ","  8,860 ",2.49
+County,Wadena,2006,"  13,615 ","  5,591 ",2.35
+County,Waseca,2006,"  19,605 ","  7,278 ",2.49
+County,Washington,2006,"  228,103 ","  83,762 ",2.67
+County,Watonwan,2006,"  11,480 ","  4,589 ",2.46
+County,Wilkin,2006,"  6,757 ","  2,721 ",2.42
+County,Winona,2006,"  49,903 ","  19,270 ",2.36
+County,Wright,2006,"  114,806 ","  41,923 ",2.71
+County,Yellow Medicine,2006,"  10,505 ","  4,327 ",2.35
+State,Minnesota,2005,"  5,205,091 ","  2,039,706 ",2.48
+EDR,01 (Northwest),2005,"  87,232 ","  35,391 ",2.39
+EDR,02 (Headwaters),2005,"  79,588 ","  30,918 ",2.49
+EDR,03 (Arrowhead),2005,"  323,029 ","  135,722 ",2.29
+EDR,04 (West Central),2005,"  217,399 ","  87,022 ",2.40
+EDR,05 (North Central),2005,"  160,185 ","  64,588 ",2.44
+EDR,06E (Southwest Central),2005,"  118,316 ","  46,835 ",2.48
+EDR,06W (Upper MN Valley),2005,"  47,911 ","  19,510 ",2.33
+EDR,07E (East Central),2005,"  157,380 ","  58,634 ",2.62
+EDR,07W (Central),2005,"  374,298 ","  135,586 ",2.68
+EDR,08 (Southwest),2005,"  118,574 ","  48,061 ",2.39
+EDR,09 (South Central),2005,"  227,215 ","  89,475 ",2.42
+EDR,10 (Southeast),2005,"  483,785 ","  188,093 ",2.47
+EDR,11 (7 County Twin Cities),2005,"  2,810,179 ","  1,099,871 ",2.50
+County,Aitkin,2005,"  16,216 ","  7,192 ",2.22
+County,Anoka,2005,"  326,393 ","  117,409 ",2.74
+County,Becker,2005,"  31,872 ","  12,871 ",2.44
+County,Beltrami,2005,"  42,698 ","  15,742 ",2.58
+County,Benton,2005,"  38,532 ","  15,009 ",2.51
+County,Big Stone,2005,"  5,495 ","  2,277 ",2.33
+County,Blue Earth,2005,"  58,494 ","  22,932 ",2.37
+County,Brown,2005,"  26,555 ","  10,793 ",2.35
+County,Carlton,2005,"  34,096 ","  13,208 ",2.44
+County,Carver,2005,"  85,204 ","  30,475 ",2.76
+County,Cass,2005,"  28,843 ","  11,868 ",2.40
+County,Chippewa,2005,"  12,781 ","  5,379 ",2.32
+County,Chisago,2005,"  49,417 ","  17,370 ",2.75
+County,Clay,2005,"  53,946 ","  20,276 ",2.45
+County,Clearwater,2005,"  8,477 ","  3,422 ",2.42
+County,Cook,2005,"  5,368 ","  2,498 ",2.12
+County,Cottonwood,2005,"  11,842 ","  4,903 ",2.33
+County,Crow Wing,2005,"  60,194 ","  24,793 ",2.38
+County,Dakota,2005,"  391,558 ","  146,605 ",2.65
+County,Dodge,2005,"  19,596 ","  7,255 ",2.67
+County,Douglas,2005,"  35,125 ","  14,766 ",2.33
+County,Faribault,2005,"  15,486 ","  6,540 ",2.30
+County,Fillmore,2005,"  21,347 ","  8,570 ",2.43
+County,Freeborn,2005,"  31,904 ","  13,457 ",2.32
+County,Goodhue,2005,"  46,000 ","  18,073 ",2.48
+County,Grant,2005,"  6,098 ","  2,516 ",2.35
+County,Hennepin,2005,"  1,150,912 ","  476,941 ",2.35
+County,Houston,2005,"  19,942 ","  7,912 ",2.47
+County,Hubbard,2005,"  18,873 ","  7,831 ",2.38
+County,Isanti,2005,"  37,699 ","  13,861 ",2.68
+County,Itasca,2005,"  44,285 ","  18,479 ",2.36
+County,Jackson,2005,"  11,175 ","  4,626 ",2.35
+County,Kanabec,2005,"  16,213 ","  6,349 ",2.53
+County,Kandiyohi,2005,"  41,487 ","  16,452 ",2.46
+County,Kittson,2005,"  4,785 ","  2,033 ",2.29
+County,Koochiching,2005,"  13,773 ","  6,000 ",2.25
+County,Lac qui Parle,2005,"  7,623 ","  3,227 ",2.30
+County,Lake,2005,"  11,189 ","  4,800 ",2.27
+County,Lake of the Woods,2005,"  4,427 ","  1,920 ",2.27
+County,Le Sueur,2005,"  27,786 ","  10,832 ",2.53
+County,Lincoln,2005,"  6,065 ","  2,585 ",2.26
+County,Lyon,2005,"  24,948 ","  9,831 ",2.41
+County,Mahnomen,2005,"  5,113 ","  2,003 ",2.51
+County,Marshall,2005,"  9,942 ","  4,136 ",2.37
+County,Martin,2005,"  20,982 ","  9,013 ",2.27
+County,McLeod,2005,"  36,642 ","  14,443 ",2.50
+County,Meeker,2005,"  23,416 ","  9,082 ",2.52
+County,Mille Lacs,2005,"  25,598 ","  10,087 ",2.49
+County,Morrison,2005,"  32,866 ","  12,649 ",2.54
+County,Mower,2005,"  38,965 ","  16,048 ",2.37
+County,Murray,2005,"  8,857 ","  3,721 ",2.33
+County,Nicollet,2005,"  31,449 ","  11,621 ",2.47
+County,Nobles,2005,"  20,553 ","  7,930 ",2.53
+County,Norman,2005,"  7,059 ","  2,933 ",2.33
+County,Olmsted,2005,"  136,526 ","  53,847 ",2.47
+County,Otter Tail,2005,"  58,665 ","  23,765 ",2.41
+County,Pennington,2005,"  13,624 ","  5,692 ",2.31
+County,Pine,2005,"  28,453 ","  10,967 ",2.46
+County,Pipestone,2005,"  9,497 ","  4,027 ",2.30
+County,Polk,2005,"  31,021 ","  12,378 ",2.40
+County,Pope,2005,"  11,249 ","  4,682 ",2.33
+County,Ramsey,2005,"  515,258 ","  205,546 ",2.41
+County,Red Lake,2005,"  4,317 ","  1,793 ",2.31
+County,Redwood,2005,"  16,096 ","  6,555 ",2.37
+County,Renville,2005,"  16,771 ","  6,858 ",2.39
+County,Rice,2005,"  61,547 ","  21,069 ",2.59
+County,Rock,2005,"  9,541 ","  3,883 ",2.39
+County,Roseau,2005,"  16,484 ","  6,426 ",2.52
+County,Scott,2005,"  115,997 ","  41,250 ",2.78
+County,Sherburne,2005,"  82,246 ","  27,978 ",2.86
+County,Sibley,2005,"  15,384 ","  5,927 ",2.54
+County,St. Louis,2005,"  198,102 ","  83,545 ",2.25
+County,Stearns,2005,"  142,684 ","  52,827 ",2.56
+County,Steele,2005,"  35,662 ","  13,913 ",2.52
+County,Stevens,2005,"  9,816 ","  3,791 ",2.33
+County,Swift,2005,"  11,429 ","  4,293 ",2.33
+County,Todd,2005,"  24,614 ","  9,706 ",2.50
+County,Traverse,2005,"  3,817 ","  1,636 ",2.26
+County,Wabasha,2005,"  22,366 ","  8,782 ",2.50
+County,Wadena,2005,"  13,668 ","  5,572 ",2.37
+County,Waseca,2005,"  19,551 ","  7,226 ",2.50
+County,Washington,2005,"  224,857 ","  81,645 ",2.71
+County,Watonwan,2005,"  11,528 ","  4,591 ",2.47
+County,Wilkin,2005,"  6,811 ","  2,719 ",2.45
+County,Winona,2005,"  49,930 ","  19,167 ",2.38
+County,Wright,2005,"  110,836 ","  39,772 ",2.76
+County,Yellow Medicine,2005,"  10,583 ","  4,334 ",2.36
+State,Minnesota,2004,"  5,145,106 ","  2,007,587 ",2.49
+EDR,01 (Northwest),2004,"  87,232 ","  35,141 ",2.41
+EDR,02 (Headwaters),2004,"  79,073 ","  30,496 ",2.51
+EDR,03 (Arrowhead),2004,"  322,714 ","  134,763 ",2.30
+EDR,04 (West Central),2004,"  216,035 ","  85,934 ",2.42
+EDR,05 (North Central),2004,"  158,927 ","  63,716 ",2.45
+EDR,06E (Southwest Central),2004,"  117,701 ","  46,372 ",2.49
+EDR,06W (Upper MN Valley),2004,"  48,306 ","  19,509 ",2.34
+EDR,07E (East Central),2004,"  154,079 ","  57,120 ",2.63
+EDR,07W (Central),2004,"  364,623 ","  131,262 ",2.69
+EDR,08 (Southwest),2004,"  119,325 ","  48,162 ",2.40
+EDR,09 (South Central),2004,"  226,659 ","  88,487 ",2.43
+EDR,10 (Southeast),2004,"  479,402 ","  185,602 ",2.48
+EDR,11 (7 County Twin Cities),2004,"  2,771,030 ","  1,081,023 ",2.51
+County,Aitkin,2004,"  16,085 ","  7,098 ",2.23
+County,Anoka,2004,"  316,830 ","  114,745 ",2.73
+County,Becker,2004,"  31,813 ","  12,773 ",2.45
+County,Beltrami,2004,"  42,271 ","  15,436 ",2.60
+County,Benton,2004,"  38,018 ","  14,744 ",2.52
+County,Big Stone,2004,"  5,603 ","  2,317 ",2.34
+County,Blue Earth,2004,"  58,118 ","  22,445 ",2.40
+County,Brown,2004,"  26,905 ","  10,761 ",2.36
+County,Carlton,2004,"  33,748 ","  12,994 ",2.46
+County,Carver,2004,"  81,618 ","  29,528 ",2.72
+County,Cass,2004,"  28,453 ","  11,648 ",2.40
+County,Chippewa,2004,"  12,694 ","  5,321 ",2.33
+County,Chisago,2004,"  48,424 ","  16,969 ",2.76
+County,Clay,2004,"  52,994 ","  19,760 ",2.46
+County,Clearwater,2004,"  8,456 ","  3,389 ",2.43
+County,Cook,2004,"  5,316 ","  2,459 ",2.13
+County,Cottonwood,2004,"  11,935 ","  4,924 ",2.34
+County,Crow Wing,2004,"  59,395 ","  24,356 ",2.39
+County,Dakota,2004,"  383,076 ","  143,484 ",2.64
+County,Dodge,2004,"  19,355 ","  7,137 ",2.68
+County,Douglas,2004,"  34,590 ","  14,444 ",2.35
+County,Faribault,2004,"  15,618 ","  6,569 ",2.31
+County,Fillmore,2004,"  21,359 ","  8,524 ",2.44
+County,Freeborn,2004,"  31,997 ","  13,442 ",2.33
+County,Goodhue,2004,"  45,679 ","  17,900 ",2.48
+County,Grant,2004,"  6,182 ","  2,542 ",2.35
+County,Hennepin,2004,"  1,144,037 ","  469,801 ",2.37
+County,Houston,2004,"  19,945 ","  7,876 ",2.48
+County,Hubbard,2004,"  18,856 ","  7,787 ",2.39
+County,Isanti,2004,"  36,512 ","  13,347 ",2.70
+County,Itasca,2004,"  44,242 ","  18,308 ",2.38
+County,Jackson,2004,"  11,214 ","  4,621 ",2.36
+County,Kanabec,2004,"  16,054 ","  6,253 ",2.54
+County,Kandiyohi,2004,"  41,398 ","  16,344 ",2.47
+County,Kittson,2004,"  4,856 ","  2,051 ",2.30
+County,Koochiching,2004,"  13,832 ","  5,998 ",2.26
+County,Lac qui Parle,2004,"  7,754 ","  3,265 ",2.31
+County,Lake,2004,"  11,229 ","  4,791 ",2.28
+County,Lake of the Woods,2004,"  4,411 ","  1,909 ",2.28
+County,Le Sueur,2004,"  27,454 ","  10,617 ",2.55
+County,Lincoln,2004,"  6,179 ","  2,613 ",2.28
+County,Lyon,2004,"  25,038 ","  9,837 ",2.43
+County,Mahnomen,2004,"  5,079 ","  1,975 ",2.53
+County,Marshall,2004,"  9,996 ","  4,128 ",2.39
+County,Martin,2004,"  21,077 ","  9,009 ",2.29
+County,McLeod,2004,"  36,198 ","  14,194 ",2.51
+County,Meeker,2004,"  23,267 ","  8,989 ",2.53
+County,Mille Lacs,2004,"  25,018 ","  9,813 ",2.50
+County,Morrison,2004,"  32,822 ","  12,538 ",2.56
+County,Mower,2004,"  38,984 ","  15,996 ",2.38
+County,Murray,2004,"  8,992 ","  3,752 ",2.35
+County,Nicollet,2004,"  31,147 ","  11,448 ",2.49
+County,Nobles,2004,"  20,543 ","  7,909 ",2.54
+County,Norman,2004,"  7,128 ","  2,944 ",2.34
+County,Olmsted,2004,"  134,282 ","  52,739 ",2.48
+County,Otter Tail,2004,"  58,658 ","  23,642 ",2.42
+County,Pennington,2004,"  13,559 ","  5,644 ",2.32
+County,Pine,2004,"  28,071 ","  10,738 ",2.48
+County,Pipestone,2004,"  9,589 ","  4,040 ",2.31
+County,Polk,2004,"  31,092 ","  12,287 ",2.41
+County,Pope,2004,"  11,221 ","  4,643 ",2.35
+County,Ramsey,2004,"  515,411 ","  204,123 ",2.43
+County,Red Lake,2004,"  4,298 ","  1,769 ",2.33
+County,Redwood,2004,"  16,245 ","  6,587 ",2.38
+County,Renville,2004,"  16,838 ","  6,845 ",2.40
+County,Rice,2004,"  60,576 ","  20,612 ",2.60
+County,Rock,2004,"  9,590 ","  3,879 ",2.41
+County,Roseau,2004,"  16,303 ","  6,318 ",2.54
+County,Scott,2004,"  112,623 ","  40,021 ",2.78
+County,Sherburne,2004,"  79,030 ","  26,776 ",2.88
+County,Sibley,2004,"  15,320 ","  5,873 ",2.55
+County,St. Louis,2004,"  198,262 ","  83,115 ",2.27
+County,Stearns,2004,"  140,841 ","  51,702 ",2.58
+County,Steele,2004,"  35,166 ","  13,657 ",2.53
+County,Stevens,2004,"  9,874 ","  3,774 ",2.35
+County,Swift,2004,"  11,599 ","  4,276 ",2.34
+County,Todd,2004,"  24,657 ","  9,661 ",2.52
+County,Traverse,2004,"  3,866 ","  1,646 ",2.28
+County,Wabasha,2004,"  22,232 ","  8,681 ",2.51
+County,Wadena,2004,"  13,600 ","  5,513 ",2.38
+County,Waseca,2004,"  19,450 ","  7,172 ",2.51
+County,Washington,2004,"  217,435 ","  79,321 ",2.69
+County,Watonwan,2004,"  11,570 ","  4,593 ",2.48
+County,Wilkin,2004,"  6,837 ","  2,710 ",2.46
+County,Winona,2004,"  49,827 ","  19,038 ",2.39
+County,Wright,2004,"  106,734 ","  38,040 ",2.78
+County,Yellow Medicine,2004,"  10,656 ","  4,330 ",2.37
+State,Minnesota,2003,"  5,088,006 ","  1,980,014 ",2.50
+EDR,01 (Northwest),2003,"  87,479 ","  35,007 ",2.42
+EDR,02 (Headwaters),2003,"  78,127 ","  30,065 ",2.51
+EDR,03 (Arrowhead),2003,"  322,309 ","  134,040 ",2.31
+EDR,04 (West Central),2003,"  214,297 ","  84,776 ",2.43
+EDR,05 (North Central),2003,"  157,134 ","  62,714 ",2.46
+EDR,06E (Southwest Central),2003,"  117,206 ","  45,911 ",2.50
+EDR,06W (Upper MN Valley),2003,"  48,816 ","  19,629 ",2.35
+EDR,07E (East Central),2003,"  149,612 ","  55,340 ",2.63
+EDR,07W (Central),2003,"  352,520 ","  126,446 ",2.70
+EDR,08 (Southwest),2003,"  119,622 ","  48,082 ",2.41
+EDR,09 (South Central),2003,"  225,263 ","  87,454 ",2.44
+EDR,10 (Southeast),2003,"  474,636 ","  183,097 ",2.49
+EDR,11 (7 County Twin Cities),2003,"  2,740,985 ","  1,067,453 ",2.51
+County,Aitkin,2003,"  15,810 ","  6,966 ",2.24
+County,Anoka,2003,"  313,197 ","  112,627 ",2.75
+County,Becker,2003,"  31,159 ","  12,481 ",2.45
+County,Beltrami,2003,"  41,607 ","  15,179 ",2.60
+County,Benton,2003,"  36,970 ","  14,311 ",2.52
+County,Big Stone,2003,"  5,648 ","  2,335 ",2.34
+County,Blue Earth,2003,"  57,435 ","  22,039 ",2.41
+County,Brown,2003,"  26,832 ","  10,643 ",2.38
+County,Carlton,2003,"  33,154 ","  12,768 ",2.46
+County,Carver,2003,"  78,444 ","  28,096 ",2.75
+County,Cass,2003,"  28,191 ","  11,482 ",2.41
+County,Chippewa,2003,"  12,827 ","  5,350 ",2.34
+County,Chisago,2003,"  46,472 ","  16,270 ",2.76
+County,Clay,2003,"  51,934 ","  19,263 ",2.48
+County,Clearwater,2003,"  8,390 ","  3,366 ",2.43
+County,Cook,2003,"  5,280 ","  2,428 ",2.15
+County,Cottonwood,2003,"  11,999 ","  4,929 ",2.35
+County,Crow Wing,2003,"  58,391 ","  23,851 ",2.40
+County,Dakota,2003,"  375,642 ","  139,966 ",2.66
+County,Dodge,2003,"  19,015 ","  6,983 ",2.69
+County,Douglas,2003,"  34,112 ","  14,137 ",2.36
+County,Faribault,2003,"  15,723 ","  6,592 ",2.31
+County,Fillmore,2003,"  21,294 ","  8,446 ",2.46
+County,Freeborn,2003,"  32,035 ","  13,418 ",2.34
+County,Goodhue,2003,"  45,183 ","  17,648 ",2.49
+County,Grant,2003,"  6,241 ","  2,555 ",2.36
+County,Hennepin,2003,"  1,139,837 ","  467,760 ",2.37
+County,Houston,2003,"  19,965 ","  7,840 ",2.50
+County,Hubbard,2003,"  18,635 ","  7,656 ",2.41
+County,Isanti,2003,"  35,321 ","  12,867 ",2.70
+County,Itasca,2003,"  44,198 ","  18,247 ",2.38
+County,Jackson,2003,"  11,168 ","  4,590 ",2.36
+County,Kanabec,2003,"  15,831 ","  6,134 ",2.56
+County,Kandiyohi,2003,"  41,288 ","  16,227 ",2.48
+County,Kittson,2003,"  4,958 ","  2,082 ",2.32
+County,Koochiching,2003,"  13,986 ","  5,998 ",2.28
+County,Lac qui Parle,2003,"  7,879 ","  3,293 ",2.33
+County,Lake,2003,"  11,160 ","  4,741 ",2.29
+County,Lake of the Woods,2003,"  4,387 ","  1,890 ",2.29
+County,Le Sueur,2003,"  26,664 ","  10,245 ",2.57
+County,Lincoln,2003,"  6,171 ","  2,598 ",2.29
+County,Lyon,2003,"  25,000 ","  9,786 ",2.44
+County,Mahnomen,2003,"  5,108 ","  1,974 ",2.55
+County,Marshall,2003,"  9,979 ","  4,116 ",2.39
+County,Martin,2003,"  21,228 ","  9,019 ",2.30
+County,McLeod,2003,"  35,872 ","  14,003 ",2.52
+County,Meeker,2003,"  23,182 ","  8,903 ",2.54
+County,Mille Lacs,2003,"  24,254 ","  9,493 ",2.50
+County,Morrison,2003,"  32,618 ","  12,410 ",2.58
+County,Mower,2003,"  38,909 ","  15,912 ",2.39
+County,Murray,2003,"  8,995 ","  3,725 ",2.37
+County,Nicollet,2003,"  30,881 ","  11,283 ",2.50
+County,Nobles,2003,"  20,646 ","  7,930 ",2.55
+County,Norman,2003,"  7,223 ","  2,962 ",2.36
+County,Olmsted,2003,"  132,013 ","  51,665 ",2.49
+County,Otter Tail,2003,"  58,785 ","  23,563 ",2.43
+County,Pennington,2003,"  13,654 ","  5,633 ",2.34
+County,Pine,2003,"  27,734 ","  10,576 ",2.48
+County,Pipestone,2003,"  9,675 ","  4,052 ",2.33
+County,Polk,2003,"  31,025 ","  12,168 ",2.42
+County,Pope,2003,"  11,246 ","  4,624 ",2.36
+County,Ramsey,2003,"  515,274 ","  204,059 ",2.44
+County,Red Lake,2003,"  4,317 ","  1,763 ",2.35
+County,Redwood,2003,"  16,317 ","  6,589 ",2.39
+County,Renville,2003,"  16,864 ","  6,778 ",2.43
+County,Rice,2003,"  59,749 ","  20,211 ",2.61
+County,Rock,2003,"  9,651 ","  3,883 ",2.42
+County,Roseau,2003,"  16,323 ","  6,283 ",2.56
+County,Scott,2003,"  105,196 ","  37,489 ",2.77
+County,Sherburne,2003,"  74,763 ","  25,272 ",2.88
+County,Sibley,2003,"  15,366 ","  5,867 ",2.56
+County,St. Louis,2003,"  198,721 ","  82,892 ",2.28
+County,Stearns,2003,"  137,777 ","  50,286 ",2.58
+County,Steele,2003,"  34,691 ","  13,429 ",2.54
+County,Stevens,2003,"  9,957 ","  3,757 ",2.36
+County,Swift,2003,"  11,698 ","  4,299 ",2.35
+County,Todd,2003,"  24,315 ","  9,481 ",2.53
+County,Traverse,2003,"  3,912 ","  1,656 ",2.30
+County,Wabasha,2003,"  22,108 ","  8,597 ",2.52
+County,Wadena,2003,"  13,619 ","  5,490 ",2.39
+County,Waseca,2003,"  19,451 ","  7,149 ",2.52
+County,Washington,2003,"  213,395 ","  77,456 ",2.71
+County,Watonwan,2003,"  11,683 ","  4,617 ",2.49
+County,Wilkin,2003,"  6,951 ","  2,740 ",2.48
+County,Winona,2003,"  49,674 ","  18,948 ",2.41
+County,Wright,2003,"  103,010 ","  36,577 ",2.79
+County,Yellow Medicine,2003,"  10,764 ","  4,352 ",2.38
+State,Minnesota,2002,"  5,033,661 ","  1,953,636 ",2.51
+EDR,01 (Northwest),2002,"  87,716 ","  34,932 ",2.43
+EDR,02 (Headwaters),2002,"  77,371 ","  29,621 ",2.52
+EDR,03 (Arrowhead),2002,"  322,339 ","  133,647 ",2.32
+EDR,04 (West Central),2002,"  212,935 ","  83,687 ",2.44
+EDR,05 (North Central),2002,"  155,452 ","  61,709 ",2.47
+EDR,06E (Southwest Central),2002,"  116,758 ","  45,520 ",2.51
+EDR,06W (Upper MN Valley),2002,"  49,026 ","  19,746 ",2.37
+EDR,07E (East Central),2002,"  144,876 ","  53,507 ",2.64
+EDR,07W (Central),2002,"  342,754 ","  122,141 ",2.72
+EDR,08 (Southwest),2002,"  120,650 ","  48,196 ",2.43
+EDR,09 (South Central),2002,"  224,385 ","  86,673 ",2.46
+EDR,10 (Southeast),2002,"  470,483 ","  180,404 ",2.50
+EDR,11 (7 County Twin Cities),2002,"  2,708,916 ","  1,053,853 ",2.52
+County,Aitkin,2002,"  15,495 ","  6,797 ",2.25
+County,Anoka,2002,"  308,171 ","  110,733 ",2.75
+County,Becker,2002,"  30,646 ","  12,205 ",2.47
+County,Beltrami,2002,"  40,959 ","  14,840 ",2.61
+County,Benton,2002,"  36,355 ","  13,977 ",2.54
+County,Big Stone,2002,"  5,683 ","  2,340 ",2.35
+County,Blue Earth,2002,"  57,053 ","  21,737 ",2.43
+County,Brown,2002,"  26,740 ","  10,640 ",2.40
+County,Carlton,2002,"  32,547 ","  12,504 ",2.47
+County,Carver,2002,"  75,312 ","  26,739 ",2.77
+County,Cass,2002,"  27,825 ","  11,280 ",2.42
+County,Chippewa,2002,"  12,994 ","  5,378 ",2.36
+County,Chisago,2002,"  44,780 ","  15,758 ",2.77
+County,Clay,2002,"  52,024 ","  19,128 ",2.50
+County,Clearwater,2002,"  8,389 ","  3,353 ",2.44
+County,Cook,2002,"  5,223 ","  2,390 ",2.15
+County,Cottonwood,2002,"  12,026 ","  4,929 ",2.36
+County,Crow Wing,2002,"  57,132 ","  23,262 ",2.41
+County,Dakota,2002,"  369,593 ","  137,253 ",2.67
+County,Dodge,2002,"  18,575 ","  6,783 ",2.71
+County,Douglas,2002,"  33,795 ","  13,878 ",2.38
+County,Faribault,2002,"  15,975 ","  6,648 ",2.33
+County,Fillmore,2002,"  21,418 ","  8,436 ",2.47
+County,Freeborn,2002,"  32,206 ","  13,425 ",2.35
+County,Goodhue,2002,"  45,070 ","  17,481 ",2.51
+County,Grant,2002,"  6,266 ","  2,549 ",2.38
+County,Hennepin,2002,"  1,130,880 ","  464,476 ",2.37
+County,Houston,2002,"  19,907 ","  7,775 ",2.51
+County,Hubbard,2002,"  18,480 ","  7,564 ",2.42
+County,Isanti,2002,"  33,757 ","  12,236 ",2.72
+County,Itasca,2002,"  44,191 ","  18,103 ",2.40
+County,Jackson,2002,"  11,245 ","  4,594 ",2.38
+County,Kanabec,2002,"  15,468 ","  5,978 ",2.56
+County,Kandiyohi,2002,"  41,307 ","  16,148 ",2.50
+County,Kittson,2002,"  5,111 ","  2,120 ",2.34
+County,Koochiching,2002,"  13,990 ","  5,998 ",2.28
+County,Lac qui Parle,2002,"  7,973 ","  3,312 ",2.34
+County,Lake,2002,"  11,088 ","  4,696 ",2.30
+County,Lake of the Woods,2002,"  4,404 ","  1,888 ",2.30
+County,Le Sueur,2002,"  25,987 ","  9,964 ",2.57
+County,Lincoln,2002,"  6,299 ","  2,629 ",2.31
+County,Lyon,2002,"  25,294 ","  9,790 ",2.46
+County,Mahnomen,2002,"  5,139 ","  1,976 ",2.56
+County,Marshall,2002,"  9,916 ","  4,072 ",2.40
+County,Martin,2002,"  21,394 ","  9,028 ",2.31
+County,McLeod,2002,"  35,500 ","  13,789 ",2.53
+County,Meeker,2002,"  22,875 ","  8,764 ",2.55
+County,Mille Lacs,2002,"  23,531 ","  9,181 ",2.51
+County,Morrison,2002,"  32,356 ","  12,226 ",2.60
+County,Mower,2002,"  38,940 ","  15,828 ",2.40
+County,Murray,2002,"  9,086 ","  3,734 ",2.38
+County,Nicollet,2002,"  30,471 ","  11,041 ",2.52
+County,Nobles,2002,"  20,532 ","  7,879 ",2.55
+County,Norman,2002,"  7,326 ","  2,984 ",2.38
+County,Olmsted,2002,"  129,804 ","  50,563 ",2.50
+County,Otter Tail,2002,"  57,992 ","  23,176 ",2.44
+County,Pennington,2002,"  13,563 ","  5,591 ",2.34
+County,Pine,2002,"  27,340 ","  10,354 ",2.50
+County,Pipestone,2002,"  9,840 ","  4,091 ",2.34
+County,Polk,2002,"  31,253 ","  12,182 ",2.44
+County,Pope,2002,"  11,216 ","  4,577 ",2.38
+County,Ramsey,2002,"  514,748 ","  203,440 ",2.44
+County,Red Lake,2002,"  4,296 ","  1,747 ",2.36
+County,Redwood,2002,"  16,519 ","  6,642 ",2.41
+County,Renville,2002,"  17,076 ","  6,819 ",2.44
+County,Rice,2002,"  58,628 ","  19,658 ",2.63
+County,Rock,2002,"  9,809 ","  3,908 ",2.45
+County,Roseau,2002,"  16,251 ","  6,236 ",2.57
+County,Scott,2002,"  99,488 ","  35,143 ",2.79
+County,Sherburne,2002,"  71,537 ","  24,040 ",2.90
+County,Sibley,2002,"  15,435 ","  5,860 ",2.57
+County,St. Louis,2002,"  199,805 ","  83,159 ",2.29
+County,Stearns,2002,"  136,452 ","  49,376 ",2.61
+County,Steele,2002,"  34,429 ","  13,212 ",2.55
+County,Stevens,2002,"  10,011 ","  3,764 ",2.38
+County,Swift,2002,"  11,556 ","  4,335 ",2.36
+County,Todd,2002,"  24,465 ","  9,472 ",2.55
+County,Traverse,2002,"  3,965 ","  1,667 ",2.31
+County,Wabasha,2002,"  21,883 ","  8,465 ",2.54
+County,Wadena,2002,"  13,674 ","  5,469 ",2.41
+County,Waseca,2002,"  19,541 ","  7,119 ",2.53
+County,Washington,2002,"  210,724 ","  76,069 ",2.72
+County,Watonwan,2002,"  11,789 ","  4,636 ",2.50
+County,Wilkin,2002,"  7,020 ","  2,743 ",2.50
+County,Winona,2002,"  49,623 ","  18,778 ",2.43
+County,Wright,2002,"  98,410 ","  34,748 ",2.80
+County,Yellow Medicine,2002,"  10,820 ","  4,381 ",2.39
+State,Minnesota,2001,"  4,977,976 ","  1,923,495 ",2.52
+EDR,01 (Northwest),2001,"  88,134 ","  34,891 ",2.45
+EDR,02 (Headwaters),2001,"  76,837 ","  29,330 ",2.54
+EDR,03 (Arrowhead),2001,"  322,033 ","  132,912 ",2.33
+EDR,04 (West Central),2001,"  211,586 ","  82,731 ",2.46
+EDR,05 (North Central),2001,"  154,358 ","  60,919 ",2.49
+EDR,06E (Southwest Central),2001,"  116,470 ","  45,185 ",2.53
+EDR,06W (Upper MN Valley),2001,"  49,713 ","  19,831 ",2.38
+EDR,07E (East Central),2001,"  140,600 ","  51,755 ",2.65
+EDR,07W (Central),2001,"  332,660 ","  117,965 ",2.73
+EDR,08 (Southwest),2001,"  121,429 ","  48,244 ",2.44
+EDR,09 (South Central),2001,"  223,402 ","  85,871 ",2.47
+EDR,10 (Southeast),2001,"  465,916 ","  177,787 ",2.52
+EDR,11 (7 County Twin Cities),2001,"  2,674,838 ","  1,036,074 ",2.53
+County,Aitkin,2001,"  15,434 ","  6,738 ",2.26
+County,Anoka,2001,"  302,271 ","  108,326 ",2.76
+County,Becker,2001,"  30,329 ","  12,029 ",2.48
+County,Beltrami,2001,"  40,222 ","  14,575 ",2.62
+County,Benton,2001,"  35,286 ","  13,528 ",2.55
+County,Big Stone,2001,"  5,751 ","  2,360 ",2.36
+County,Blue Earth,2001,"  56,271 ","  21,327 ",2.44
+County,Brown,2001,"  26,757 ","  10,601 ",2.41
+County,Carlton,2001,"  32,146 ","  12,293 ",2.48
+County,Carver,2001,"  73,305 ","  25,636 ",2.81
+County,Cass,2001,"  27,650 ","  11,155 ",2.43
+County,Chippewa,2001,"  13,041 ","  5,371 ",2.37
+County,Chisago,2001,"  43,090 ","  15,173 ",2.78
+County,Clay,2001,"  51,604 ","  18,901 ",2.51
+County,Clearwater,2001,"  8,416 ","  3,345 ",2.46
+County,Cook,2001,"  5,175 ","  2,369 ",2.16
+County,Cottonwood,2001,"  12,048 ","  4,917 ",2.36
+County,Crow Wing,2001,"  56,281 ","  22,810 ",2.42
+County,Dakota,2001,"  362,348 ","  133,966 ",2.68
+County,Dodge,2001,"  18,186 ","  6,610 ",2.72
+County,Douglas,2001,"  33,368 ","  13,565 ",2.40
+County,Faribault,2001,"  16,055 ","  6,647 ",2.34
+County,Fillmore,2001,"  21,282 ","  8,331 ",2.49
+County,Freeborn,2001,"  32,569 ","  13,423 ",2.38
+County,Goodhue,2001,"  44,664 ","  17,255 ",2.52
+County,Grant,2001,"  6,280 ","  2,543 ",2.39
+County,Hennepin,2001,"  1,123,420 ","  459,629 ",2.38
+County,Houston,2001,"  19,868 ","  7,723 ",2.52
+County,Hubbard,2001,"  18,459 ","  7,503 ",2.43
+County,Isanti,2001,"  32,332 ","  11,636 ",2.73
+County,Itasca,2001,"  44,036 ","  17,950 ",2.41
+County,Jackson,2001,"  11,195 ","  4,554 ",2.39
+County,Kanabec,2001,"  15,285 ","  5,876 ",2.57
+County,Kandiyohi,2001,"  41,326 ","  16,080 ",2.51
+County,Kittson,2001,"  5,182 ","  2,137 ",2.35
+County,Koochiching,2001,"  14,160 ","  6,025 ",2.30
+County,Lac qui Parle,2001,"  8,019 ","  3,315 ",2.35
+County,Lake,2001,"  11,083 ","  4,678 ",2.30
+County,Lake of the Woods,2001,"  4,492 ","  1,907 ",2.33
+County,Le Sueur,2001,"  25,645 ","  9,762 ",2.59
+County,Lincoln,2001,"  6,415 ","  2,668 ",2.32
+County,Lyon,2001,"  25,462 ","  9,771 ",2.47
+County,Mahnomen,2001,"  5,248 ","  2,000 ",2.58
+County,Marshall,2001,"  10,018 ","  4,080 ",2.42
+County,Martin,2001,"  21,781 ","  9,120 ",2.33
+County,McLeod,2001,"  35,244 ","  13,620 ",2.55
+County,Meeker,2001,"  22,806 ","  8,699 ",2.56
+County,Mille Lacs,2001,"  22,954 ","  8,910 ",2.51
+County,Morrison,2001,"  32,183 ","  12,067 ",2.62
+County,Mower,2001,"  38,715 ","  15,665 ",2.41
+County,Murray,2001,"  9,155 ","  3,739 ",2.40
+County,Nicollet,2001,"  30,085 ","  10,867 ",2.54
+County,Nobles,2001,"  20,748 ","  7,941 ",2.56
+County,Norman,2001,"  7,422 ","  3,013 ",2.39
+County,Olmsted,2001,"  127,123 ","  49,262 ",2.51
+County,Otter Tail,2001,"  57,564 ","  22,934 ",2.45
+County,Pennington,2001,"  13,556 ","  5,563 ",2.36
+County,Pine,2001,"  26,939 ","  10,160 ",2.51
+County,Pipestone,2001,"  9,883 ","  4,092 ",2.35
+County,Polk,2001,"  31,315 ","  12,124 ",2.45
+County,Pope,2001,"  11,273 ","  4,559 ",2.40
+County,Ramsey,2001,"  512,629 ","  202,011 ",2.45
+County,Red Lake,2001,"  4,292 ","  1,737 ",2.37
+County,Redwood,2001,"  16,778 ","  6,686 ",2.43
+County,Renville,2001,"  17,094 ","  6,786 ",2.46
+County,Rice,2001,"  57,649 ","  19,268 ",2.63
+County,Rock,2001,"  9,745 ","  3,876 ",2.45
+County,Roseau,2001,"  16,349 ","  6,237 ",2.58
+County,Scott,2001,"  94,838 ","  32,902 ",2.85
+County,Sherburne,2001,"  68,177 ","  22,862 ",2.90
+County,Sibley,2001,"  15,410 ","  5,820 ",2.59
+County,St. Louis,2001,"  199,999 ","  82,859 ",2.30
+County,Stearns,2001,"  134,701 ","  48,436 ",2.62
+County,Steele,2001,"  34,106 ","  13,044 ",2.56
+County,Stevens,2001,"  10,039 ","  3,763 ",2.40
+County,Swift,2001,"  11,886 ","  4,354 ",2.38
+County,Todd,2001,"  24,514 ","  9,426 ",2.56
+County,Traverse,2001,"  4,048 ","  1,692 ",2.33
+County,Wabasha,2001,"  21,725 ","  8,356 ",2.55
+County,Wadena,2001,"  13,730 ","  5,461 ",2.43
+County,Waseca,2001,"  19,554 ","  7,097 ",2.55
+County,Washington,2001,"  206,027 ","  73,604 ",2.75
+County,Watonwan,2001,"  11,844 ","  4,630 ",2.52
+County,Wilkin,2001,"  7,081 ","  2,745 ",2.52
+County,Winona,2001,"  50,029 ","  18,850 ",2.44
+County,Wright,2001,"  94,496 ","  33,139 ",2.82
+County,Yellow Medicine,2001,"  11,016 ","  4,431 ",2.41
+State,Minnesota,2000,"  4,919,492 ","  1,895,133 ",2.52
+EDR,01 (Northwest),2000,"  88,472 ","  34,790 ",2.46
+EDR,02 (Headwaters),2000,"  76,161 ","  28,974 ",2.55
+EDR,03 (Arrowhead),2000,"  322,073 ","  132,152 ",2.35
+EDR,04 (West Central),2000,"  210,059 ","  81,728 ",2.47
+EDR,05 (North Central),2000,"  152,100 ","  59,727 ",2.50
+EDR,06E (Southwest Central),2000,"  115,899 ","  44,754 ",2.54
+EDR,06W (Upper MN Valley),2000,"  50,011 ","  19,846 ",2.39
+EDR,07E (East Central),2000,"  136,244 ","  50,026 ",2.66
+EDR,07W (Central),2000,"  321,802 ","  113,719 ",2.74
+EDR,08 (Southwest),2000,"  121,717 ","  48,088 ",2.45
+EDR,09 (South Central),2000,"  222,790 ","  85,109 ",2.49
+EDR,10 (Southeast),2000,"  460,102 ","  174,764 ",2.53
+EDR,11 (7 County Twin Cities),2000,"  2,642,062 ","  1,021,456 ",2.53
+County,Aitkin,2000,"  15,301 ","  6,644 ",2.27
+County,Anoka,2000,"  298,084 ","  106,428 ",2.77
+County,Becker,2000,"  30,000 ","  11,844 ",2.49
+County,Beltrami,2000,"  39,650 ","  14,337 ",2.63
+County,Benton,2000,"  34,226 ","  13,065 ",2.56
+County,Big Stone,2000,"  5,820 ","  2,377 ",2.37
+County,Blue Earth,2000,"  55,941 ","  21,062 ",2.46
+County,Brown,2000,"  26,911 ","  10,598 ",2.42
+County,Carlton,2000,"  31,671 ","  12,064 ",2.50
+County,Carver,2000,"  70,205 ","  24,356 ",2.84
+County,Cass,2000,"  27,150 ","  10,893 ",2.45
+County,Chippewa,2000,"  13,088 ","  5,361 ",2.38
+County,Chisago,2000,"  41,101 ","  14,454 ",2.79
+County,Clay,2000,"  51,229 ","  18,670 ",2.52
+County,Clearwater,2000,"  8,423 ","  3,330 ",2.47
+County,Cook,2000,"  5,168 ","  2,350 ",2.17
+County,Cottonwood,2000,"  12,167 ","  4,917 ",2.39
+County,Crow Wing,2000,"  55,099 ","  22,250 ",2.42
+County,Dakota,2000,"  355,904 ","  131,151 ",2.69
+County,Dodge,2000,"  17,731 ","  6,420 ",2.73
+County,Douglas,2000,"  32,821 ","  13,276 ",2.42
+County,Faribault,2000,"  16,181 ","  6,652 ",2.36
+County,Fillmore,2000,"  21,122 ","  8,228 ",2.50
+County,Freeborn,2000,"  32,584 ","  13,356 ",2.39
+County,Goodhue,2000,"  44,127 ","  16,983 ",2.53
+County,Grant,2000,"  6,289 ","  2,534 ",2.40
+County,Hennepin,2000,"  1,116,033 ","  456,129 ",2.38
+County,Houston,2000,"  19,718 ","  7,633 ",2.53
+County,Hubbard,2000,"  18,376 ","  7,435 ",2.44
+County,Isanti,2000,"  31,287 ","  11,236 ",2.74
+County,Itasca,2000,"  43,992 ","  17,789 ",2.43
+County,Jackson,2000,"  11,268 ","  4,556 ",2.40
+County,Kanabec,2000,"  14,996 ","  5,759 ",2.58
+County,Kandiyohi,2000,"  41,203 ","  15,936 ",2.53
+County,Kittson,2000,"  5,285 ","  2,167 ",2.37
+County,Koochiching,2000,"  14,355 ","  6,040 ",2.32
+County,Lac qui Parle,2000,"  8,067 ","  3,316 ",2.36
+County,Lake,2000,"  11,058 ","  4,646 ",2.32
+County,Lake of the Woods,2000,"  4,522 ","  1,903 ",2.35
+County,Le Sueur,2000,"  25,426 ","  9,630 ",2.60
+County,Lincoln,2000,"  6,429 ","  2,653 ",2.34
+County,Lyon,2000,"  25,425 ","  9,715 ",2.48
+County,Mahnomen,2000,"  5,190 ","  1,969 ",2.59
+County,Marshall,2000,"  10,155 ","  4,101 ",2.44
+County,Martin,2000,"  21,802 ","  9,067 ",2.35
+County,McLeod,2000,"  34,898 ","  13,449 ",2.55
+County,Meeker,2000,"  22,644 ","  8,590 ",2.57
+County,Mille Lacs,2000,"  22,330 ","  8,638 ",2.52
+County,Morrison,2000,"  31,712 ","  11,816 ",2.63
+County,Mower,2000,"  38,603 ","  15,582 ",2.42
+County,Murray,2000,"  9,165 ","  3,722 ",2.41
+County,Nicollet,2000,"  29,771 ","  10,642 ",2.55
+County,Nobles,2000,"  20,832 ","  7,939 ",2.57
+County,Norman,2000,"  7,442 ","  3,010 ",2.41
+County,Olmsted,2000,"  124,277 ","  47,807 ",2.53
+County,Otter Tail,2000,"  57,159 ","  22,671 ",2.45
+County,Pennington,2000,"  13,584 ","  5,525 ",2.37
+County,Pine,2000,"  26,530 ","  9,939 ",2.53
+County,Pipestone,2000,"  9,895 ","  4,069 ",2.37
+County,Polk,2000,"  31,369 ","  12,070 ",2.47
+County,Pope,2000,"  11,236 ","  4,513 ",2.42
+County,Ramsey,2000,"  511,202 ","  201,236 ",2.45
+County,Red Lake,2000,"  4,299 ","  1,727 ",2.39
+County,Redwood,2000,"  16,815 ","  6,674 ",2.44
+County,Renville,2000,"  17,154 ","  6,779 ",2.47
+County,Rice,2000,"  56,665 ","  18,888 ",2.64
+County,Rock,2000,"  9,721 ","  3,843 ",2.46
+County,Roseau,2000,"  16,338 ","  6,190 ",2.60
+County,Scott,2000,"  89,498 ","  30,692 ",2.88
+County,Sherburne,2000,"  64,417 ","  21,581 ",2.90
+County,Sibley,2000,"  15,356 ","  5,772 ",2.60
+County,St. Louis,2000,"  200,528 ","  82,619 ",2.31
+County,Stearns,2000,"  133,166 ","  47,604 ",2.64
+County,Steele,2000,"  33,680 ","  12,846 ",2.57
+County,Stevens,2000,"  10,053 ","  3,751 ",2.42
+County,Swift,2000,"  11,956 ","  4,353 ",2.39
+County,Todd,2000,"  24,426 ","  9,342 ",2.58
+County,Traverse,2000,"  4,134 ","  1,717 ",2.34
+County,Wabasha,2000,"  21,610 ","  8,277 ",2.56
+County,Wadena,2000,"  13,713 ","  5,426 ",2.44
+County,Waseca,2000,"  19,526 ","  7,059 ",2.56
+County,Washington,2000,"  201,130 ","  71,462 ",2.76
+County,Watonwan,2000,"  11,876 ","  4,627 ",2.52
+County,Wilkin,2000,"  7,138 ","  2,752 ",2.54
+County,Winona,2000,"  49,985 ","  18,744 ",2.46
+County,Wright,2000,"  89,986 ","  31,465 ",2.83
+County,Yellow Medicine,2000,"  11,080 ","  4,439 ",2.42
+State,Minnesota,1999,"  4,838,398 ","  1,859,277 ",2.54
+EDR,01 (Northwest),1999,"  89,704 ","  34,828 ",2.51
+EDR,02 (Headwaters),1999,"  73,997 ","  27,679 ",2.60
+EDR,03 (Arrowhead),1999,"  319,911 ","  128,775 ",2.42
+EDR,04 (West Central),1999,"  209,304 ","  80,583 ",2.50
+EDR,05 (North Central),1999,"  147,687 ","  57,019 ",2.55
+EDR,06E (Southwest Central),1999,"  116,647 ","  44,635 ",2.57
+EDR,06W (Upper MN Valley),1999,"  50,190 ","  20,099 ",2.39
+EDR,07E (East Central),1999,"  133,150 ","  48,273 ",2.70
+EDR,07W (Central),1999,"  320,048 ","  110,516 ",2.81
+EDR,08 (Southwest),1999,"  123,300 ","  48,592 ",2.46
+EDR,09 (South Central),1999,"  224,936 ","  84,920 ",2.53
+EDR,10 (Southeast),1999,"  451,252 ","  172,232 ",2.53
+EDR,11 (7 County Twin Cities),1999,"  2,578,272 ","  1,001,126 ",2.53
+County,Aitkin,1999,"  14,235 ","  6,061 ",2.35
+County,Anoka,1999,"  297,776 ","  103,423 ",2.88
+County,Becker,1999,"  29,779 ","  11,501 ",2.59
+County,Beltrami,1999,"  38,644 ","  13,817 ",2.80
+County,Benton,1999,"  35,110 ","  13,074 ",2.69
+County,Big Stone,1999,"  5,794 ","  2,330 ",2.49
+County,Blue Earth,1999,"  55,877 ","  20,589 ",2.71
+County,Brown,1999,"  28,012 ","  10,839 ",2.58
+County,Carlton,1999,"  31,591 ","  11,783 ",2.68
+County,Carver,1999,"  66,168 ","  23,524 ",2.81
+County,Cass,1999,"  25,644 ","  10,112 ",2.54
+County,Chippewa,1999,"  13,152 ","  5,380 ",2.44
+County,Chisago,1999,"  42,041 ","  14,744 ",2.85
+County,Clay,1999,"  53,322 ","  19,284 ",2.77
+County,Clearwater,1999,"  8,392 ","  3,206 ",2.62
+County,Cook,1999,"  4,595 ","  1,990 ",2.31
+County,Cottonwood,1999,"  12,773 ","  5,121 ",2.49
+County,Crow Wing,1999,"  52,698 ","  20,935 ",2.52
+County,Dakota,1999,"  347,245 ","  126,748 ",2.74
+County,Dodge,1999,"  17,504 ","  6,299 ",2.78
+County,Douglas,1999,"  31,800 ","  12,577 ",2.53
+County,Faribault,1999,"  16,364 ","  6,740 ",2.43
+County,Fillmore,1999,"  20,914 ","  8,110 ",2.58
+County,Freeborn,1999,"  32,238 ","  13,068 ",2.47
+County,Goodhue,1999,"  43,469 ","  16,754 ",2.59
+County,Grant,1999,"  6,165 ","  2,496 ",2.47
+County,Hennepin,1999,"  1,089,024 ","  449,330 ",2.42
+County,Houston,1999,"  19,545 ","  7,443 ",2.63
+County,Hubbard,1999,"  17,177 ","  6,907 ",2.49
+County,Isanti,1999,"  30,826 ","  10,894 ",2.83
+County,Itasca,1999,"  43,986 ","  16,940 ",2.60
+County,Jackson,1999,"  11,636 ","  4,649 ",2.50
+County,Kanabec,1999,"  14,432 ","  5,488 ",2.63
+County,Kandiyohi,1999,"  41,942 ","  16,056 ",2.61
+County,Kittson,1999,"  5,376 ","  2,210 ",2.43
+County,Koochiching,1999,"  15,679 ","  6,115 ",2.56
+County,Lac qui Parle,1999,"  8,413 ","  3,404 ",2.47
+County,Lake,1999,"  10,745 ","  4,451 ",2.41
+County,Lake of the Woods,1999,"  4,618 ","  1,812 ",2.55
+County,Le Sueur,1999,"  25,482 ","  9,466 ",2.69
+County,Lincoln,1999,"  6,585 ","  2,657 ",2.48
+County,Lyon,1999,"  25,505 ","  9,738 ",2.62
+County,Mahnomen,1999,"  5,166 ","  1,937 ",2.67
+County,Marshall,1999,"  10,383 ","  4,115 ",2.52
+County,Martin,1999,"  22,694 ","  9,276 ",2.45
+County,McLeod,1999,"  35,364 ","  13,438 ",2.63
+County,Meeker,1999,"  21,929 ","  8,283 ",2.65
+County,Mille Lacs,1999,"  21,355 ","  8,064 ",2.65
+County,Morrison,1999,"  31,756 ","  11,577 ",2.74
+County,Mower,1999,"  37,583 ","  15,491 ",2.43
+County,Murray,1999,"  9,544 ","  3,825 ",2.50
+County,Nicollet,1999,"  30,464 ","  10,667 ",2.86
+County,Nobles,1999,"  19,920 ","  7,894 ",2.52
+County,Norman,1999,"  7,637 ","  3,076 ",2.48
+County,Olmsted,1999,"  121,452 ","  47,247 ",2.57
+County,Otter Tail,1999,"  55,192 ","  21,843 ",2.53
+County,Pennington,1999,"  13,606 ","  5,471 ",2.49
+County,Pine,1999,"  24,496 ","  9,083 ",2.70
+County,Pipestone,1999,"  10,343 ","  4,122 ",2.51
+County,Polk,1999,"  32,004 ","  12,119 ",2.64
+County,Pope,1999,"  10,980 ","  4,368 ",2.51
+County,Ramsey,1999,"  497,919 ","  200,184 ",2.49
+County,Red Lake,1999,"  4,384 ","  1,742 ",2.52
+County,Redwood,1999,"  17,193 ","  6,735 ",2.55
+County,Renville,1999,"  17,412 ","  6,858 ",2.54
+County,Rice,1999,"  54,888 ","  18,818 ",2.92
+County,Rock,1999,"  9,801 ","  3,851 ",2.55
+County,Roseau,1999,"  16,314 ","  6,095 ",2.68
+County,Scott,1999,"  81,534 ","  28,287 ",2.88
+County,Sherburne,1999,"  63,182 ","  20,853 ",3.03
+County,Sibley,1999,"  14,997 ","  5,664 ",2.65
+County,St. Louis,1999,"  199,080 ","  81,435 ",2.44
+County,Stearns,1999,"  133,977 ","  46,439 ",2.89
+County,Steele,1999,"  32,965 ","  12,632 ",2.61
+County,Stevens,1999,"  10,535 ","  3,936 ",2.68
+County,Swift,1999,"  11,338 ","  4,310 ",2.63
+County,Todd,1999,"  24,191 ","  9,185 ",2.63
+County,Traverse,1999,"  4,212 ","  1,746 ",2.41
+County,Wabasha,1999,"  21,118 ","  8,030 ",2.63
+County,Wadena,1999,"  13,398 ","  5,210 ",2.57
+County,Waseca,1999,"  19,403 ","  7,065 ",2.75
+County,Washington,1999,"  198,606 ","  69,630 ",2.85
+County,Watonwan,1999,"  11,643 ","  4,614 ",2.52
+County,Wilkin,1999,"  7,319 ","  2,832 ",2.58
+County,Winona,1999,"  49,576 ","  18,340 ",2.70
+County,Wright,1999,"  87,779 ","  30,150 ",2.91
+County,Yellow Medicine,1999,"  11,493 ","  4,675 ",2.46
+State,Minnesota,1998,"  4,782,264 ","  1,832,191 ",2.55
+EDR,01 (Northwest),1998,"  89,628 ","  34,674 ",2.52
+EDR,02 (Headwaters),1998,"  72,970 ","  27,195 ",2.61
+EDR,03 (Arrowhead),1998,"  319,805 ","  128,157 ",2.43
+EDR,04 (West Central),1998,"  208,005 ","  79,737 ",2.51
+EDR,05 (North Central),1998,"  145,548 ","  55,890 ",2.56
+EDR,06E (Southwest Central),1998,"  116,055 ","  44,176 ",2.58
+EDR,06W (Upper MN Valley),1998,"  50,376 ","  20,068 ",2.41
+EDR,07E (East Central),1998,"  129,458 ","  46,790 ",2.71
+EDR,07W (Central),1998,"  311,283 ","  107,175 ",2.81
+EDR,08 (Southwest),1998,"  124,182 ","  48,717 ",2.48
+EDR,09 (South Central),1998,"  223,478 ","  84,405 ",2.54
+EDR,10 (Southeast),1998,"  447,123 ","  169,861 ",2.54
+EDR,11 (7 County Twin Cities),1998,"  2,544,353 ","  985,346 ",2.53
+County,Aitkin,1998,"  14,099 ","  5,951 ",2.37
+County,Anoka,1998,"  290,871 ","  100,685 ",2.89
+County,Becker,1998,"  29,582 ","  11,379 ",2.60
+County,Beltrami,1998,"  37,899 ","  13,534 ",2.80
+County,Benton,1998,"  34,431 ","  12,809 ",2.69
+County,Big Stone,1998,"  5,875 ","  2,351 ",2.50
+County,Blue Earth,1998,"  55,611 ","  20,466 ",2.72
+County,Brown,1998,"  27,976 ","  10,801 ",2.59
+County,Carlton,1998,"  31,496 ","  11,713 ",2.69
+County,Carver,1998,"  63,358 ","  22,444 ",2.82
+County,Cass,1998,"  24,997 ","  9,832 ",2.54
+County,Chippewa,1998,"  13,053 ","  5,272 ",2.48
+County,Chisago,1998,"  40,237 ","  14,073 ",2.86
+County,Clay,1998,"  53,183 ","  19,136 ",2.78
+County,Clearwater,1998,"  8,423 ","  3,208 ",2.63
+County,Cook,1998,"  4,501 ","  1,944 ",2.32
+County,Cottonwood,1998,"  12,923 ","  5,142 ",2.51
+County,Crow Wing,1998,"  51,605 ","  20,399 ",2.53
+County,Dakota,1998,"  339,256 ","  123,541 ",2.75
+County,Dodge,1998,"  17,298 ","  6,199 ",2.79
+County,Douglas,1998,"  31,481 ","  12,382 ",2.54
+County,Faribault,1998,"  16,432 ","  6,735 ",2.44
+County,Fillmore,1998,"  20,967 ","  8,092 ",2.59
+County,Freeborn,1998,"  32,324 ","  13,067 ",2.47
+County,Goodhue,1998,"  43,266 ","  16,597 ",2.61
+County,Grant,1998,"  6,201 ","  2,504 ",2.48
+County,Hennepin,1998,"  1,081,875 ","  445,149 ",2.43
+County,Houston,1998,"  19,412 ","  7,354 ",2.64
+County,Hubbard,1998,"  16,905 ","  6,731 ",2.51
+County,Isanti,1998,"  30,038 ","  10,540 ",2.85
+County,Itasca,1998,"  43,729 ","  16,826 ",2.60
+County,Jackson,1998,"  11,728 ","  4,662 ",2.52
+County,Kanabec,1998,"  14,220 ","  5,397 ",2.63
+County,Kandiyohi,1998,"  41,782 ","  15,926 ",2.62
+County,Kittson,1998,"  5,455 ","  2,221 ",2.46
+County,Koochiching,1998,"  15,826 ","  6,136 ",2.58
+County,Lac qui Parle,1998,"  8,540 ","  3,435 ",2.49
+County,Lake,1998,"  10,700 ","  4,431 ",2.41
+County,Lake of the Woods,1998,"  4,553 ","  1,784 ",2.55
+County,Le Sueur,1998,"  25,181 ","  9,328 ",2.70
+County,Lincoln,1998,"  6,644 ","  2,672 ",2.49
+County,Lyon,1998,"  25,484 ","  9,697 ",2.63
+County,Mahnomen,1998,"  5,190 ","  1,938 ",2.68
+County,Marshall,1998,"  10,465 ","  4,120 ",2.54
+County,Martin,1998,"  22,782 ","  9,267 ",2.46
+County,McLeod,1998,"  34,881 ","  13,173 ",2.65
+County,Meeker,1998,"  21,911 ","  8,231 ",2.66
+County,Mille Lacs,1998,"  21,026 ","  7,934 ",2.65
+County,Morrison,1998,"  31,496 ","  11,401 ",2.76
+County,Mower,1998,"  37,582 ","  15,426 ",2.44
+County,Murray,1998,"  9,573 ","  3,818 ",2.51
+County,Nicollet,1998,"  30,119 ","  10,549 ",2.86
+County,Nobles,1998,"  20,276 ","  8,013 ",2.53
+County,Norman,1998,"  7,636 ","  3,080 ",2.48
+County,Olmsted,1998,"  119,038 ","  46,111 ",2.58
+County,Otter Tail,1998,"  54,404 ","  21,479 ",2.53
+County,Pennington,1998,"  13,617 ","  5,453 ",2.50
+County,Pine,1998,"  23,937 ","  8,846 ",2.71
+County,Pipestone,1998,"  10,437 ","  4,136 ",2.52
+County,Polk,1998,"  31,765 ","  12,010 ",2.64
+County,Pope,1998,"  10,979 ","  4,351 ",2.52
+County,Ramsey,1998,"  498,090 ","  199,389 ",2.50
+County,Red Lake,1998,"  4,404 ","  1,742 ",2.53
+County,Redwood,1998,"  17,262 ","  6,729 ",2.57
+County,Renville,1998,"  17,481 ","  6,846 ",2.55
+County,Rice,1998,"  54,101 ","  18,468 ",2.93
+County,Rock,1998,"  9,855 ","  3,848 ",2.56
+County,Roseau,1998,"  16,286 ","  6,048 ",2.69
+County,Scott,1998,"  77,924 ","  26,739 ",2.91
+County,Sherburne,1998,"  59,945 ","  19,755 ",3.03
+County,Sibley,1998,"  14,943 ","  5,620 ",2.66
+County,St. Louis,1998,"  199,454 ","  81,156 ",2.46
+County,Stearns,1998,"  131,981 ","  45,538 ",2.90
+County,Steele,1998,"  32,561 ","  12,425 ",2.62
+County,Stevens,1998,"  10,609 ","  3,943 ",2.69
+County,Swift,1998,"  11,335 ","  4,329 ",2.62
+County,Todd,1998,"  23,994 ","  9,046 ",2.65
+County,Traverse,1998,"  4,250 ","  1,753 ",2.42
+County,Wabasha,1998,"  20,901 ","  7,905 ",2.64
+County,Wadena,1998,"  13,456 ","  5,212 ",2.58
+County,Waseca,1998,"  18,744 ","  7,021 ",2.67
+County,Washington,1998,"  192,979 ","  67,399 ",2.86
+County,Watonwan,1998,"  11,690 ","  4,618 ",2.53
+County,Wilkin,1998,"  7,316 ","  2,810 ",2.60
+County,Winona,1998,"  49,673 ","  18,217 ",2.73
+County,Wright,1998,"  84,926 ","  29,073 ",2.92
+County,Yellow Medicine,1998,"  11,573 ","  4,681 ",2.47
+State,Minnesota,1997,"  4,735,830 ","  1,809,628 ",2.55
+EDR,01 (Northwest),1997,"  91,252 ","  35,092 ",2.53
+EDR,02 (Headwaters),1997,"  72,516 ","  26,862 ",2.62
+EDR,03 (Arrowhead),1997,"  318,714 ","  127,604 ",2.44
+EDR,04 (West Central),1997,"  207,377 ","  79,171 ",2.52
+EDR,05 (North Central),1997,"  143,761 ","  55,001 ",2.57
+EDR,06E (Southwest Central),1997,"  115,377 ","  43,705 ",2.59
+EDR,06W (Upper MN Valley),1997,"  50,539 ","  20,147 ",2.42
+EDR,07E (East Central),1997,"  126,800 ","  45,733 ",2.71
+EDR,07W (Central),1997,"  303,806 ","  104,391 ",2.82
+EDR,08 (Southwest),1997,"  124,698 ","  48,745 ",2.49
+EDR,09 (South Central),1997,"  222,882 ","  83,935 ",2.55
+EDR,10 (Southeast),1997,"  442,989 ","  167,604 ",2.55
+EDR,11 (7 County Twin Cities),1997,"  2,515,119 ","  971,638 ",2.54
+County,Aitkin,1997,"  13,949 ","  5,873 ",2.38
+County,Anoka,1997,"  285,271 ","  98,570 ",2.89
+County,Becker,1997,"  29,394 ","  11,253 ",2.61
+County,Beltrami,1997,"  37,615 ","  13,312 ",2.83
+County,Benton,1997,"  34,057 ","  12,632 ",2.70
+County,Big Stone,1997,"  5,915 ","  2,355 ",2.51
+County,Blue Earth,1997,"  55,286 ","  20,329 ",2.72
+County,Brown,1997,"  28,006 ","  10,775 ",2.60
+County,Carlton,1997,"  30,974 ","  11,627 ",2.66
+County,Carver,1997,"  61,377 ","  21,723 ",2.83
+County,Cass,1997,"  24,531 ","  9,582 ",2.56
+County,Chippewa,1997,"  13,183 ","  5,305 ",2.49
+County,Chisago,1997,"  38,937 ","  13,599 ",2.86
+County,Clay,1997,"  52,994 ","  19,025 ",2.79
+County,Clearwater,1997,"  8,467 ","  3,209 ",2.64
+County,Cook,1997,"  4,437 ","  1,912 ",2.32
+County,Cottonwood,1997,"  12,930 ","  5,144 ",2.51
+County,Crow Wing,1997,"  50,578 ","  19,968 ",2.53
+County,Dakota,1997,"  332,657 ","  120,715 ",2.76
+County,Dodge,1997,"  17,122 ","  6,119 ",2.80
+County,Douglas,1997,"  31,274 ","  12,249 ",2.55
+County,Faribault,1997,"  16,548 ","  6,747 ",2.45
+County,Fillmore,1997,"  20,969 ","  8,071 ",2.60
+County,Freeborn,1997,"  32,429 ","  13,062 ",2.48
+County,Goodhue,1997,"  42,987 ","  16,435 ",2.62
+County,Grant,1997,"  6,185 ","  2,484 ",2.49
+County,Hennepin,1997,"  1,075,907 ","  441,474 ",2.44
+County,Houston,1997,"  19,330 ","  7,290 ",2.65
+County,Hubbard,1997,"  16,717 ","  6,637 ",2.52
+County,Isanti,1997,"  29,603 ","  10,346 ",2.86
+County,Itasca,1997,"  43,337 ","  16,655 ",2.60
+County,Jackson,1997,"  11,750 ","  4,660 ",2.52
+County,Kanabec,1997,"  14,030 ","  5,300 ",2.65
+County,Kandiyohi,1997,"  41,652 ","  15,788 ",2.64
+County,Kittson,1997,"  5,510 ","  2,231 ",2.47
+County,Koochiching,1997,"  15,868 ","  6,139 ",2.58
+County,Lac qui Parle,1997,"  8,644 ","  3,465 ",2.49
+County,Lake,1997,"  10,695 ","  4,419 ",2.42
+County,Lake of the Woods,1997,"  4,495 ","  1,765 ",2.55
+County,Le Sueur,1997,"  24,939 ","  9,219 ",2.71
+County,Lincoln,1997,"  6,707 ","  2,685 ",2.50
+County,Lyon,1997,"  25,431 ","  9,641 ",2.64
+County,Mahnomen,1997,"  5,222 ","  1,939 ",2.69
+County,Marshall,1997,"  10,676 ","  4,175 ",2.56
+County,Martin,1997,"  22,849 ","  9,265 ",2.47
+County,McLeod,1997,"  34,493 ","  12,966 ",2.66
+County,Meeker,1997,"  21,711 ","  8,116 ",2.68
+County,Mille Lacs,1997,"  20,648 ","  7,770 ",2.66
+County,Morrison,1997,"  31,234 ","  11,256 ",2.77
+County,Mower,1997,"  37,575 ","  15,369 ",2.44
+County,Murray,1997,"  9,624 ","  3,819 ",2.52
+County,Nicollet,1997,"  29,965 ","  10,449 ",2.87
+County,Nobles,1997,"  20,570 ","  8,091 ",2.54
+County,Norman,1997,"  7,832 ","  3,123 ",2.51
+County,Olmsted,1997,"  116,537 ","  44,891 ",2.60
+County,Otter Tail,1997,"  54,160 ","  21,307 ",2.54
+County,Pennington,1997,"  13,647 ","  5,441 ",2.51
+County,Pine,1997,"  23,582 ","  8,718 ",2.70
+County,Pipestone,1997,"  10,427 ","  4,113 ",2.54
+County,Polk,1997,"  32,808 ","  12,333 ",2.66
+County,Pope,1997,"  10,969 ","  4,316 ",2.54
+County,Ramsey,1997,"  497,423 ","  198,370 ",2.51
+County,Red Lake,1997,"  4,456 ","  1,752 ",2.54
+County,Redwood,1997,"  17,293 ","  6,706 ",2.58
+County,Renville,1997,"  17,521 ","  6,835 ",2.56
+County,Rice,1997,"  53,514 ","  18,222 ",2.94
+County,Rock,1997,"  9,966 ","  3,886 ",2.56
+County,Roseau,1997,"  16,323 ","  6,037 ",2.70
+County,Scott,1997,"  75,009 ","  25,650 ",2.92
+County,Sherburne,1997,"  56,682 ","  18,727 ",3.03
+County,Sibley,1997,"  14,913 ","  5,580 ",2.67
+County,St. Louis,1997,"  199,454 ","  80,979 ",2.46
+County,Stearns,1997,"  130,574 ","  44,861 ",2.91
+County,Steele,1997,"  32,320 ","  12,289 ",2.63
+County,Stevens,1997,"  10,694 ","  3,941 ",2.71
+County,Swift,1997,"  11,159 ","  4,338 ",2.57
+County,Todd,1997,"  24,014 ","  9,022 ",2.66
+County,Traverse,1997,"  4,331 ","  1,774 ",2.44
+County,Wabasha,1997,"  20,721 ","  7,808 ",2.65
+County,Wadena,1997,"  13,404 ","  5,173 ",2.59
+County,Waseca,1997,"  18,626 ","  6,949 ",2.68
+County,Washington,1997,"  187,475 ","  65,136 ",2.88
+County,Watonwan,1997,"  11,750 ","  4,622 ",2.54
+County,Wilkin,1997,"  7,376 ","  2,822 ",2.61
+County,Winona,1997,"  49,485 ","  18,048 ",2.74
+County,Wright,1997,"  82,493 ","  28,171 ",2.93
+County,Yellow Medicine,1997,"  11,638 ","  4,684 ",2.48
+State,Minnesota,1996,"  4,682,748 ","  1,786,249 ",2.56
+EDR,01 (Northwest),1996,"  91,283 ","  34,923 ",2.54
+EDR,02 (Headwaters),1996,"  71,565 ","  26,434 ",2.62
+EDR,03 (Arrowhead),1996,"  317,199 ","  126,563 ",2.44
+EDR,04 (West Central),1996,"  206,195 ","  78,311 ",2.54
+EDR,05 (North Central),1996,"  142,036 ","  54,136 ",2.58
+EDR,06E (Southwest Central),1996,"  114,775 ","  43,290 ",2.60
+EDR,06W (Upper MN Valley),1996,"  50,571 ","  20,050 ",2.43
+EDR,07E (East Central),1996,"  123,729 ","  44,466 ",2.72
+EDR,07W (Central),1996,"  295,985 ","  101,300 ",2.83
+EDR,08 (Southwest),1996,"  124,554 ","  48,562 ",2.50
+EDR,09 (South Central),1996,"  221,985 ","  83,372 ",2.55
+EDR,10 (Southeast),1996,"  440,013 ","  165,821 ",2.56
+EDR,11 (7 County Twin Cities),1996,"  2,482,858 ","  959,021 ",2.54
+County,Aitkin,1996,"  13,739 ","  5,747 ",2.39
+County,Anoka,1996,"  278,531 ","  96,313 ",2.89
+County,Becker,1996,"  29,247 ","  11,116 ",2.63
+County,Beltrami,1996,"  36,972 ","  13,051 ",2.83
+County,Benton,1996,"  33,707 ","  12,451 ",2.71
+County,Big Stone,1996,"  5,941 ","  2,350 ",2.53
+County,Blue Earth,1996,"  55,335 ","  20,188 ",2.74
+County,Brown,1996,"  27,895 ","  10,699 ",2.61
+County,Carlton,1996,"  30,776 ","  11,529 ",2.67
+County,Carver,1996,"  59,183 ","  20,937 ",2.83
+County,Cass,1996,"  24,107 ","  9,373 ",2.57
+County,Chippewa,1996,"  13,155 ","  5,271 ",2.50
+County,Chisago,1996,"  37,269 ","  12,980 ",2.87
+County,Clay,1996,"  52,895 ","  18,878 ",2.80
+County,Clearwater,1996,"  8,482 ","  3,199 ",2.65
+County,Cook,1996,"  4,313 ","  1,856 ",2.32
+County,Cottonwood,1996,"  12,793 ","  5,128 ",2.49
+County,Crow Wing,1996,"  49,560 ","  19,535 ",2.54
+County,Dakota,1996,"  325,079 ","  117,889 ",2.76
+County,Dodge,1996,"  16,926 ","  6,033 ",2.81
+County,Douglas,1996,"  30,927 ","  12,059 ",2.56
+County,Faribault,1996,"  16,614 ","  6,759 ",2.46
+County,Fillmore,1996,"  20,916 ","  8,026 ",2.61
+County,Freeborn,1996,"  32,698 ","  13,136 ",2.49
+County,Goodhue,1996,"  42,742 ","  16,276 ",2.63
+County,Grant,1996,"  6,220 ","  2,485 ",2.50
+County,Hennepin,1996,"  1,070,709 ","  438,871 ",2.44
+County,Houston,1996,"  19,245 ","  7,231 ",2.66
+County,Hubbard,1996,"  16,440 ","  6,515 ",2.52
+County,Isanti,1996,"  29,110 ","  10,117 ",2.88
+County,Itasca,1996,"  42,763 ","  16,409 ",2.61
+County,Jackson,1996,"  11,757 ","  4,646 ",2.53
+County,Kanabec,1996,"  13,815 ","  5,203 ",2.66
+County,Kandiyohi,1996,"  41,502 ","  15,641 ",2.65
+County,Kittson,1996,"  5,535 ","  2,230 ",2.48
+County,Koochiching,1996,"  15,947 ","  6,157 ",2.59
+County,Lac qui Parle,1996,"  8,704 ","  3,474 ",2.51
+County,Lake,1996,"  10,558 ","  4,338 ",2.43
+County,Lake of the Woods,1996,"  4,430 ","  1,734 ",2.55
+County,Le Sueur,1996,"  24,739 ","  9,118 ",2.71
+County,Lincoln,1996,"  6,769 ","  2,700 ",2.51
+County,Lyon,1996,"  25,284 ","  9,573 ",2.64
+County,Mahnomen,1996,"  5,241 ","  1,935 ",2.71
+County,Marshall,1996,"  10,716 ","  4,169 ",2.57
+County,Martin,1996,"  22,872 ","  9,240 ",2.48
+County,McLeod,1996,"  34,197 ","  12,812 ",2.67
+County,Meeker,1996,"  21,509 ","  8,008 ",2.69
+County,Mille Lacs,1996,"  20,212 ","  7,576 ",2.67
+County,Morrison,1996,"  31,041 ","  11,129 ",2.79
+County,Mower,1996,"  37,674 ","  15,350 ",2.45
+County,Murray,1996,"  9,637 ","  3,809 ",2.53
+County,Nicollet,1996,"  29,721 ","  10,317 ",2.88
+County,Nobles,1996,"  20,578 ","  8,059 ",2.55
+County,Norman,1996,"  7,876 ","  3,125 ",2.52
+County,Olmsted,1996,"  115,169 ","  44,145 ",2.61
+County,Otter Tail,1996,"  53,552 ","  20,994 ",2.55
+County,Pennington,1996,"  13,586 ","  5,386 ",2.52
+County,Pine,1996,"  23,323 ","  8,590 ",2.72
+County,Pipestone,1996,"  10,468 ","  4,100 ",2.55
+County,Polk,1996,"  32,885 ","  12,308 ",2.67
+County,Pope,1996,"  10,956 ","  4,287 ",2.56
+County,Ramsey,1996,"  496,068 ","  197,500 ",2.51
+County,Red Lake,1996,"  4,455 ","  1,733 ",2.57
+County,Redwood,1996,"  17,325 ","  6,691 ",2.59
+County,Renville,1996,"  17,567 ","  6,829 ",2.57
+County,Rice,1996,"  52,821 ","  17,895 ",2.95
+County,Rock,1996,"  9,943 ","  3,856 ",2.58
+County,Roseau,1996,"  16,230 ","  5,972 ",2.72
+County,Scott,1996,"  71,547 ","  24,408 ",2.93
+County,Sherburne,1996,"  53,772 ","  17,700 ",3.04
+County,Sibley,1996,"  14,785 ","  5,532 ",2.67
+County,St. Louis,1996,"  199,103 ","  80,527 ",2.47
+County,Stearns,1996,"  128,522 ","  43,925 ",2.93
+County,Steele,1996,"  32,018 ","  12,112 ",2.64
+County,Stevens,1996,"  10,637 ","  3,893 ",2.73
+County,Swift,1996,"  11,142 ","  4,291 ",2.60
+County,Todd,1996,"  23,931 ","  8,947 ",2.67
+County,Traverse,1996,"  4,374 ","  1,785 ",2.45
+County,Wabasha,1996,"  20,581 ","  7,721 ",2.67
+County,Wadena,1996,"  13,397 ","  5,152 ",2.60
+County,Waseca,1996,"  18,274 ","  6,907 ",2.65
+County,Washington,1996,"  181,741 ","  63,103 ",2.88
+County,Watonwan,1996,"  11,750 ","  4,612 ",2.55
+County,Wilkin,1996,"  7,387 ","  2,814 ",2.63
+County,Winona,1996,"  49,223 ","  17,896 ",2.75
+County,Wright,1996,"  79,984 ","  27,224 ",2.94
+County,Yellow Medicine,1996,"  11,629 ","  4,664 ",2.49
+State,Minnesota,1995,"  4,626,514 ","  1,761,702 ",2.56
+EDR,01 (Northwest),1995,"  90,991 ","  34,669 ",2.56
+EDR,02 (Headwaters),1995,"  70,675 ","  25,997 ",2.63
+EDR,03 (Arrowhead),1995,"  315,800 ","  125,702 ",2.45
+EDR,04 (West Central),1995,"  204,470 ","  77,369 ",2.54
+EDR,05 (North Central),1995,"  140,030 ","  53,161 ",2.58
+EDR,06E (Southwest Central),1995,"  113,917 ","  42,861 ",2.61
+EDR,06W (Upper MN Valley),1995,"  50,534 ","  19,993 ",2.44
+EDR,07E (East Central),1995,"  120,805 ","  43,278 ",2.73
+EDR,07W (Central),1995,"  288,834 ","  98,590 ",2.83
+EDR,08 (Southwest),1995,"  124,097 ","  48,212 ",2.50
+EDR,09 (South Central),1995,"  220,389 ","  82,657 ",2.56
+EDR,10 (Southeast),1995,"  437,005 ","  164,186 ",2.57
+EDR,11 (7 County Twin Cities),1995,"  2,448,967 ","  945,027 ",2.54
+County,Aitkin,1995,"  13,366 ","  5,588 ",2.39
+County,Anoka,1995,"  272,636 ","  94,340 ",2.89
+County,Becker,1995,"  29,163 ","  11,058 ",2.64
+County,Beltrami,1995,"  36,508 ","  12,863 ",2.84
+County,Benton,1995,"  33,362 ","  12,304 ",2.71
+County,Big Stone,1995,"  6,026 ","  2,376 ",2.54
+County,Blue Earth,1995,"  55,172 ","  20,085 ",2.75
+County,Brown,1995,"  27,580 ","  10,618 ",2.60
+County,Carlton,1995,"  30,559 ","  11,460 ",2.67
+County,Carver,1995,"  57,010 ","  20,155 ",2.83
+County,Cass,1995,"  23,801 ","  9,224 ",2.58
+County,Chippewa,1995,"  13,097 ","  5,237 ",2.50
+County,Chisago,1995,"  36,045 ","  12,534 ",2.88
+County,Clay,1995,"  52,540 ","  18,713 ",2.81
+County,Clearwater,1995,"  8,452 ","  3,175 ",2.66
+County,Cook,1995,"  4,166 ","  1,788 ",2.33
+County,Cottonwood,1995,"  12,768 ","  5,119 ",2.49
+County,Crow Wing,1995,"  48,437 ","  19,053 ",2.54
+County,Dakota,1995,"  316,272 ","  114,470 ",2.76
+County,Dodge,1995,"  16,680 ","  5,933 ",2.81
+County,Douglas,1995,"  30,424 ","  11,807 ",2.58
+County,Faribault,1995,"  16,661 ","  6,739 ",2.47
+County,Fillmore,1995,"  20,906 ","  7,984 ",2.62
+County,Freeborn,1995,"  32,759 ","  13,114 ",2.50
+County,Goodhue,1995,"  42,477 ","  16,113 ",2.64
+County,Grant,1995,"  6,242 ","  2,477 ",2.52
+County,Hennepin,1995,"  1,063,631 ","  435,216 ",2.44
+County,Houston,1995,"  19,123 ","  7,152 ",2.67
+County,Hubbard,1995,"  16,225 ","  6,378 ",2.54
+County,Isanti,1995,"  28,664 ","  9,927 ",2.89
+County,Itasca,1995,"  42,446 ","  16,261 ",2.61
+County,Jackson,1995,"  11,717 ","  4,615 ",2.54
+County,Kanabec,1995,"  13,473 ","  5,056 ",2.66
+County,Kandiyohi,1995,"  41,167 ","  15,431 ",2.67
+County,Kittson,1995,"  5,572 ","  2,233 ",2.50
+County,Koochiching,1995,"  15,911 ","  6,127 ",2.60
+County,Lac qui Parle,1995,"  8,717 ","  3,463 ",2.52
+County,Lake,1995,"  10,473 ","  4,294 ",2.44
+County,Lake of the Woods,1995,"  4,363 ","  1,706 ",2.56
+County,Le Sueur,1995,"  24,371 ","  8,961 ",2.72
+County,Lincoln,1995,"  6,791 ","  2,701 ",2.51
+County,Lyon,1995,"  25,211 ","  9,473 ",2.66
+County,Mahnomen,1995,"  5,127 ","  1,875 ",2.73
+County,Marshall,1995,"  10,733 ","  4,160 ",2.58
+County,Martin,1995,"  22,840 ","  9,199 ",2.48
+County,McLeod,1995,"  33,803 ","  12,694 ",2.66
+County,Meeker,1995,"  21,352 ","  7,918 ",2.70
+County,Mille Lacs,1995,"  19,807 ","  7,396 ",2.68
+County,Morrison,1995,"  30,756 ","  10,956 ",2.81
+County,Mower,1995,"  37,628 ","  15,298 ",2.46
+County,Murray,1995,"  9,606 ","  3,778 ",2.54
+County,Nicollet,1995,"  29,386 ","  10,139 ",2.90
+County,Nobles,1995,"  20,408 ","  7,966 ",2.56
+County,Norman,1995,"  7,885 ","  3,121 ",2.53
+County,Olmsted,1995,"  113,968 ","  43,584 ",2.61
+County,Otter Tail,1995,"  52,847 ","  20,633 ",2.56
+County,Pennington,1995,"  13,391 ","  5,262 ",2.54
+County,Pine,1995,"  22,816 ","  8,365 ",2.73
+County,Pipestone,1995,"  10,433 ","  4,097 ",2.55
+County,Polk,1995,"  32,904 ","  12,285 ",2.68
+County,Pope,1995,"  10,906 ","  4,247 ",2.57
+County,Ramsey,1995,"  494,674 ","  196,412 ",2.52
+County,Red Lake,1995,"  4,481 ","  1,735 ",2.58
+County,Redwood,1995,"  17,293 ","  6,647 ",2.60
+County,Renville,1995,"  17,595 ","  6,818 ",2.58
+County,Rice,1995,"  52,232 ","  17,642 ",2.96
+County,Rock,1995,"  9,870 ","  3,816 ",2.59
+County,Roseau,1995,"  16,025 ","  5,873 ",2.73
+County,Scott,1995,"  69,303 ","  23,634 ",2.93
+County,Sherburne,1995,"  51,328 ","  16,859 ",3.04
+County,Sibley,1995,"  14,584 ","  5,475 ",2.66
+County,St. Louis,1995,"  198,879 ","  80,184 ",2.48
+County,Stearns,1995,"  126,912 ","  43,190 ",2.94
+County,Steele,1995,"  31,817 ","  11,980 ",2.66
+County,Stevens,1995,"  10,575 ","  3,850 ",2.75
+County,Swift,1995,"  11,081 ","  4,275 ",2.59
+County,Todd,1995,"  23,742 ","  8,837 ",2.69
+County,Traverse,1995,"  4,374 ","  1,779 ",2.46
+County,Wabasha,1995,"  20,428 ","  7,641 ",2.67
+County,Wadena,1995,"  13,294 ","  5,091 ",2.61
+County,Waseca,1995,"  18,031 ","  6,834 ",2.64
+County,Washington,1995,"  175,441 ","  60,800 ",2.89
+County,Watonwan,1995,"  11,764 ","  4,607 ",2.55
+County,Wilkin,1995,"  7,399 ","  2,805 ",2.64
+County,Winona,1995,"  48,987 ","  17,745 ",2.76
+County,Wright,1995,"  77,232 ","  26,237 ",2.94
+County,Yellow Medicine,1995,"  11,613 ","  4,642 ",2.50
+State,Minnesota,1994,"  4,570,355 ","  1,735,535 ",2.57
+EDR,01 (Northwest),1994,"  90,545 ","  34,377 ",2.56
+EDR,02 (Headwaters),1994,"  69,584 ","  25,472 ",2.64
+EDR,03 (Arrowhead),1994,"  314,366 ","  124,743 ",2.46
+EDR,04 (West Central),1994,"  202,137 ","  76,172 ",2.55
+EDR,05 (North Central),1994,"  137,627 ","  52,069 ",2.59
+EDR,06E (Southwest Central),1994,"  112,440 ","  42,187 ",2.61
+EDR,06W (Upper MN Valley),1994,"  50,358 ","  19,957 ",2.44
+EDR,07E (East Central),1994,"  117,751 ","  42,045 ",2.73
+EDR,07W (Central),1994,"  282,235 ","  96,086 ",2.84
+EDR,08 (Southwest),1994,"  123,777 ","  47,932 ",2.51
+EDR,09 (South Central),1994,"  218,821 ","  81,938 ",2.56
+EDR,10 (Southeast),1994,"  435,507 ","  163,178 ",2.57
+EDR,11 (7 County Twin Cities),1994,"  2,415,207 ","  929,379 ",2.55
+County,Aitkin,1994,"  12,951 ","  5,403 ",2.40
+County,Anoka,1994,"  266,713 ","  91,862 ",2.90
+County,Becker,1994,"  28,830 ","  10,911 ",2.64
+County,Beltrami,1994,"  36,090 ","  12,644 ",2.85
+County,Benton,1994,"  32,743 ","  12,053 ",2.72
+County,Big Stone,1994,"  6,025 ","  2,370 ",2.54
+County,Blue Earth,1994,"  54,995 ","  19,978 ",2.75
+County,Brown,1994,"  27,359 ","  10,506 ",2.60
+County,Carlton,1994,"  30,194 ","  11,296 ",2.67
+County,Carver,1994,"  55,025 ","  19,352 ",2.84
+County,Cass,1994,"  22,996 ","  8,864 ",2.59
+County,Chippewa,1994,"  13,123 ","  5,243 ",2.50
+County,Chisago,1994,"  34,700 ","  12,064 ",2.88
+County,Clay,1994,"  52,148 ","  18,475 ",2.82
+County,Clearwater,1994,"  8,371 ","  3,135 ",2.67
+County,Cook,1994,"  4,088 ","  1,750 ",2.34
+County,Cottonwood,1994,"  12,732 ","  5,090 ",2.50
+County,Crow Wing,1994,"  47,299 ","  18,566 ",2.55
+County,Dakota,1994,"  308,002 ","  110,660 ",2.78
+County,Dodge,1994,"  16,511 ","  5,861 ",2.82
+County,Douglas,1994,"  29,971 ","  11,591 ",2.59
+County,Faribault,1994,"  16,655 ","  6,717 ",2.48
+County,Fillmore,1994,"  20,799 ","  7,912 ",2.63
+County,Freeborn,1994,"  32,973 ","  13,100 ",2.52
+County,Goodhue,1994,"  42,053 ","  15,917 ",2.64
+County,Grant,1994,"  6,169 ","  2,443 ",2.53
+County,Hennepin,1994,"  1,056,673 ","  431,508 ",2.45
+County,Houston,1994,"  18,929 ","  7,069 ",2.68
+County,Hubbard,1994,"  15,705 ","  6,148 ",2.55
+County,Isanti,1994,"  28,037 ","  9,665 ",2.90
+County,Itasca,1994,"  42,047 ","  16,078 ",2.62
+County,Jackson,1994,"  11,637 ","  4,572 ",2.55
+County,Kanabec,1994,"  13,207 ","  4,951 ",2.67
+County,Kandiyohi,1994,"  40,512 ","  15,133 ",2.68
+County,Kittson,1994,"  5,601 ","  2,232 ",2.51
+County,Koochiching,1994,"  15,822 ","  6,082 ",2.60
+County,Lac qui Parle,1994,"  8,727 ","  3,458 ",2.52
+County,Lake,1994,"  10,398 ","  4,258 ",2.44
+County,Lake of the Woods,1994,"  4,288 ","  1,675 ",2.56
+County,Le Sueur,1994,"  23,922 ","  8,804 ",2.72
+County,Lincoln,1994,"  6,803 ","  2,704 ",2.52
+County,Lyon,1994,"  25,195 ","  9,394 ",2.68
+County,Mahnomen,1994,"  5,130 ","  1,870 ",2.74
+County,Marshall,1994,"  10,766 ","  4,161 ",2.59
+County,Martin,1994,"  22,842 ","  9,178 ",2.49
+County,McLeod,1994,"  33,295 ","  12,477 ",2.67
+County,Meeker,1994,"  21,125 ","  7,818 ",2.70
+County,Mille Lacs,1994,"  19,298 ","  7,184 ",2.69
+County,Morrison,1994,"  30,587 ","  10,868 ",2.81
+County,Mower,1994,"  37,561 ","  15,224 ",2.47
+County,Murray,1994,"  9,568 ","  3,752 ",2.55
+County,Nicollet,1994,"  29,058 ","  10,008 ",2.90
+County,Nobles,1994,"  20,346 ","  7,924 ",2.57
+County,Norman,1994,"  7,839 ","  3,082 ",2.54
+County,Olmsted,1994,"  114,386 ","  43,696 ",2.62
+County,Otter Tail,1994,"  51,823 ","  20,162 ",2.57
+County,Pennington,1994,"  13,327 ","  5,229 ",2.55
+County,Pine,1994,"  22,509 ","  8,181 ",2.75
+County,Pipestone,1994,"  10,413 ","  4,082 ",2.55
+County,Polk,1994,"  32,835 ","  12,218 ",2.69
+County,Pope,1994,"  10,839 ","  4,207 ",2.58
+County,Ramsey,1994,"  492,909 ","  195,038 ",2.53
+County,Red Lake,1994,"  4,466 ","  1,725 ",2.59
+County,Redwood,1994,"  17,270 ","  6,622 ",2.61
+County,Renville,1994,"  17,508 ","  6,759 ",2.59
+County,Rice,1994,"  51,569 ","  17,382 ",2.97
+County,Rock,1994,"  9,813 ","  3,792 ",2.59
+County,Roseau,1994,"  15,711 ","  5,730 ",2.74
+County,Scott,1994,"  66,585 ","  22,586 ",2.95
+County,Sherburne,1994,"  49,234 ","  16,143 ",3.05
+County,Sibley,1994,"  14,484 ","  5,432 ",2.67
+County,St. Louis,1994,"  198,866 ","  79,876 ",2.49
+County,Stearns,1994,"  125,171 ","  42,452 ",2.95
+County,Steele,1994,"  31,646 ","  11,890 ",2.66
+County,Stevens,1994,"  10,597 ","  3,835 ",2.76
+County,Swift,1994,"  10,885 ","  4,261 ",2.55
+County,Todd,1994,"  23,538 ","  8,733 ",2.70
+County,Traverse,1994,"  4,343 ","  1,754 ",2.48
+County,Wabasha,1994,"  20,292 ","  7,575 ",2.68
+County,Wadena,1994,"  13,207 ","  5,038 ",2.62
+County,Waseca,1994,"  17,894 ","  6,765 ",2.65
+County,Washington,1994,"  169,300 ","  58,373 ",2.90
+County,Watonwan,1994,"  11,612 ","  4,550 ",2.55
+County,Wilkin,1994,"  7,417 ","  2,794 ",2.65
+County,Winona,1994,"  48,788 ","  17,552 ",2.78
+County,Wright,1994,"  75,087 ","  25,438 ",2.95
+County,Yellow Medicine,1994,"  11,598 ","  4,625 ",2.51
+State,Minnesota,1993,"  4,515,118 ","  1,710,266 ",2.57
+EDR,01 (Northwest),1993,"  90,114 ","  34,105 ",2.57
+EDR,02 (Headwaters),1993,"  68,585 ","  25,066 ",2.65
+EDR,03 (Arrowhead),1993,"  312,599 ","  123,959 ",2.46
+EDR,04 (West Central),1993,"  199,700 ","  75,109 ",2.56
+EDR,05 (North Central),1993,"  135,861 ","  51,261 ",2.60
+EDR,06E (Southwest Central),1993,"  111,459 ","  41,693 ",2.62
+EDR,06W (Upper MN Valley),1993,"  50,148 ","  19,893 ",2.45
+EDR,07E (East Central),1993,"  115,094 ","  41,016 ",2.73
+EDR,07W (Central),1993,"  274,810 ","  93,501 ",2.84
+EDR,08 (Southwest),1993,"  123,154 ","  47,618 ",2.52
+EDR,09 (South Central),1993,"  217,613 ","  81,337 ",2.57
+EDR,10 (Southeast),1993,"  432,256 ","  161,600 ",2.58
+EDR,11 (7 County Twin Cities),1993,"  2,383,725 ","  914,108 ",2.56
+County,Aitkin,1993,"  12,593 ","  5,254 ",2.40
+County,Anoka,1993,"  261,814 ","  89,108 ",2.94
+County,Becker,1993,"  28,383 ","  10,726 ",2.65
+County,Beltrami,1993,"  35,360 ","  12,367 ",2.86
+County,Benton,1993,"  32,306 ","  11,887 ",2.72
+County,Big Stone,1993,"  6,089 ","  2,391 ",2.55
+County,Blue Earth,1993,"  54,473 ","  19,767 ",2.76
+County,Brown,1993,"  27,299 ","  10,459 ",2.61
+County,Carlton,1993,"  30,003 ","  11,199 ",2.68
+County,Carver,1993,"  52,758 ","  18,445 ",2.86
+County,Cass,1993,"  22,562 ","  8,662 ",2.60
+County,Chippewa,1993,"  13,116 ","  5,231 ",2.51
+County,Chisago,1993,"  33,255 ","  11,575 ",2.87
+County,Clay,1993,"  51,261 ","  18,122 ",2.83
+County,Clearwater,1993,"  8,382 ","  3,132 ",2.68
+County,Cook,1993,"  4,015 ","  1,719 ",2.34
+County,Cottonwood,1993,"  12,649 ","  5,072 ",2.49
+County,Crow Wing,1993,"  46,512 ","  18,232 ",2.55
+County,Dakota,1993,"  298,679 ","  107,094 ",2.79
+County,Dodge,1993,"  16,275 ","  5,770 ",2.82
+County,Douglas,1993,"  29,544 ","  11,414 ",2.59
+County,Faribault,1993,"  16,685 ","  6,717 ",2.48
+County,Fillmore,1993,"  20,812 ","  7,900 ",2.63
+County,Freeborn,1993,"  33,026 ","  13,098 ",2.52
+County,Goodhue,1993,"  41,681 ","  15,759 ",2.64
+County,Grant,1993,"  6,196 ","  2,444 ",2.54
+County,Hennepin,1993,"  1,051,426 ","  428,556 ",2.45
+County,Houston,1993,"  18,772 ","  7,008 ",2.68
+County,Hubbard,1993,"  15,517 ","  6,066 ",2.56
+County,Isanti,1993,"  27,567 ","  9,490 ",2.90
+County,Itasca,1993,"  41,565 ","  15,875 ",2.62
+County,Jackson,1993,"  11,569 ","  4,538 ",2.55
+County,Kanabec,1993,"  13,102 ","  4,900 ",2.67
+County,Kandiyohi,1993,"  40,044 ","  14,938 ",2.68
+County,Kittson,1993,"  5,626 ","  2,232 ",2.52
+County,Koochiching,1993,"  15,811 ","  6,075 ",2.60
+County,Lac qui Parle,1993,"  8,744 ","  3,455 ",2.53
+County,Lake,1993,"  10,363 ","  4,245 ",2.44
+County,Lake of the Woods,1993,"  4,223 ","  1,647 ",2.56
+County,Le Sueur,1993,"  23,695 ","  8,716 ",2.72
+County,Lincoln,1993,"  6,783 ","  2,692 ",2.52
+County,Lyon,1993,"  24,979 ","  9,296 ",2.69
+County,Mahnomen,1993,"  5,103 ","  1,854 ",2.75
+County,Marshall,1993,"  10,819 ","  4,164 ",2.60
+County,Martin,1993,"  22,832 ","  9,156 ",2.49
+County,McLeod,1993,"  32,824 ","  12,242 ",2.68
+County,Meeker,1993,"  21,056 ","  7,776 ",2.71
+County,Mille Lacs,1993,"  19,164 ","  7,131 ",2.69
+County,Morrison,1993,"  30,280 ","  10,717 ",2.83
+County,Mower,1993,"  37,391 ","  15,129 ",2.47
+County,Murray,1993,"  9,613 ","  3,751 ",2.56
+County,Nicollet,1993,"  28,858 ","  9,895 ",2.92
+County,Nobles,1993,"  20,192 ","  7,846 ",2.57
+County,Norman,1993,"  7,826 ","  3,068 ",2.55
+County,Olmsted,1993,"  113,237 ","  43,120 ",2.63
+County,Otter Tail,1993,"  51,309 ","  19,910 ",2.58
+County,Pennington,1993,"  13,243 ","  5,183 ",2.56
+County,Pine,1993,"  22,006 ","  7,920 ",2.78
+County,Pipestone,1993,"  10,380 ","  4,060 ",2.56
+County,Polk,1993,"  32,673 ","  12,119 ",2.70
+County,Pope,1993,"  10,755 ","  4,161 ",2.58
+County,Ramsey,1993,"  491,306 ","  193,468 ",2.54
+County,Red Lake,1993,"  4,454 ","  1,712 ",2.60
+County,Redwood,1993,"  17,250 ","  6,600 ",2.61
+County,Renville,1993,"  17,535 ","  6,737 ",2.60
+County,Rice,1993,"  51,122 ","  17,162 ",2.98
+County,Rock,1993,"  9,739 ","  3,763 ",2.59
+County,Roseau,1993,"  15,473 ","  5,627 ",2.75
+County,Scott,1993,"  64,242 ","  21,676 ",2.96
+County,Sherburne,1993,"  46,574 ","  15,240 ",3.06
+County,Sibley,1993,"  14,402 ","  5,391 ",2.67
+County,St. Louis,1993,"  198,249 ","  79,592 ",2.49
+County,Stearns,1993,"  123,257 ","  41,787 ",2.95
+County,Steele,1993,"  31,451 ","  11,773 ",2.67
+County,Stevens,1993,"  10,527 ","  3,819 ",2.76
+County,Swift,1993,"  10,650 ","  4,234 ",2.52
+County,Todd,1993,"  23,370 ","  8,653 ",2.70
+County,Traverse,1993,"  4,345 ","  1,742 ",2.49
+County,Wabasha,1993,"  20,093 ","  7,474 ",2.69
+County,Wadena,1993,"  13,137 ","  4,997 ",2.63
+County,Waseca,1993,"  17,777 ","  6,713 ",2.65
+County,Washington,1993,"  163,500 ","  55,761 ",2.93
+County,Watonwan,1993,"  11,592 ","  4,523 ",2.56
+County,Wilkin,1993,"  7,380 ","  2,771 ",2.66
+County,Winona,1993,"  48,396 ","  17,407 ",2.78
+County,Wright,1993,"  72,673 ","  24,587 ",2.96
+County,Yellow Medicine,1993,"  11,549 ","  4,582 ",2.52
+State,Minnesota,1992,"  4,469,450 ","  1,688,050 ",2.58
+EDR,01 (Northwest),1992,"  90,162 ","  34,041 ",2.58
+EDR,02 (Headwaters),1992,"  68,175 ","  24,806 ",2.66
+EDR,03 (Arrowhead),1992,"  312,805 ","  123,321 ",2.46
+EDR,04 (West Central),1992,"  198,753 ","  74,434 ",2.56
+EDR,05 (North Central),1992,"  134,725 ","  50,700 ",2.60
+EDR,06E (Southwest Central),1992,"  110,790 ","  41,359 ",2.63
+EDR,06W (Upper MN Valley),1992,"  50,316 ","  19,942 ",2.46
+EDR,07E (East Central),1992,"  112,991 ","  40,180 ",2.74
+EDR,07W (Central),1992,"  269,909 ","  91,578 ",2.84
+EDR,08 (Southwest),1992,"  123,057 ","  47,401 ",2.52
+EDR,09 (South Central),1992,"  217,409 ","  80,914 ",2.57
+EDR,10 (Southeast),1992,"  428,237 ","  159,690 ",2.58
+EDR,11 (7 County Twin Cities),1992,"  2,352,121 ","  899,684 ",2.56
+County,Aitkin,1992,"  12,528 ","  5,215 ",2.40
+County,Anoka,1992,"  255,064 ","  86,427 ",2.95
+County,Becker,1992,"  28,189 ","  10,640 ",2.65
+County,Beltrami,1992,"  35,263 ","  12,286 ",2.87
+County,Benton,1992,"  31,736 ","  11,648 ",2.72
+County,Big Stone,1992,"  6,148 ","  2,408 ",2.55
+County,Blue Earth,1992,"  54,481 ","  19,598 ",2.78
+County,Brown,1992,"  27,113 ","  10,399 ",2.61
+County,Carlton,1992,"  29,627 ","  11,051 ",2.68
+County,Carver,1992,"  50,914 ","  17,660 ",2.88
+County,Cass,1992,"  22,312 ","  8,543 ",2.61
+County,Chippewa,1992,"  13,156 ","  5,235 ",2.51
+County,Chisago,1992,"  32,232 ","  11,203 ",2.88
+County,Clay,1992,"  51,006 ","  17,880 ",2.85
+County,Clearwater,1992,"  8,343 ","  3,102 ",2.69
+County,Cook,1992,"  3,931 ","  1,676 ",2.35
+County,Cottonwood,1992,"  12,656 ","  5,060 ",2.50
+County,Crow Wing,1992,"  45,772 ","  17,898 ",2.56
+County,Dakota,1992,"  290,443 ","  103,657 ",2.80
+County,Dodge,1992,"  16,083 ","  5,695 ",2.82
+County,Douglas,1992,"  29,058 ","  11,190 ",2.60
+County,Faribault,1992,"  16,774 ","  6,739 ",2.49
+County,Fillmore,1992,"  20,811 ","  7,882 ",2.64
+County,Freeborn,1992,"  32,979 ","  13,050 ",2.53
+County,Goodhue,1992,"  41,391 ","  15,606 ",2.65
+County,Grant,1992,"  6,216 ","  2,446 ",2.54
+County,Hennepin,1992,"  1,047,206 ","  425,720 ",2.46
+County,Houston,1992,"  18,757 ","  6,984 ",2.69
+County,Hubbard,1992,"  15,330 ","  5,974 ",2.57
+County,Isanti,1992,"  26,992 ","  9,265 ",2.91
+County,Itasca,1992,"  41,299 ","  15,741 ",2.62
+County,Jackson,1992,"  11,610 ","  4,543 ",2.56
+County,Kanabec,1992,"  13,019 ","  4,860 ",2.68
+County,Kandiyohi,1992,"  39,552 ","  14,707 ",2.69
+County,Kittson,1992,"  5,679 ","  2,245 ",2.53
+County,Koochiching,1992,"  15,807 ","  6,061 ",2.61
+County,Lac qui Parle,1992,"  8,807 ","  3,467 ",2.54
+County,Lake,1992,"  10,353 ","  4,244 ",2.44
+County,Lake of the Woods,1992,"  4,171 ","  1,621 ",2.57
+County,Le Sueur,1992,"  23,563 ","  8,657 ",2.72
+County,Lincoln,1992,"  6,816 ","  2,696 ",2.53
+County,Lyon,1992,"  24,776 ","  9,139 ",2.71
+County,Mahnomen,1992,"  5,068 ","  1,823 ",2.78
+County,Marshall,1992,"  10,870 ","  4,172 ",2.61
+County,Martin,1992,"  22,812 ","  9,129 ",2.50
+County,McLeod,1992,"  32,645 ","  12,143 ",2.69
+County,Meeker,1992,"  21,030 ","  7,751 ",2.71
+County,Mille Lacs,1992,"  18,993 ","  7,063 ",2.69
+County,Morrison,1992,"  30,095 ","  10,620 ",2.83
+County,Mower,1992,"  37,453 ","  15,119 ",2.48
+County,Murray,1992,"  9,597 ","  3,740 ",2.57
+County,Nicollet,1992,"  28,697 ","  9,820 ",2.92
+County,Nobles,1992,"  20,140 ","  7,809 ",2.58
+County,Norman,1992,"  7,889 ","  3,083 ",2.56
+County,Olmsted,1992,"  111,081 ","  42,189 ",2.63
+County,Otter Tail,1992,"  51,137 ","  19,790 ",2.58
+County,Pennington,1992,"  13,252 ","  5,170 ",2.56
+County,Pine,1992,"  21,755 ","  7,789 ",2.79
+County,Pipestone,1992,"  10,440 ","  4,066 ",2.57
+County,Polk,1992,"  32,692 ","  12,095 ",2.70
+County,Pope,1992,"  10,723 ","  4,136 ",2.59
+County,Ramsey,1992,"  490,258 ","  192,434 ",2.55
+County,Red Lake,1992,"  4,485 ","  1,718 ",2.61
+County,Redwood,1992,"  17,272 ","  6,593 ",2.62
+County,Renville,1992,"  17,563 ","  6,758 ",2.60
+County,Rice,1992,"  50,492 ","  16,890 ",2.99
+County,Rock,1992,"  9,750 ","  3,755 ",2.60
+County,Roseau,1992,"  15,295 ","  5,558 ",2.75
+County,Scott,1992,"  61,960 ","  20,787 ",2.98
+County,Sherburne,1992,"  44,949 ","  14,667 ",3.06
+County,Sibley,1992,"  14,336 ","  5,337 ",2.69
+County,St. Louis,1992,"  199,260 ","  79,333 ",2.51
+County,Stearns,1992,"  122,240 ","  41,259 ",2.96
+County,Steele,1992,"  31,087 ","  11,599 ",2.68
+County,Stevens,1992,"  10,592 ","  3,814 ",2.78
+County,Swift,1992,"  10,616 ","  4,245 ",2.50
+County,Todd,1992,"  23,402 ","  8,650 ",2.71
+County,Traverse,1992,"  4,383 ","  1,751 ",2.50
+County,Wabasha,1992,"  19,990 ","  7,417 ",2.70
+County,Wadena,1992,"  13,144 ","  4,989 ",2.63
+County,Waseca,1992,"  17,990 ","  6,701 ",2.68
+County,Washington,1992,"  156,276 ","  52,999 ",2.95
+County,Watonwan,1992,"  11,643 ","  4,534 ",2.57
+County,Wilkin,1992,"  7,449 ","  2,787 ",2.67
+County,Winona,1992,"  48,113 ","  17,259 ",2.79
+County,Wright,1992,"  70,984 ","  24,004 ",2.96
+County,Yellow Medicine,1992,"  11,589 ","  4,587 ",2.53
+State,Minnesota,1991,"  4,416,292 ","  1,668,494 ",2.58
+EDR,01 (Northwest),1991,"  89,968 ","  33,974 ",2.58
+EDR,02 (Headwaters),1991,"  67,150 ","  24,413 ",2.66
+EDR,03 (Arrowhead),1991,"  310,324 ","  122,632 ",2.47
+EDR,04 (West Central),1991,"  197,595 ","  73,876 ",2.57
+EDR,05 (North Central),1991,"  133,189 ","  50,081 ",2.61
+EDR,06E (Southwest Central),1991,"  109,603 ","  40,827 ",2.63
+EDR,06W (Upper MN Valley),1991,"  50,527 ","  19,997 ",2.46
+EDR,07E (East Central),1991,"  110,949 ","  39,445 ",2.74
+EDR,07W (Central),1991,"  265,311 ","  89,807 ",2.85
+EDR,08 (Southwest),1991,"  122,831 ","  47,182 ",2.53
+EDR,09 (South Central),1991,"  216,707 ","  80,459 ",2.58
+EDR,10 (Southeast),1991,"  423,606 ","  157,594 ",2.59
+EDR,11 (7 County Twin Cities),1991,"  2,318,532 ","  888,207 ",2.56
+County,Aitkin,1991,"  12,405 ","  5,167 ",2.40
+County,Anoka,1991,"  248,677 ","  84,458 ",2.94
+County,Becker,1991,"  27,920 ","  10,542 ",2.65
+County,Beltrami,1991,"  34,703 ","  12,085 ",2.87
+County,Benton,1991,"  31,071 ","  11,391 ",2.73
+County,Big Stone,1991,"  6,226 ","  2,440 ",2.55
+County,Blue Earth,1991,"  54,194 ","  19,439 ",2.79
+County,Brown,1991,"  26,999 ","  10,355 ",2.61
+County,Carlton,1991,"  29,230 ","  10,913 ",2.68
+County,Carver,1991,"  49,312 ","  17,161 ",2.87
+County,Cass,1991,"  21,903 ","  8,392 ",2.61
+County,Chippewa,1991,"  13,162 ","  5,229 ",2.52
+County,Chisago,1991,"  31,363 ","  10,900 ",2.88
+County,Clay,1991,"  50,548 ","  17,644 ",2.86
+County,Clearwater,1991,"  8,276 ","  3,070 ",2.70
+County,Cook,1991,"  3,880 ","  1,653 ",2.35
+County,Cottonwood,1991,"  12,634 ","  5,043 ",2.51
+County,Crow Wing,1991,"  44,964 ","  17,558 ",2.56
+County,Dakota,1991,"  282,632 ","  101,051 ",2.80
+County,Dodge,1991,"  15,884 ","  5,612 ",2.83
+County,Douglas,1991,"  28,849 ","  11,096 ",2.60
+County,Faribault,1991,"  16,857 ","  6,767 ",2.49
+County,Fillmore,1991,"  20,846 ","  7,879 ",2.65
+County,Freeborn,1991,"  33,030 ","  13,053 ",2.53
+County,Goodhue,1991,"  40,929 ","  15,398 ",2.66
+County,Grant,1991,"  6,229 ","  2,449 ",2.54
+County,Hennepin,1991,"  1,039,099 ","  422,649 ",2.46
+County,Houston,1991,"  18,567 ","  6,902 ",2.69
+County,Hubbard,1991,"  15,056 ","  5,859 ",2.57
+County,Isanti,1991,"  26,516 ","  9,090 ",2.92
+County,Itasca,1991,"  40,864 ","  15,586 ",2.62
+County,Jackson,1991,"  11,583 ","  4,534 ",2.55
+County,Kanabec,1991,"  12,881 ","  4,803 ",2.68
+County,Kandiyohi,1991,"  38,973 ","  14,441 ",2.70
+County,Kittson,1991,"  5,712 ","  2,259 ",2.53
+County,Koochiching,1991,"  15,808 ","  6,055 ",2.61
+County,Lac qui Parle,1991,"  8,865 ","  3,482 ",2.55
+County,Lake,1991,"  10,370 ","  4,242 ",2.44
+County,Lake of the Woods,1991,"  4,093 ","  1,590 ",2.57
+County,Le Sueur,1991,"  23,346 ","  8,561 ",2.73
+County,Lincoln,1991,"  6,848 ","  2,700 ",2.54
+County,Lyon,1991,"  24,774 ","  9,097 ",2.72
+County,Mahnomen,1991,"  5,022 ","  1,809 ",2.78
+County,Marshall,1991,"  10,916 ","  4,185 ",2.61
+County,Martin,1991,"  22,870 ","  9,139 ",2.50
+County,McLeod,1991,"  32,155 ","  11,928 ",2.70
+County,Meeker,1991,"  20,891 ","  7,692 ",2.72
+County,Mille Lacs,1991,"  18,786 ","  6,994 ",2.69
+County,Morrison,1991,"  29,785 ","  10,511 ",2.83
+County,Mower,1991,"  37,340 ","  15,053 ",2.48
+County,Murray,1991,"  9,602 ","  3,741 ",2.57
+County,Nicollet,1991,"  28,383 ","  9,677 ",2.93
+County,Nobles,1991,"  19,991 ","  7,707 ",2.59
+County,Norman,1991,"  7,936 ","  3,102 ",2.56
+County,Olmsted,1991,"  108,606 ","  41,141 ",2.64
+County,Otter Tail,1991,"  50,814 ","  19,636 ",2.59
+County,Pennington,1991,"  13,261 ","  5,171 ",2.56
+County,Pine,1991,"  21,403 ","  7,658 ",2.79
+County,Pipestone,1991,"  10,458 ","  4,074 ",2.57
+County,Polk,1991,"  32,467 ","  12,038 ",2.70
+County,Pope,1991,"  10,713 ","  4,130 ",2.59
+County,Ramsey,1991,"  488,363 ","  191,724 ",2.55
+County,Red Lake,1991,"  4,512 ","  1,727 ",2.61
+County,Redwood,1991,"  17,170 ","  6,535 ",2.63
+County,Renville,1991,"  17,584 ","  6,766 ",2.60
+County,Rice,1991,"  49,789 ","  16,598 ",3.00
+County,Rock,1991,"  9,771 ","  3,751 ",2.60
+County,Roseau,1991,"  15,164 ","  5,492 ",2.76
+County,Scott,1991,"  59,785 ","  20,080 ",2.98
+County,Sherburne,1991,"  43,638 ","  14,236 ",3.07
+County,Sibley,1991,"  14,337 ","  5,326 ",2.69
+County,St. Louis,1991,"  197,767 ","  79,016 ",2.50
+County,Stearns,1991,"  120,860 ","  40,626 ",2.97
+County,Steele,1991,"  30,868 ","  11,484 ",2.69
+County,Stevens,1991,"  10,607 ","  3,815 ",2.78
+County,Swift,1991,"  10,664 ","  4,257 ",2.51
+County,Todd,1991,"  23,407 ","  8,637 ",2.71
+County,Traverse,1991,"  4,428 ","  1,765 ",2.51
+County,Wabasha,1991,"  19,773 ","  7,331 ",2.70
+County,Wadena,1991,"  13,130 ","  4,983 ",2.63
+County,Waseca,1991,"  18,087 ","  6,672 ",2.71
+County,Washington,1991,"  150,664 ","  51,084 ",2.95
+County,Watonwan,1991,"  11,634 ","  4,523 ",2.57
+County,Wilkin,1991,"  7,487 ","  2,799 ",2.67
+County,Winona,1991,"  47,974 ","  17,143 ",2.80
+County,Wright,1991,"  69,742 ","  23,554 ",2.96
+County,Yellow Medicine,1991,"  11,610 ","  4,589 ",2.53
+State,Minnesota,1990,"  4,375,665 ","  1,647,974 ",2.58
+EDR,01 (Northwest),1990,"  90,181 ","  33,930 ",2.59
+EDR,02 (Headwaters),1990,"  66,752 ","  24,096 ",2.67
+EDR,03 (Arrowhead),1990,"  311,342 ","  122,229 ",2.47
+EDR,04 (West Central),1990,"  197,295 ","  73,460 ",2.58
+EDR,05 (North Central),1990,"  132,161 ","  49,472 ",2.62
+EDR,06E (Southwest Central),1990,"  109,310 ","  40,554 ",2.64
+EDR,06W (Upper MN Valley),1990,"  50,845 ","  20,088 ",2.47
+EDR,07E (East Central),1990,"  109,178 ","  38,602 ",2.75
+EDR,07W (Central),1990,"  260,164 ","  87,476 ",2.87
+EDR,08 (Southwest),1990,"  123,359 ","  47,224 ",2.53
+EDR,09 (South Central),1990,"  216,321 ","  79,947 ",2.59
+EDR,10 (Southeast),1990,"  420,094 ","  155,422 ",2.60
+EDR,11 (7 County Twin Cities),1990,"  2,288,663 ","  875,474 ",2.56
+County,Aitkin,1990,"  12,425 ","  5,126 ",2.42
+County,Anoka,1990,"  243,641 ","  82,437 ",2.96
+County,Becker,1990,"  27,881 ","  10,477 ",2.66
+County,Beltrami,1990,"  34,384 ","  11,870 ",2.90
+County,Benton,1990,"  30,185 ","  10,935 ",2.76
+County,Big Stone,1990,"  6,285 ","  2,463 ",2.55
+County,Blue Earth,1990,"  54,044 ","  19,277 ",2.80
+County,Brown,1990,"  26,984 ","  10,321 ",2.61
+County,Carlton,1990,"  29,259 ","  10,842 ",2.70
+County,Carver,1990,"  47,915 ","  16,601 ",2.89
+County,Cass,1990,"  21,791 ","  8,302 ",2.62
+County,Chippewa,1990,"  13,228 ","  5,245 ",2.52
+County,Chisago,1990,"  30,521 ","  10,551 ",2.89
+County,Clay,1990,"  50,422 ","  17,490 ",2.88
+County,Clearwater,1990,"  8,309 ","  3,064 ",2.71
+County,Cook,1990,"  3,868 ","  1,632 ",2.37
+County,Cottonwood,1990,"  12,694 ","  5,060 ",2.51
+County,Crow Wing,1990,"  44,249 ","  17,204 ",2.57
+County,Dakota,1990,"  275,227 ","  98,293 ",2.80
+County,Dodge,1990,"  15,731 ","  5,538 ",2.84
+County,Douglas,1990,"  28,674 ","  10,988 ",2.61
+County,Faribault,1990,"  16,937 ","  6,772 ",2.50
+County,Fillmore,1990,"  20,777 ","  7,822 ",2.66
+County,Freeborn,1990,"  33,060 ","  13,029 ",2.54
+County,Goodhue,1990,"  40,690 ","  15,198 ",2.68
+County,Grant,1990,"  6,246 ","  2,454 ",2.55
+County,Hennepin,1990,"  1,032,431 ","  419,060 ",2.46
+County,Houston,1990,"  18,497 ","  6,844 ",2.70
+County,Hubbard,1990,"  14,939 ","  5,781 ",2.58
+County,Isanti,1990,"  25,921 ","  8,810 ",2.94
+County,Itasca,1990,"  40,863 ","  15,461 ",2.64
+County,Jackson,1990,"  11,677 ","  4,560 ",2.56
+County,Kanabec,1990,"  12,802 ","  4,753 ",2.69
+County,Kandiyohi,1990,"  38,761 ","  14,298 ",2.71
+County,Kittson,1990,"  5,767 ","  2,274 ",2.54
+County,Koochiching,1990,"  16,299 ","  6,025 ",2.71
+County,Lac qui Parle,1990,"  8,924 ","  3,505 ",2.55
+County,Lake,1990,"  10,415 ","  4,242 ",2.46
+County,Lake of the Woods,1990,"  4,076 ","  1,576 ",2.59
+County,Le Sueur,1990,"  23,239 ","  8,468 ",2.74
+County,Lincoln,1990,"  6,890 ","  2,704 ",2.55
+County,Lyon,1990,"  24,789 ","  9,073 ",2.73
+County,Mahnomen,1990,"  5,044 ","  1,805 ",2.79
+County,Marshall,1990,"  10,993 ","  4,194 ",2.62
+County,Martin,1990,"  22,914 ","  9,129 ",2.51
+County,McLeod,1990,"  32,030 ","  11,815 ",2.71
+County,Meeker,1990,"  20,846 ","  7,651 ",2.72
+County,Mille Lacs,1990,"  18,670 ","  6,911 ",2.70
+County,Morrison,1990,"  29,604 ","  10,399 ",2.85
+County,Mower,1990,"  37,385 ","  15,028 ",2.49
+County,Murray,1990,"  9,660 ","  3,758 ",2.57
+County,Nicollet,1990,"  28,076 ","  9,478 ",2.96
+County,Nobles,1990,"  20,098 ","  7,683 ",2.62
+County,Norman,1990,"  7,975 ","  3,118 ",2.56
+County,Olmsted,1990,"  106,470 ","  40,058 ",2.66
+County,Otter Tail,1990,"  50,714 ","  19,510 ",2.60
+County,Pennington,1990,"  13,306 ","  5,173 ",2.57
+County,Pine,1990,"  21,264 ","  7,577 ",2.81
+County,Pipestone,1990,"  10,491 ","  4,078 ",2.57
+County,Polk,1990,"  32,498 ","  11,984 ",2.71
+County,Pope,1990,"  10,745 ","  4,135 ",2.60
+County,Ramsey,1990,"  485,765 ","  190,500 ",2.55
+County,Red Lake,1990,"  4,525 ","  1,730 ",2.62
+County,Redwood,1990,"  17,254 ","  6,554 ",2.63
+County,Renville,1990,"  17,673 ","  6,790 ",2.60
+County,Rice,1990,"  49,183 ","  16,347 ",3.01
+County,Rock,1990,"  9,806 ","  3,754 ",2.61
+County,Roseau,1990,"  15,026 ","  5,415 ",2.77
+County,Scott,1990,"  57,846 ","  19,367 ",2.99
+County,Sherburne,1990,"  41,945 ","  13,643 ",3.07
+County,Sibley,1990,"  14,366 ","  5,323 ",2.70
+County,St. Louis,1990,"  198,213 ","  78,901 ",2.51
+County,Stearns,1990,"  118,791 ","  39,776 ",2.99
+County,Steele,1990,"  30,729 ","  11,342 ",2.71
+County,Stevens,1990,"  10,634 ","  3,823 ",2.78
+County,Swift,1990,"  10,724 ","  4,268 ",2.51
+County,Todd,1990,"  23,363 ","  8,589 ",2.72
+County,Traverse,1990,"  4,463 ","  1,778 ",2.51
+County,Wabasha,1990,"  19,744 ","  7,286 ",2.71
+County,Wadena,1990,"  13,154 ","  4,978 ",2.64
+County,Waseca,1990,"  18,079 ","  6,649 ",2.72
+County,Washington,1990,"  145,896 ","  49,246 ",2.96
+County,Watonwan,1990,"  11,682 ","  4,530 ",2.58
+County,Wilkin,1990,"  7,516 ","  2,805 ",2.68
+County,Winona,1990,"  47,828 ","  16,930 ",2.83
+County,Wright,1990,"  68,710 ","  23,013 ",2.99
+County,Yellow Medicine,1990,"  11,684 ","  4,607 ",2.54
