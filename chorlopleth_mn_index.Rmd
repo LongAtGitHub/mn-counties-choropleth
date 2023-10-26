@@ -7,10 +7,9 @@ output:
     
 ---
 
-
-
-
 ## Load packages
+
+Download the following libraries (ggplot2, sf, dplyr, tidylog, and ggiprah) and load them.
 ```{r, message=FALSE}
 library(ggplot2)
 library(sf)
@@ -18,17 +17,25 @@ library(dplyr)
 library(tidylog)
 library(ggiraph)
 ```
+
 ## Data Wrangling
 
-Read MN counties data downloaded from [Minnesota Geospatial Commons](https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota): Download Shapefile. The page was found via a Google search using the term `Minnesota Shapefile`. 
+### Step 1
+Download the *Shapefile* data from [Minnesota Geospatial Commons](https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota). The page was found via a Google search using the term `Minnesota Shapefile`. 
+Use the `read_sf` function from the `sf` library to capture the data to a table. We will call it `mn`.
 ```{r, message=FALSE}
 mn <- read_sf("./mn_shapefile_2/", "mn_county_boundaries_500")
 head(mn)
 ```
 
+### Step 2
+* Next, get the Minnesota population data in year 2010 to get more features like population, households, and persons per household. \
+* From the [Popfinder for Minnesota Counties](https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/pop-finder1.jsp), press *Download all the data in this PopFinder tool. (Excel file)* \
+* Move the Excel file to the working folder (meaning the same folder as your R file) and name it to `mn_county_bigdata.cvs`.
 
-Load additional Minnesota population data in year 2010.
-Source: https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/pop-finder1.jsp
+### Step 3
+
+Clean the data by just considering the county geography type and the year 2010 from the data.
 
 ```{r, message=FALSE}
 mn_clean <- read.csv("mn_county_bigdata.csv")
@@ -37,14 +44,15 @@ mn_clean <- mn_clean %>%
 head(mn_clean)
 ```
 
-
+Perform a left join to to our main data `mn` so it will have the additional features.
 ```{r, message=FALSE}
 # Add Households and Persons Per Household variables to the main data table
 mn <- mn %>% left_join(mn_clean, by = c("CTY_NAME" = "Geography.Name"))
 ```
 
+### Step 4
 
-
+Now, let's create categories for the population from very small to very large. 
 
 ```{r, message=FALSE}
 # Define the breakpoints for the categories for population
@@ -60,9 +68,9 @@ mn$pop_category <- cut(mn$Pop_int, breaks = breakpoints, labels = c("very small"
 
 ```
 
+This code chunk below combines the wanted features of a county into a character string. This helps as when you hover over a county on the map, it displays the correct information of name, population, households, and persons per household.
+
 ```{r, message=FALSE}
-# combine multiple variables into a character string to display on the plotly map
-# (one per county)
 mn <- mn %>%
   mutate(info = paste(
     "Name: ", CTY_NAME,
@@ -74,21 +82,22 @@ mn <- mn %>%
 ```
 
 
-Raw Plot using ggplot
+## Step 5
 
+Let's plot a static choropleth map showing Minnesota counties by population in 2010 first. We use ggplot with passed in parameters below. 
 
 ```{r, fig.alt="Choropleth map showing Minnesota counties by population in 2010" }
 plot <- ggplot(mn, aes(fill = pop_category)) +
-  geom_sf(colour = "white") +
-    geom_sf_interactive(aes(geometry = geometry,
-        tooltip = info)) +
+  geom_sf() + # call geom shapefile
+  geom_sf_interactive(aes(geometry = geometry, tooltip = info)) + 
+  # this helps with the future interactive feature
   scale_fill_manual(
     values = c(
       "very small" = "#eff3ff",
       "small" = "#bdd7e7",
       "medium" = "#6baed6",
       "large" = "#3182bd",
-      "very large" = "#08519c") ) +
+      "very large" = "#08519c") ) # color scheme to match the category +
   labs(title = "Minnesota counties by population category in 2010") +
   theme(legend.position = "right")
 
@@ -96,6 +105,7 @@ plot
 ```
 
 ## Final Product
+Finally, we use this code below to produce the interactive map
 
 ```{r,fig.alt="Interactive choropleth map showing Minnesota counties by population in 2010"}
 final <- ggiraph(code = print(plot))  
